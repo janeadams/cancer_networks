@@ -1,0 +1,1677 @@
+DepMap_ID,CCLE_Name,Aliases,COSMIC_ID,Sanger ID,Primary Disease,Subtype Disease,Gender,Source
+ACH-000001,NIHOVCAR3_OVARY,NIH:OVCAR-3;OVCAR3,905933,2201,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,ATCC
+ACH-000002,HL60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HL-60,905938,55,Leukemia,"Acute Myelogenous Leukemia (AML), M3 (Promyelocytic)",Female,ATCC
+ACH-000003,CACO2_LARGE_INTESTINE,CACO2;CACO2;CaCo-2,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,-1,
+ACH-000004,HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HEL,907053,783,Leukemia,"Acute Myelogenous Leukemia (AML), M6 (Erythroleukemia)",Male,DSMZ
+ACH-000005,HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HEL 92.1.7,,,Leukemia,"Acute Myelogenous Leukemia (AML), M6 (Erythroleukemia)",Male,ATCC
+ACH-000006,MONOMAC6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MONO-MAC-6,908148,2167,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",Male,DSMZ
+ACH-000007,LS513_LARGE_INTESTINE,LS513,907795,569,Colon/Colorectal Cancer,Colon Carcinoma,Male,ATCC
+ACH-000009,C2BBE1_LARGE_INTESTINE,C2BBe1,910700,2104,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000010,NCIH2077_LUNG,NCI-H2077;NCI-H1581,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-000011,253J_URINARY_TRACT,253J,,,Bladder Cancer,Carcinoma,,KCLB
+ACH-000012,HCC827_LUNG,HCC827,1240146,354,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000013,ONCODG1_OVARY,ONCO-DG-1,,,Ovarian Cancer,Adenocarcinoma,Female,DSMZ
+ACH-000014,HS294T_SKIN,Hs 294T;A101D;Hs 294.T,,,Skin Cancer,Melanoma,Male,ATCC
+ACH-000015,NCIH1581_LUNG,NCI-H1581;NCI-H2077,908471,1237,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000016,SLR21_KIDNEY,SLR 21,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000017,SKBR3_BREAST,SK-BR-3,,,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000018,T24_URINARY_TRACT,T24,724812,1455,Bladder Cancer,Carcinoma,Female,ATCC
+ACH-000019,MCF7_BREAST,MCF7,905946,588,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000492,MUTZ5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MUTZ-5,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,DSMZ
+ACH-000021,NCIH1693_LUNG,NCI-H1693,687802,634,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000022,PATU8988S_PANCREAS,PA-TU-8988S,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,DSMZ
+ACH-000023,PATU8988T_PANCREAS,PA-TU-8988T,1240201,1242,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,DSMZ
+ACH-000024,OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OPM-2,909249,112,Myeloma,Multiple Myeloma,Female,DSMZ
+ACH-000036,U343_CENTRAL_NERVOUS_SYSTEM,U343,,,Brain Cancer,Glioblastoma,,
+ACH-000026,253JBV_URINARY_TRACT,253J-BV,,,Bladder Cancer,Carcinoma,,
+ACH-000027,GOS3_CENTRAL_NERVOUS_SYSTEM,GOS-3,,,Brain Cancer,Glioblastoma,Male,DSMZ
+ACH-000028,KPL1_BREAST,KPL-1,,,Breast Cancer,Carcinoma,Female,DSMZ
+ACH-000053,KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KARPAS-299,907273,906,Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",Male,ECAAC
+ACH-000030,PC14_LUNG,PC-14,753608,198,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,RIKEN
+ACH-000031,PANC0213_PANCREAS,Panc 02.13,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-000032,MHHCALL3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MHH-CALL-3,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,DSMZ
+ACH-000033,NCIH1819_LUNG,NCI-H1819,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",-1,
+ACH-000034,PLB985_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,PLB985;PLB-985,,,Leukemia,Acute Myelogenous Leukemia (AML),,
+ACH-000035,NCIH1650_LUNG,NCI-H1650,687800,1548,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Male,ATCC
+ACH-000127,SLR20_KIDNEY,SLR 20,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000037,S117_THYROID,S-117,,,Sarcoma,Unknown,Female,DSMZ
+ACH-000371,RL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,RL,910861,1273,Lymphoma,"B-cell, Non-Hodgkins",Male,ATCC
+ACH-000052,A673_BONE,A-673,684052,660,Bone Cancer,Ewings Sarcoma,Female,ATCC
+ACH-000040,U118MG_CENTRAL_NERVOUS_SYSTEM,U-118 MG,687588,7,Brain Cancer,Glioblastoma,,ATCC
+ACH-000210,CADOES1_BONE,CADO-ES1;CADO-ES-1,753539,1523,Bone Cancer,Ewings Sarcoma,Female,DSMZ
+ACH-000042,PANC0203_PANCREAS,Panc 02.03,1298475,1838,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-000043,HS895T_FIBROBLAST,Hs 895.T,,,Fibroblast,malignant_melanoma,Female,ATCC
+ACH-001393,SUM190PT_BREAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-000045,MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MV4;11;MV-4-11,908156,133,Leukemia,Acute Myelogenous Leukemia (AML),Male,ATCC
+ACH-000046,ACHN_KIDNEY,ACHN,905950,371,Kidney Cancer,Renal Cell Adenocarcinoma,Male,ATCC
+ACH-000047,GCIY_STOMACH,GCIY,906869,1414,Gastric Cancer,Adenocarcinoma,Female,RIKEN
+ACH-000048,TOV112D_OVARY,TOV-112D,1299070,5,Ovarian Cancer,"Adenocarcinoma, endometrioid",Female,ATCC
+ACH-000049,HEKTE_KIDNEY,HEK TE,,,Kidney Cancer,Immortalized,,
+ACH-000050,NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NCI-H929,724825,1230,Myeloma,"Multiple Myeloma, plasmacytoma",Female,ATCC
+ACH-000051,TE617T_SOFT_TISSUE,TE 617.T,,,Sarcoma,Rhabdomyosarcoma,Female,ATCC
+ACH-001022,CBAGPN_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-000169,RD_SOFT_TISSUE,RD,909264,1763,Sarcoma,"Rhabdomyosarcoma, embryonal",Female,ATCC
+ACH-000054,HT1080_SOFT_TISSUE,HT-1080,907064,1391,Sarcoma,Fibrosarcoma,Male,ATCC
+ACH-000055,D283MED_CENTRAL_NERVOUS_SYSTEM,D283 Med;D283,906834,1184,Brain Cancer,Medulloblastoma,Male,ATCC
+ACH-000056,DOHH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,DOHH-2,906842,1339,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000057,OPM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OPM-1,,,Myeloma,Multiple Myeloma,-1,
+ACH-000058,ML1_THYROID,ML-1,1240178,1227,Thyroid Cancer,"Carcinoma, follicular",,DSMZ
+ACH-000156,MHHCALL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MHH-CALL-4,908133,2070,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,DSMZ
+ACH-000060,PANC1005_PANCREAS,Panc 10.05,925348,197,Pancreatic Cancer,Carcinoma,Male,ATCC
+ACH-000061,HH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HH,907056,310,Lymphoma,"T-cell, Non-Hodgkins, Cutaneous",Male,ATCC
+ACH-000062,RERFLCMS_LUNG,RERF-LC-MS,910931,2051,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,JCRB
+ACH-000063,HS616T_FIBROBLAST,,,,Lymphoma,"B-Cell, Hodgkins",Male,
+ACH-000064,SALE_LUNG,SALE,,,Lung Cancer,Immortalized,,
+ACH-000065,OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OCI-AML5,1330983,2130,Leukemia,Acute Myelogenous Leukemia (AML),Male,DSMZ
+ACH-000066,HCC4006_LUNG,HCC4006,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000067,HS683_CENTRAL_NERVOUS_SYSTEM,Hs 683,1240150,769,Brain Cancer,Glioma,Male,ATCC
+ACH-000069,HS611T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Hs 611.T,,,Lymphoma,"B-cell, Hodgkins",Female,ATCC
+ACH-001498,FARAGE_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1297449,1772,Lymphoma,"B-cell, Non-Hodgkins",Female,
+ACH-000071,HS706T_BONE,,,,fibroblast,giant_cell_tumor,Female,ATCC
+ACH-000072,MEG01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MEG-01,908126,1263,Leukemia,Chronic Myelogenous Leukemia (CML),Male,ATCC
+ACH-000220,MINO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Mino,,,Lymphoma,"B-cell, Non-Hodgkins, Mantle Cell",Male,ATCC
+ACH-000074,KU812_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KU812,907311,598,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Male,ATCC
+ACH-000075,U87MG_CENTRAL_NERVOUS_SYSTEM,U-87 MG,687590,549,Brain Cancer,Glioblastoma,Female,ATCC
+ACH-000076,NCO2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NCO2,,,Leukemia,Chronic Myelogenous Leukemia (CML),Female,HSSRB
+ACH-000077,MJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MJ,,,Lymphoma,"T-cell, Non-Hodgkins, Cutaneous",Male,ATCC
+ACH-000078,MHHNB11_AUTONOMIC_GANGLIA,MHH-NB-11,908135,1818,Neuroblastoma,Unknown,Male,DSMZ
+ACH-000079,TE125T_FIBROBLAST,TE 125.T,,,Fibroblast,Rhabdomyosarcoma,Female,ATCC
+ACH-000070,697_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,697,906800,63,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,DSMZ
+ACH-000081,GDM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,GDM-1,906870,164,Leukemia,Acute Myelogenous Leukemia (AML),Female,ATCC
+ACH-000082,G292CLONEA141B1_BONE,G-292;clone A141B1;G292CLONEA141B1;G-292 clone A141B1,1290807,661,Bone Cancer,Osteosarcoma,Female,ATCC
+ACH-000083,HS281T_FIBROBLAST,Hs 281.T,,,Fibroblast,Unknown,Female,ATCC
+ACH-000084,MUTZ3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MUTZ3,,,Leukemia,Acute Myelogenous Leukemia (AML),Male,DSMZ
+ACH-000085,T3M4_PANCREAS,T3M-4,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,RIKEN
+ACH-000086,ACCMESO1_PLEURA,ACC-MESO-1,,,Lung Cancer,Mesothelioma,,RIKEN
+ACH-000088,HS172T_FIBROBLAST,,,,Fibroblast,Unknown,Male,ATCC
+ACH-000089,NCIH684_LARGE_INTESTINE,NCI-H684,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,-1,KCLB
+ACH-000090,PC3_PROSTATE,PC-3,905934,911,Prostate Cancer,Adenocarcinoma,Male,ATCC
+ACH-000091,OV56_OVARY,OV56,1480362,686,Ovarian Cancer,"Carcinoma, serous",Female,ECACC
+ACH-000092,NCIH2452_PLEURA,NCI-H2452,908462,624,Lung Cancer,Mesothelioma,Male,ATCC
+ACH-000093,PANC0504_PANCREAS,Panc 05.04,,,Pancreatic Cancer,Carcinoma,Female,ATCC
+ACH-000094,HPAFII_PANCREAS,HPAF-II,724869,889,Pancreatic Cancer,Carcinoma,Male,ATCC
+ACH-000095,D341MED_CENTRAL_NERVOUS_SYSTEM,D341;D341MED,,,Brain Cancer,Medulloblastoma,Male,ATCC
+ACH-000096,G401_SOFT_TISSUE,G-401,907299,962,Rhabdoid,Malignant Rhabdoid Tumor,Male,ATCC
+ACH-000097,ZR751_BREAST,ZR-75-1,,,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000098,GAMG_CENTRAL_NERVOUS_SYSTEM,GAMG,906868,1174,Brain Cancer,Glioblastoma,Female,DSMZ
+ACH-000099,SIMA_AUTONOMIC_GANGLIA,SIMA,753620,2076,Neuroblastoma,Unknown,Male,DSMZ
+ACH-000100,RH41_SOFT_TISSUE,RH-41,1240210,2052,Sarcoma,"Rhabdomyosarcoma, alveolar",Female,DSMZ
+ACH-000101,KE37_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KE-37,907277,1012,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-000102,GMS10_CENTRAL_NERVOUS_SYSTEM,GMS-10,906873,294,Brain Cancer,Glioblastoma,Male,DSMZ
+ACH-000103,CAOV4_OVARY,Caov-4,949090,1524,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,ATCC
+ACH-000782,SEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,DSMZ
+ACH-000938,NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908158,973,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,DSMZ
+ACH-000287,NUDUL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NU-DUL-1,1330982,95,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000107,CAPAN2_PANCREAS,Capan-2,910915,703,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000108,KP3_PANCREAS,KP-3,1298219,155,Pancreatic Cancer,"Ductal Adenosquamous Carcinoma, exocrine",Male,HSSRB
+ACH-000109,NCIH3255_LUNG,NCI-H3255,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Academic Lab
+ACH-000110,NCCSTCK140_STOMACH,NCC-StC-K140,,,Gastric Cancer,Carcinoma,Female,RIKEN
+ACH-001820,COLO824_BREAST,,,,Breast Cancer,Unknown,,
+ACH-000112,SIGM5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SIG-M5,909715,656,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",Male,DSMZ
+ACH-000113,OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OCI-AML2,910947,749,Leukemia,"Acute Myelogenous Leukemia (AML), M4 (Myelomonocytic)",Male,DSMZ
+ACH-000114,SU8686_PANCREAS,SU.86.86,1240218,268,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-000115,VCAP_PROSTATE,VCaP,1299075,2154,Prostate Cancer,Adenocarcinoma,Male,ATCC
+ACH-000116,OAW28_OVARY,OAW28,946360,173,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,ECACC
+ACH-001395,SUM44PE_BREAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-000118,HUPT3_PANCREAS,HUP-T3,907285,109,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,DSMZ
+ACH-000119,HS863T_FIBROBLAST,Hs 863.T,,,Fibroblast,ewings_sarcoma,Female,ATCC
+ACH-000120,CHP212_AUTONOMIC_GANGLIA,CHP-212,906820,13,Neuroblastoma,Unknown,,ATCC
+ACH-000121,NCIH2405_LUNG,NCI-H2405,687821,82,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000080,BDCM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,BDCM,,,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Eosinophilic)",Male,ATCC
+ACH-000123,COV434_OVARY,COV434,,,Ovarian Cancer,"Small Cell Carcinoma of the Ovary Hypercalcemic Type (SCCOHT), granulosa",Female,ECACC
+ACH-000124,OCILY19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OCI-LY-19,1330984,1972,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,DSMZ
+ACH-000125,TO175T_FIBROBLAST,TO 175.T,,,Lymphoma,"B-Cell, Hodgkins",Male,ATCC
+ACH-000126,KG1C_CENTRAL_NERVOUS_SYSTEM,KG-1-C,,,Brain Cancer,Oligodendroglioma,Male,HSRRB
+ACH-000208,U178_CENTRAL_NERVOUS_SYSTEM,U-178,,,Brain Cancer,Glioblastoma,Male,
+ACH-000215,LN382_CENTRAL_NERVOUS_SYSTEM,LN382;LN-382,,,Brain Cancer,Glioblastoma,Male,
+ACH-000129,NCIH1341_LUNG,NCI-H1341,1330964,1825,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-001106,KOPN8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330933,1206,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,DSMZ
+ACH-000131,HS229T_FIBROBLAST,Hs 229.T,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000132,JHOS2_OVARY,JHOS-2,1479995,436,Ovarian Cancer,"Adenocarcinoma, serous",Female,RIKEN
+ACH-000133,HS729_SOFT_TISSUE,Hs 729,,,Fibroblast,,Male,ATCC
+ACH-000134,HS274T_FIBROBLAST,HS274T,,,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000135,HS940T_FIBROBLAST,Hs 940.T,1298145,707,Skin Cancer,Melanoma,Male,ATCC
+ACH-000136,CHP126_AUTONOMIC_GANGLIA,CHP-126,910567,38,Neuroblastoma,Unknown,Female,DSMZ
+ACH-000137,8MGBA_CENTRAL_NERVOUS_SYSTEM,8-MG-BA,687562,1207,Brain Cancer,Glioblastoma,Female,DSMZ
+ACH-000138,CFPAC1_PANCREAS,CFPAC-1,906821,572,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000139,PANC0327_PANCREAS,Panc 03.27,925346,1873,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-000140,PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Pfeiffer,,,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,ATCC
+ACH-000141,SNU308_BILIARY_TRACT,SNU-308,,,Gallbladder Cancer,Adenocarcinoma,,KCLB
+ACH-000142,CAL29_URINARY_TRACT,CAL-29,1290730,2040,Bladder Cancer,Transitional Cell Carcinoma,Female,DSMZ
+ACH-000226,SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SUP-M2,1331040,1878,Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",Female,DSMZ
+ACH-000144,RERFGC1B_STOMACH,RERF-GC-1B,1240209,285,Gastric Cancer,Stomach Adenocarcinoma,Male,HSRRB
+ACH-000145,SKLMS1_SOFT_TISSUE,SK-LMS-1,909720,1641,Sarcoma,Leiomyosarcoma,Female,ATCC
+ACH-000146,THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,THP-1,909771,770,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",Male,ATCC
+ACH-000148,HS578T_BREAST,Hs 578T,905957,655,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000149,SKNSH_AUTONOMIC_GANGLIA,SK-N-SH,717431,1165,Neuroblastoma,Unknown,Female,ATCC
+ACH-000150,HCC2935_LUNG,HCC2935,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000960,REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909696,1272,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,ATCC
+ACH-000152,M059K_CENTRAL_NERVOUS_SYSTEM,M059K,,,Brain Cancer,Glioblastoma,Male,ATCC
+ACH-000153,NCIH2052_PLEURA,NCI-H2052,688058,1485,Lung Cancer,Mesothelioma,Male,ATCC
+ACH-000154,HS888T_FIBROBLAST,HS888T,,,Bone Cancer,Osteosarcoma,Male,ATCC
+ACH-000155,SW1990_PANCREAS,SW 1990,910907,1912,Pancreatic Cancer,Ductal Adenocarcinoma,Male,ATCC
+ACH-000246,SLR23_KIDNEY,SLR 23,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000157,A4FUK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,A4/Fuk,910934,186,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,JCRB
+ACH-000158,OCILY3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OCI-LY3,,,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),,Academic Lab
+ACH-000159,OSRC2_KIDNEY,OS-RC-2,909250,1674,Kidney Cancer,Renal Cell Carcinoma,Male,RIKEN
+ACH-000160,BT12_SOFT_TISSUE,BT-12,,,Rhabdoid,Atypical Teratoid Rhabdoid Tumor (ATRT),,
+ACH-000161,CORL105_LUNG,COR-L105,906805,22,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ECACC
+ACH-000162,GA10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,GA-10,1303896,1008,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,ATCC
+ACH-000163,SW579_THYROID,SW579,,,Thyroid Cancer,Squamous Cell Carcinoma,Male,ATCC
+ACH-000164,PANC1_PANCREAS,PANC-1,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000165,HS751T_FIBROBLAST,,,,Lymphoma,Unknown,,ATCC
+ACH-000166,KASUMI6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Kasumi-6,,,Leukemia,"Acute Myelogenous Leukemia (AML), M2 (Myeloblastic)",Male,ATCC
+ACH-000167,KE97_STOMACH,KE-97,,,Gastric Cancer,"Adenocarcinoma, mucinous",Male,RIKEN
+ACH-000168,NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NOMO-1,908451,297,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",Female,HSRRB
+ACH-000262,UOK101_KIDNEY,UOK101,,,Kidney Cancer,Renal Cell Carcinoma,Female,
+ACH-000170,PRECLH_PROSTATE,PrEC LH,,,Prostate Cancer,immortalized_epithelial,,
+ACH-000171,VMRCRCZ_KIDNEY,VMRC-RCZ,909781,738,Kidney Cancer,Renal Cell Carcinoma,,HSRRB
+ACH-000172,TM87_SOFT_TISSUE,TM-87;TM87,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-000173,JHUEM3_ENDOMETRIUM,JHUEM-3,,,Endometrial/Uterine Cancer,Unknown,,RIKEN
+ACH-000174,CAL62_THYROID,CAL-62,906828,1753,Thyroid Cancer,"Carcinoma, anaplastic",Female,DSMZ
+ACH-000175,TE159T_FIBROBLAST,,,,Sarcoma,Rhabdomyosarcoma,Male,ATCC
+ACH-000176,LOUNH91_LUNG,LOU-NH91,1298226,1506,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Female,DSMZ
+ACH-000177,NCIH660_PROSTATE,NCI-H660,1330975,87,Prostate Cancer,Small Cell Carcinoma,Male,ATCC
+ACH-000178,HS766T_PANCREAS,Hs 766T,1298141,1843,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000179,NCIH1618_LUNG,NCI-H1618,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000180,HS839T_FIBROBLAST,Hs 839.T,,,Skin Cancer,Melanoma,Female,ATCC
+ACH-000181,SCC9_UPPER_AERODIGESTIVE_TRACT,SCC-9,909709,2054,Head and Neck Cancer,Squamous Cell Carcinoma,Male,ATCC
+ACH-000182,SNU869_BILIARY_TRACT,SNU-869,,,Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic, ampullary",,
+ACH-000183,L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,L-363,924239,2224,Leukemia,Plasma Cell,Female,DSMZ
+ACH-000184,HS343T_FIBROBLAST,Hs  343.T,,,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000185,HS737T_FIBROBLAST,,,,Bone Cancer,Giant Cell Tumor,Female,ATCC
+ACH-000186,NCIH2444_LUNG,NCI-H2444,1298356,1538,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",Male,ATCC
+ACH-000187,CORL311_LUNG,COR-L311,687980,1167,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000188,SCC25_UPPER_AERODIGESTIVE_TRACT,SCC-25,910701,1419,Head and Neck Cancer,Squamous Cell Carcinoma,Male,ATCC
+ACH-000189,RCC10RGB_KIDNEY,RCC10RGB,909974,1640,Kidney Cancer,Renal Cell Carcinoma,Male,RIKEN
+ACH-000190,HDMYZ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HD-MY-Z,907050,883,Lymphoma,"B-cell, Hodgkins",,DSMZ
+ACH-000191,BHT101_THYROID,BHT-101,906696,672,Thyroid Cancer,"Carcinoma, papillary",Female,DSMZ
+ACH-000192,MFE280_ENDOMETRIUM,MFE-280,908129,1540,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,DSMZ
+ACH-000193,KARPAS620_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KARPAS-620,1327775,184,Leukemia,Plasma Cell,Female,DSMZ
+ACH-000194,HS934T_FIBROBLAST,Hs 934.T,,,Skin Cancer,Melanoma,Female,ATCC
+ACH-000195,SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Set-2,,,Leukemia,Acute Myelogenous Leukemia (AML),Female,DSMZ
+ACH-000642,HMEL_BREAST,,,,Immortalized,Breast Cancer,,
+ACH-000490,SF767_CENTRAL_NERVOUS_SYSTEM,SF767,,,Brain Cancer,Astrocytoma,Female,
+ACH-000198,EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,EOL-1,906856,426,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Eosinophilic)",Male,DSMZ
+ACH-000199,HS255T_FIBROBLAST,HS255T,,,Colon/Colorectal Cancer,Unknown,Female,ATCC
+ACH-000200,NMCG1_CENTRAL_NERVOUS_SYSTEM,NMC-G1,908449,650,Brain Cancer,Glioma,,HSSRB
+ACH-000201,A204_SOFT_TISSUE,A-204,910784,349,Sarcoma,Rhabdomyosarcoma,Female,ATCC
+ACH-000202,COLO320_LARGE_INTESTINE,COLO-320,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,DSMZ
+ACH-000203,NH6_AUTONOMIC_GANGLIA,NH-6,,,Neuroblastoma,Unknown,Female,HSSRB
+ACH-000204,LP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,LP-1,907791,1794,Myeloma,Multiple Myeloma,Female,HSRRB
+ACH-000205,PK59_PANCREAS,PK-59,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",-1,JCRB
+ACH-000206,C8166_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,ATL,,
+ACH-000207,DETROIT562_UPPER_AERODIGESTIVE_TRACT,Detroit 562,906837,2075,Head and Neck Cancer,"Carcinoma, pharynx",Female,ATCC
+ACH-000591,LN235_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Male,
+ACH-000209,SNU1079_BILIARY_TRACT,SNU-1079,,,Bile Duct Cancer,Cholangiocarcinoma,,KCLB
+ACH-001029,CHLA10_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-000211,DAOY_CENTRAL_NERVOUS_SYSTEM,Daoy,906833,2150,Brain Cancer,Primitive Neuroectodermal Tumor (PNET) Medulloblastoma,Male,ATCC
+ACH-000117,EFM192A_BREAST,EFM-192A,1290798,1187,Breast Cancer,Adenocarcinoma,Female,DSMZ
+ACH-000213,HUPT4_PANCREAS,HUP-T4,907286,618,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,DSMZ
+ACH-000214,HS675T_FIBROBLAST,,,,Colon/Colorectal Cancer,Colon Carcinoma,Male,ATCC
+ACH-000600,SLR26_KIDNEY,,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000216,JHESOAD1_OESOPHAGUS,JH-EsoAd1,,,Esophageal Cancer,Adenocarcinoma,Male,
+ACH-000217,JHH6_LIVER,JHH-6,1240159,1824,Liver Cancer,Hepatocellular Carcinoma,Female,HSRRB
+ACH-000218,PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,PL-21,1330991,698,Leukemia,"Acute Myelogenous Leukemia (AML), M3 (Promyelocytic)",Male,DSMZ
+ACH-000219,A375_SKIN,A-375,906793,953,Skin Cancer,Melanoma,Female,ATCC
+ACH-000221,SNU398_LIVER,SNU-398,1240217,2169,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000222,ASPC1_PANCREAS,AsPC-1,910702,59,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-000223,HCC1937_BREAST,HCC1937,749714,936,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000224,HS819T_FIBROBLAST,,,,Bone Cancer,Chondrosarcoma,Male,ATCC
+ACH-000225,ECC12_STOMACH,ECC12,906849,2094,Gastric Cancer,Small Cell Carcinoma,Male,Riken
+ACH-000673,LN443_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Male,
+ACH-000227,KPNYN_AUTONOMIC_GANGLIA,KP-N-YN,907314,1977,Neuroblastoma,Unknown,Male,HSSRB
+ACH-000228,BICR31_UPPER_AERODIGESTIVE_TRACT,BICR 31,1290725,940,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ECACC
+ACH-000229,HS822T_FIBROBLAST,Hs 822.T,,,Bone Cancer,Ewings Sarcoma,Female,ATCC
+ACH-000230,HS742T_FIBROBLAST,Hs 742.T,,,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000231,KALS1_CENTRAL_NERVOUS_SYSTEM,KALS-1,907271,1936,Brain Cancer,Glioblastoma,Female,HSSRB
+ACH-000232,U251MG_CENTRAL_NERVOUS_SYSTEM,U-251 MG;U251-MG,905983,1913,Brain Cancer,Astrocytoma,Male,HSRRB
+ACH-000233,DEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,DEL,906836,793,Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",Male,DSMZ
+ACH-000234,CAKI2_KIDNEY,Caki-2,,,Kidney Cancer,"Renal Carcinoma, clear cell",Male,ATCC
+ACH-000235,PANC0403_PANCREAS,Panc 04.03,1298476,2123,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000236,SW1417_LARGE_INTESTINE,SW1417,909747,974,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000237,JHOM1_OVARY,JHOM-1,,,Ovarian Cancer,Adenocarcinoma,Female,RIKEN
+ACH-000238,SCC4_UPPER_AERODIGESTIVE_TRACT,SCC-4,910904,1476,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ATCC
+ACH-000239,HUG1N_STOMACH,HuG1-N,,,Gastric Cancer,"Adenocarcinoma, tubular",Male,RIKEN
+ACH-000240,HS600T_FIBROBLAST,Hs 600.T,,,Skin Cancer,Melanoma,,ATCC
+ACH-000241,JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,JK-1,,,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Male,DSMZ
+ACH-000242,RT4_URINARY_TRACT,RT4,687455,1309,Bladder Cancer,Transitional Cell Papilloma,Male,ATCC
+ACH-000243,DANG_PANCREAS,DAN-G,1290797,871,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",,DSMZ
+ACH-000244,DKMG_CENTRAL_NERVOUS_SYSTEM,DK-MG,906839,1386,Brain Cancer,Glioblastoma,Female,DSMZ
+ACH-000245,BL41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,BL-41,910706,737,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,DSMZ
+ACH-000706,EKVX_LUNG,,905970,322,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Garraway Lab
+ACH-000247,OCUM1_STOMACH,OCUM-1,1298358,1712,Gastric Cancer,"Adenocarcinoma, signet ring cell",Female,HSRRB
+ACH-000248,AU565_BREAST,AU565,910704,726,Breast Cancer,Adenocarcinoma,Female,ATCC
+ACH-000249,CL11_LARGE_INTESTINE,CL-11,1290769,1153,Colon/Colorectal Cancer,Colon Adenocarcinoma,,DSMZ
+ACH-000250,KMRC20_KIDNEY,KMRC-20,1298169,1515,Kidney Cancer,Renal Cell Carcinoma,,HSSRB
+ACH-000760,LNZ308_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Female,
+ACH-000252,LS1034_LARGE_INTESTINE,LS1034,917486,1756,Colon/Colorectal Cancer,Colon Carcinoma,Male,ATCC
+ACH-000253,COLO201_LARGE_INTESTINE,COLO 201,,,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Male,
+ACH-000254,SCC15_UPPER_AERODIGESTIVE_TRACT,SCC-15,910911,2053,Head and Neck Cancer,Unknown,Male,ATCC
+ACH-000255,LMSU_STOMACH,LMSU,,,Gastric Cancer,Unknown,,RIKEN
+ACH-000256,COV318_OVARY,COV318,,,Ovarian Cancer,"Carcinoma, serous",Female,ECACC
+ACH-000257,CORL279_LUNG,COR-L279,910937,1768,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000258,DU4475_BREAST,Du4475,906844,302,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000259,KELLY_AUTONOMIC_GANGLIA,KELLY,753618,225,Neuroblastoma,Unknown,,DSMZ
+ACH-000260,SKNAS_AUTONOMIC_GANGLIA,SK-N-AS,724828,1480,Neuroblastoma,Unknown,Female,ATCC
+ACH-000261,RERFLCAI_LUNG,RERF-LC-AI,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,RIKEN
+ACH-000773,KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",Male,HSSRB
+ACH-000263,KASUMI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KASUMI-1,907275,1196,Leukemia,"Acute Myelogenous Leukemia (AML), M2 (Myeloblastic)",Male,DSMZ
+ACH-000264,CALU6_LUNG,Calu-6,724859,1844,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Anaplastic Carcinoma",Female,ATCC
+ACH-000265,KP4_PANCREAS,KP4,753572,708,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,RIKEN
+ACH-000266,SNU213_PANCREAS,SNU-213,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,KCLB
+ACH-000267,HDLM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HDLM-2,924110,1510,Lymphoma,"B-cell, Hodgkins",Male,DSMZ
+ACH-000268,SNU245_BILIARY_TRACT,SNU-245,,,Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic",,KCLB
+ACH-000269,AM38_CENTRAL_NERVOUS_SYSTEM,AM-38,910933,776,Brain Cancer,Glioblastoma,Male,HSSRB
+ACH-000270,HPAC_PANCREAS,HPAC,1298136,744,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-000271,SUDHL10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SU-DHL-10,1331033,269,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000861,HOP62_LUNG,,905972,1500,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Garraway Lab
+ACH-000273,SF539_CENTRAL_NERVOUS_SYSTEM,SF539,905984,1781,Brain Cancer,Glioma,-1,Garraway Lab
+ACH-000274,HS852T_SKIN,Hs 852.T,,,Skin Cancer,Melanoma,,ATCC
+ACH-000275,HS834T_FIBROBLAST,,,,Skin Cancer,Melanoma,,
+ACH-001065,EVSAT_BREAST,,906862,1863,Breast Cancer,Carcinoma,Female,
+ACH-000277,HCC1419_BREAST,HCC1419,907045,1551,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000278,COV362_OVARY,COV362,,,Ovarian Cancer,"Carcinoma, epithelial-endometrioid",Female,ECACC
+ACH-001030,CHLA218_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001282,CHLA258_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-000280,SNU840_OVARY,SNU-840,,,Ovarian Cancer,"Carcinoma, brenner",Female,KCLB
+ACH-000281,KP2_PANCREAS,KP-2,1298218,746,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,HSRRB
+ACH-000282,NCIH1755_LUNG,NCI-H1755,908475,1240,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000283,A1207_CENTRAL_NERVOUS_SYSTEM,A1207,,,Brain Cancer,Glioblastoma,Female,
+ACH-000284,HS840T_FIBROBLAST,,,,Head and Neck Cancer,Unknown,Male,ATCC
+ACH-000285,TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Toledo,,,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,ATCC
+ACH-000286,SNU1033_LARGE_INTESTINE,SNU-1033,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,KCLB
+ACH-000288,BT549_BREAST,BT-549,905951,1835,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000289,SNU466_CENTRAL_NERVOUS_SYSTEM,SNU-466,,,Brain Cancer,Glioblastoma,Male,KCLB
+ACH-000290,NCIH209_LUNG,NCI-H209;H209,688013,452,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000291,OV90_OVARY,OV-90,1240197,1327,Ovarian Cancer,"Adenocarcinoma, serous papillary",Female,ATCC
+ACH-000292,NCIH841_LUNG,NCI-H841,1240192,1372,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000293,KLE_ENDOMETRIUM,KLE,924187,2256,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,ATCC
+ACH-000294,NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NB-4,1323913,1285,Leukemia,"Acute Myelogenous Leukemia (AML), M3 (Promyelocytic)",Female,DSMZ
+ACH-000295,EM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,EM-2,906855,901,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Female,DSMZ
+ACH-000296,OUMS23_LARGE_INTESTINE,OUMS-23,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,,HSSRB
+ACH-000297,NCIH889_LUNG,NCI-H889,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000298,NCIH2029_LUNG,NCI-H2029,688011,2106,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000299,HNT34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HNT-34,,,Leukemia,"Acute Myelogenous Leukemia (AML), M4 (Myelomonocytic)",,
+ACH-000300,SLR25_KIDNEY,,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000301,LAMA84_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,LAMA-84,907783,709,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Female,DSMZ
+ACH-000302,SNU1077_ENDOMETRIUM,SNU-1077,,,Endometrial/Uterine Cancer,Mullerian Carcinoma,Female,KCLB
+ACH-000303,SNU5_STOMACH,SNU-5,908445,28,Gastric Cancer,Adenocarcinoma,Female,ATCC
+ACH-000304,WM115_SKIN,WM-115,909784,1000,Skin Cancer,Melanoma,Female,ATCC
+ACH-000305,ECGI10_OESOPHAGUS,EC-GI-10,753555,2138,Esophageal Cancer,Squamous Cell Carcinoma,Male,RIKEN
+ACH-000306,HS688AT_FIBROBLAST,Hs 688(A).T,,,fibroblast,Melanoma,Male,
+ACH-000307,PK1_PANCREAS,PK-1,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",,RIKEN
+ACH-000308,EFO21_OVARY,EFO-21,911905,303,Ovarian Cancer,"Adenocarcinoma, clear cell",Female,DSMZ
+ACH-000309,SKLU1_LUNG,SK-LU-1,909721,233,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000310,IMR32_AUTONOMIC_GANGLIA,IMR-32,,,Neuroblastoma,Unknown,Male,ATCC
+ACH-000311,NCIH2122_LUNG,NCI-H2122,722046,1015,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000312,SKNBE2_AUTONOMIC_GANGLIA,SK-N-BE(2),,,Neuroblastoma,Unknown,Male,ATCC
+ACH-000313,KMRC3_KIDNEY,KMRC-3,,,Kidney Cancer,"Renal Carcinoma, clear cell",,HSRRB
+ACH-000314,HCC2108_LUNG,HCC-2108,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,KCLB
+ACH-000315,KARPAS422_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KARPAS-422,907274,1973,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,DSMZ
+ACH-000316,SNU886_LIVER,SNU-886,,,Liver Cancer,Hepatocellular Carcinoma,Male,KCLB
+ACH-000317,TUHR14TKB_KIDNEY,TUHR14TKB,,,Kidney Cancer,Renal Cell Carcinoma,,RIKEN
+ACH-000318,TE10_OESOPHAGUS,TE-10,753622,1561,Esophageal Cancer,Squamous Cell Carcinoma,,RIKEN
+ACH-000319,MPP89_PLEURA,MPP 89,908150,2255,Lung Cancer,Mesothelioma,Male,ICLC
+ACH-000320,PSN1_PANCREAS,PSN1;GR-M,910546,560,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",-1,ECACC
+ACH-000321,MOLM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MOLM-6,,,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Male,DSMZ
+ACH-000322,HT144_SKIN,HT-144,907067,1193,Skin Cancer,Melanoma,Male,ATCC
+ACH-000323,42MGBA_CENTRAL_NERVOUS_SYSTEM,42-MG-BA,687561,1465,Brain Cancer,Glioma,Male,DSMZ
+ACH-000324,JHOC5_OVARY,JHOC-5,,,Ovarian Cancer,"Carcinoma, clear cell",Female,RIKEN
+ACH-000325,SNU620_STOMACH,SNU-620,,,Gastric Cancer,Stomach Adenocarcinoma,Female,KCLB
+ACH-000326,JURLMK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,JURL-MK1,1327771,1807,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Male,DSMZ
+ACH-000327,NCIH1395_LUNG,NCI-H1395,684681,1826,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000328,LN215_CENTRAL_NERVOUS_SYSTEM,LN-215,,,Brain Cancer,Glioblastoma,,
+ACH-000329,CCFSTTG1_CENTRAL_NERVOUS_SYSTEM,CCF-STTG1,906823,876,Brain Cancer,Astrocytoma,Female,ATCC
+ACH-000330,EFM19_BREAST,EFM-19,906851,1786,Breast Cancer,Breast Ductal Carcinoma,Female,DSMZ
+ACH-000331,ISTMES2_PLEURA,IST-MES2;IST-MES-2,,,Lung Cancer,Mesothelioma,Male,ICLC
+ACH-000332,YAPC_PANCREAS,YAPC,909904,895,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,DSMZ
+ACH-000333,JHOM2B_OVARY,JHOM-2B,,,Ovarian Cancer,Adenocarcinoma,Female,RIKEN
+ACH-000334,DB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,DB,906832,1185,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,ATCC
+ACH-000335,MSTO211H_PLEURA,MSTO-211H,908152,209,Lung Cancer,Mesothelioma,Male,ATCC
+ACH-000336,OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OCI-AML3,1290455,355,Leukemia,"Acute Myelogenous Leukemia (AML), M4 (Myelomonocytic)",Male,DSMZ
+ACH-000937,PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909260,1043,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Female,DSMZ
+ACH-001067,F5_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Meningioma,Male,
+ACH-000025,CH157MN_CENTRAL_NERVOUS_SYSTEM,CH-157MN,,,Brain Cancer,Meningioma,,
+ACH-000340,HS870T_FIBROBLAST,Hs 870.T,,,Bone Cancer,Osteosarcoma,,ATCC
+ACH-000341,SKNFI_AUTONOMIC_GANGLIA,SK-N-FI,688087,227,Neuroblastoma,Unknown,Male,ATCC
+ACH-000342,CL14_LARGE_INTESTINE,CL-14,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,DSMZ
+ACH-000343,NCIH522_LUNG,NCI-H522,905944,1224,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000344,SNU668_STOMACH,SNU-668,,,Gastric Cancer,"Adenocarcinoma, signet ring cell",Male,KCLB
+ACH-000345,KPNRTBM1_AUTONOMIC_GANGLIA,KP-N-RT-BM-1,924189,852,Neuroblastoma,Unknown,,HSSRB
+ACH-001617,OCILY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1659819,1606,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,
+ACH-000347,QGP1_PANCREAS,QGP-1,1298534,469,Pancreatic Cancer,Somatostatinoma,Male,HSRRB
+ACH-000348,RPMI7951_SKIN,RPMI-7951,910903,1909,Skin Cancer,Melanoma,Female,ATCC
+ACH-001120,MB157_BREAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-000350,COLO678_LARGE_INTESTINE,COLO-678,910689,2148,Colon/Colorectal Cancer,Colon Carcinoma,Male,DSMZ
+ACH-000351,MKN1_STOMACH,MKN1,908138,1647,Gastric Cancer,Adenocarcinoma,Male,HSSRB
+ACH-000352,HCC1428_BREAST,HCC1428,1290905,1567,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000353,TE15_OESOPHAGUS,TE-15,753614,575,Esophageal Cancer,Squamous Cell Carcinoma,Female,RIKEN
+ACH-000354,CAPAN1_PANCREAS,Capan-1,753624,641,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000355,NCIH82_LUNG,NCI-H82,688031,1545,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000356,MKN45_STOMACH,MKN-45,925340,1542,Gastric Cancer,Adenocarcinoma,Female,HSRRB
+ACH-000358,NCIH69_LUNG,NCI-H69,688027,1016,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000359,MG63_BONE,MG-63,908131,2170,Bone Cancer,Osteosarcoma,Male,ATCC
+ACH-000360,NCIH508_LARGE_INTESTINE,NCI-H508,908442,35,Colon/Colorectal Cancer,Caecum Adenocarcinoma,Male,ATCC
+ACH-000361,SKHEP1_LIVER,SK-HEP-1,909719,874,Liver Cancer,Hepatocellular Adenocarcinoma,Male,ATCC
+ACH-000362,MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MOLM-13,1330947,747,Leukemia,Acute Myelogenous Leukemia (AML),Male,DSMZ
+ACH-000363,SKMM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SK-MM-2,753612,1003,Leukemia,Plasma Cell,Male,DSMZ
+ACH-000364,U2OS_BONE,U-2 OS;U2-OS;U-2 OS,909776,1145,Bone Cancer,Osteosarcoma,Female,ATCC
+ACH-000365,SUDHL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SU-DHL-4,1331035,1450,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000366,SKNDZ_AUTONOMIC_GANGLIA,SK-N-DZ,688086,867,Neuroblastoma,Unknown,Female,ATCC
+ACH-000367,NCIH226_LUNG,NCI-H226,905941,1221,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000368,SNU1105_CENTRAL_NERVOUS_SYSTEM,SNU-1105,,,Brain Cancer,Glioblastoma,Male,KCLB
+ACH-000369,MOLM16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MOLM-16,1330948,1229,Leukemia,Acute Myelogenous Leukemia (AML),Female,DSMZ
+ACH-000370,SNU626_CENTRAL_NERVOUS_SYSTEM,SNU-626,,,Brain Cancer,Glioblastoma,Male,KCLB
+ACH-000728,KASUMI2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,DSMZ
+ACH-000373,SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SKM-1,909722,304,Leukemia,Acute Myelogenous Leukemia (AML),Male,HSRRB
+ACH-000374,HCC1143_BREAST,HCC1143,749710,1316,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000375,G402_SOFT_TISSUE,G-402,907298,1089,Rhabdoid,Malignant Rhabdoid Tumor,Female,ATCC
+ACH-000376,SF295_CENTRAL_NERVOUS_SYSTEM,SF-295,905985,1164,Brain Cancer,Glioblastoma,Female,NCI/DCTD
+ACH-000377,SNU478_BILIARY_TRACT,SNU-478,,,Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic, ampullary",,KCLB
+ACH-000378,NCIH647_LUNG,NCI-H647,1240191,955,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",Male,ATCC
+ACH-000379,NCIH1781_LUNG,NCI-H1781,1298350,2228,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Female,ATCC
+ACH-000380,KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KMS-12-BM,907281,2087,Myeloma,Multiple Myeloma,Female,DSMZ
+ACH-000381,T84_LARGE_INTESTINE,T84,909761,997,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000382,CORL24_LUNG,COR-L24,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000383,OE33_OESOPHAGUS,OE33,910549,1554,Esophageal Cancer,Adenocarcinoma,Female,HPACC
+ACH-000384,SW780_URINARY_TRACT,SW 780,687457,2039,Bladder Cancer,Transitional Cell Carcinoma,Female,ATCC
+ACH-000385,SKRC20_KIDNEY,SK-RC-20,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000386,KG1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KG-1,907278,193,Leukemia,Acute Myelogenous Leukemia (AML),Male,ATCC
+ACH-000387,TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,TF-1,,,Leukemia,Acute Myelogenous Leukemia (AML),Male,ATCC
+ACH-000388,NUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NU-DHL-1,,,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000389,H4_CENTRAL_NERVOUS_SYSTEM,H4,907042,1244,Brain Cancer,Neuroglioma,Male,ATCC
+ACH-000390,LUDLU1_LUNG,LUDLU-1,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ECAAC
+ACH-001032,CHLA32_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-000392,CALU3_LUNG,Calu-3,687777,219,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000393,HLF_LIVER,HLF,,,Liver Cancer,Hepatocellular Carcinoma,Male,HSRRB
+ACH-000394,NCIH2081_LUNG,NCI-H2081,908480,914,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000395,NCIH520_LUNG,NCI-H520,908443,2200,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000396,J82_URINARY_TRACT,J82,753566,1232,Bladder Cancer,Transitional Cell Carcinoma,Male,ATCC
+ACH-000397,TEN_ENDOMETRIUM,TEN,,,Endometrial/Uterine Cancer,Clear Cell Carcinoma,Female,RIKEN
+ACH-000399,NCIH2196_LUNG,NCI-H2196,908481,916,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000400,SKCO1_LARGE_INTESTINE,SK-CO-1,909718,40,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000401,COLO800_SKIN,COLO-800,906813,21,Skin Cancer,Melanoma,Male,ATCC
+ACH-000402,BL70_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,BL-70,,,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,DSMZ
+ACH-000403,NCIH747_LARGE_INTESTINE,NCI-H747,908457,573,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000404,K029AX_SKIN,K029AX,,,Skin Cancer,Melanoma,,Academic Lab
+ACH-001709,WSUNHL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909785,601,Lymphoma,"B-cell, unspecified",Female,
+ACH-000406,U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,U-937,,,Leukemia,Acute Myelogenous Leukemia (AML),Male,ATCC
+ACH-000407,SNU685_ENDOMETRIUM,SNU-685,,,Endometrial/Uterine Cancer,Malignant Mixed Mullerian Tumor (MMMT),Female,KCLB
+ACH-000408,TE5_OESOPHAGUS,TE-5,735784,576,Esophageal Cancer,Squamous Cell Carcinoma,Female,Riken
+ACH-000409,OVSAHO_OVARY,OVSAHO,,,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,HSSRB
+ACH-000410,SAOS2_BONE,Saos-2,909707,399,Bone Cancer,Osteosarcoma,Female,ATCC
+ACH-000411,769P_KIDNEY,769-P,910922,1186,Kidney Cancer,"Renal Adenocarcinoma, clear cell",Female,ATCC
+ACH-000412,SNU1197_LARGE_INTESTINE,SNU-1197,,,Colon/Colorectal Cancer,Colon Carcinoma,Male,KCLB
+ACH-000413,HS739T_FIBROBLAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-000414,NCIH1944_LUNG,NCI-H1944,1240185,183,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000415,BICR6_UPPER_AERODIGESTIVE_TRACT,BICR 6,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ECACC
+ACH-000416,NCIH838_LUNG,NCI-H838,910399,484,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000417,PANC0813_PANCREAS,Panc 08.13,925347,635,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000418,SW1353_BONE,SW 1353,,,Bone Cancer,Chondrosarcoma,Female,ATCC
+ACH-000419,KMS28BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KMS-28BM,,,Myeloma,Multiple Myeloma,Female,HSSRB
+ACH-000420,SNU449_LIVER,SNU-449,909738,129,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000421,SW837_LARGE_INTESTINE,SW 837,909755,1141,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000422,SNU475_LIVER,SNU-475,909739,2059,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000423,SKMEL3_SKIN,SK-MEL-3,909724,1572,Skin Cancer,Melanoma,Female,ATCC
+ACH-001033,CHLA57_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001034,CHLA9_BONE,,,,Bone Cancer,Ewings Sarcoma,-1,
+ACH-000425,UACC62_SKIN,UACC-62,905976,8,Skin Cancer,Melanoma,,NCI/DCTD
+ACH-000426,KMS20_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KMS-20,,,Myeloma,Multiple Myeloma,Female,HSRRB
+ACH-000427,NCIN87_STOMACH,NCI-N87,908461,88,Gastric Cancer,"Adenocarcinoma, tubular",Male,ATCC
+ACH-000428,UO31_KIDNEY,UO-31,,,Kidney Cancer,Unknown,Male,Garraway Lab
+ACH-000429,A704_KIDNEY,A-704,910920,949,Kidney Cancer,Renal Cell Adenocarcinoma,Male,ATCC
+ACH-000430,TYKNU_OVARY,TYK-nu,909774,476,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,HSRRB
+ACH-000431,NCIH1694_LUNG,NCI-H1694,688006,451,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000432,BV173_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,BV-173,910710,321,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Male,DSMZ
+ACH-000433,CAKI1_KIDNEY,Caki-1,905963,289,Kidney Cancer,"Renal Carcinoma, clear cell",Male,ATCC
+ACH-000434,NCIH1915_LUNG,NCI-H1915,1240184,1823,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Female,ATCC
+ACH-000435,EFE184_ENDOMETRIUM,EFE-184,,,Endometrial/Uterine Cancer,Endometrial Carcinoma,Female,DSMZ
+ACH-000338,SR786_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SR-786;SR,,,Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",Male,DSMZ
+ACH-000437,SW1088_CENTRAL_NERVOUS_SYSTEM,SW 1088,909745,1310,Brain Cancer,Astrocytoma,Male,ATCC
+ACH-000438,LU65_LUNG,,724863,47,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,JCRB
+ACH-000439,ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,ME-1,1330942,427,Leukemia,"Acute Myelogenous Leukemia (AML), M4 (Myelomonocytic)",Male,DSMZ
+ACH-000440,CA46_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,CA46,910703,1190,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,ATCC
+ACH-000441,SH4_SKIN,SH-4,909713,1179,Skin Cancer,Melanoma,Female,ATCC
+ACH-000442,RERFLCSQ1_LUNG,RERF-LC-Sq1,1298538,449,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Female,HSRRB
+ACH-000443,OVKATE_OVARY,OVKATE,1240199,1094,Ovarian Cancer,"Adenocarcinoma, serous papillary",Female,HSRRB
+ACH-000444,LU99_LUNG,LU99,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,HSRRB
+ACH-000445,KNS60_CENTRAL_NERVOUS_SYSTEM,KNS-60,,,Brain Cancer,Glioblastoma,Male,HSSRB
+ACH-000446,KPNSI9S_AUTONOMIC_GANGLIA,KP-N-SI9s,,,Neuroblastoma,Unknown,,HSSRB
+ACH-000447,NCIH2228_LUNG,NCI-H2228,687816,1812,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000448,NCIH1666_LUNG,NCI-H1666,908473,958,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Female,ATCC
+ACH-000449,MESSA_SOFT_TISSUE,MES-SA,908127,1395,Sarcoma,Uterine Sarcoma,Female,ATCC
+ACH-000450,MELHO_SKIN,MEL-HO,908124,2109,Skin Cancer,Melanoma,Female,DSMZ
+ACH-000451,NCIH2085_LUNG,NCI-H2085,687812,80,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000452,TE8_OESOPHAGUS,TE-8,753623,2253,Esophageal Cancer,Squamous Cell Carcinoma,,RIKEN
+ACH-000453,MOLP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MOLP-2,,,Myeloma,Multiple Myeloma,Male,DSMZ
+ACH-000454,HCC95_LUNG,HCC-95,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,KCLB
+ACH-000455,LN428_CENTRAL_NERVOUS_SYSTEM,LN-428,,,Brain Cancer,Glioblastoma,Male,
+ACH-000456,BCPAP_THYROID,B-CPAP,924104,346,Thyroid Cancer,"Carcinoma, papillary",Female,DSMZ
+ACH-000457,CAL54_KIDNEY,CAL-54,910952,482,Kidney Cancer,Renal Cell Carcinoma,Male,DSMZ
+ACH-000458,CJM_SKIN,CJM,,,Skin Cancer,Melanoma,,RIKEN
+ACH-000459,TUHR10TKB_KIDNEY,TUHR10TKB,,,Kidney Cancer,Renal Cell Carcinoma,,RIKEN
+ACH-000460,SNU8_OVARY,SNU-8,,,Ovarian Cancer,"Cystadenocarcinoma, serous papillary",Female,KCLB
+ACH-000461,SNU1196_BILIARY_TRACT,SNU-1196,,,Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic",,KCLB
+ACH-000462,NALM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NALM-1,,,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Female,DSMZ
+ACH-000463,NCIH460_LUNG,NCI-H460,905943,2146,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000464,CAS1_CENTRAL_NERVOUS_SYSTEM,CAS-1,910943,604,Brain Cancer,Glioblastoma,Male,ICLC
+ACH-000465,SKMEL1_SKIN,SK-MEL-1,909723,42,Skin Cancer,Melanoma,Male,ATCC
+ACH-000466,SNU216_STOMACH,SNU-216,,,Gastric Cancer,"Adenocarcinoma, tubular",Female,KCLB
+ACH-000467,HCC56_LARGE_INTESTINE,HCC-56,1290907,1036,Colon/Colorectal Cancer,Colon Adenocarcinoma,,HSRRB
+ACH-000468,PK45H_PANCREAS,PK-45H,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",,RIKEN
+ACH-000469,YH13_CENTRAL_NERVOUS_SYSTEM,YH-13,909905,468,Brain Cancer,Glioblastoma,Male,HSSRB
+ACH-000470,SW1463_LARGE_INTESTINE,SW1463,909748,271,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000471,LI7_LIVER,Li-7,,,Liver Cancer,Unknown,,RIKEN
+ACH-000472,HSC2_UPPER_AERODIGESTIVE_TRACT,HSC-2,753562,944,Head and Neck Cancer,Squamous Cell Carcinoma,Male,HSSRB
+ACH-000473,RT112_URINARY_TRACT,RT-112,909704,25,Bladder Cancer,Transitional Cell Carcinoma,Female,DSMZ
+ACH-000475,HUH1_LIVER,huH-1,1298146,1855,Liver Cancer,"Hepatocellular Carcinoma, HBs-antigen carrier",Male,HSRRB
+ACH-000476,JHH4_LIVER,JHH-4,1240158,931,Liver Cancer,Hepatocellular Carcinoma,Male,HSRRB
+ACH-000477,MALME3M_SKIN,Malme-3M,,,Skin Cancer,Melanoma,Male,ATCC
+ACH-000478,SNU387_LIVER,SNU-387,909736,1482,Liver Cancer,Hepatocellular Carcinoma,Female,ATCC
+ACH-000479,KNS81_CENTRAL_NERVOUS_SYSTEM,KNS-81,,,Brain Cancer,Glioblastoma,Male,HSSRB
+ACH-000480,HUH7_LIVER,HuH-7,907071,2195,Liver Cancer,Hepatocellular Carcinoma,Male,HSSRB
+ACH-000481,NCIH2170_LUNG,NCI-H2170,687815,1811,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000482,RERFLCKJ_LUNG,RERF-LC-KJ,1298537,960,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,HSSRB
+ACH-000483,SNU182_LIVER,SNU-182,1240216,1481,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000484,VMRCRCW_KIDNEY,VMRC-RCW,1240224,1459,Kidney Cancer,Renal Cell Carcinoma,Male,RIKEN
+ACH-000485,GSU_STOMACH,GSU,,,Gastric Cancer,Adenocarcinoma,,RIKEN
+ACH-000486,KU1919_URINARY_TRACT,KU-19-19,907312,892,Bladder Cancer,Transitional Cell Carcinoma,Male,DSMZ
+ACH-000487,F36P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,F-36P,,,Leukemia,"Acute Myelogenous Leukemia (AML), M6 (Erythroleukemia)",Male,DSMZ
+ACH-000488,TE11_OESOPHAGUS,TE-11,946354,2073,Esophageal Cancer,Squamous Cell Carcinoma,,RIKEN
+ACH-000489,SW1116_LARGE_INTESTINE,SW1116,909746,480,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Male,ATCC
+ACH-001038,COGE352_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-000491,NCIH716_LARGE_INTESTINE,NCI-H716,908458,649,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000493,SNU423_LIVER,SNU-423,909737,481,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000494,OELE_OVARY,OELE;OEL(E),,,Immortalized,Immortalized ovarian epithelial,,
+ACH-000495,TUHR4TKB_KIDNEY,TUHR4TKB,,,Kidney Cancer,Renal Cell Carcinoma,,RIKEN
+ACH-000496,NCIH1792_LUNG,NCI-H1792,724868,2122,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000498,KO52_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KO52,1330932,1325,Leukemia,"Acute Myelogenous Leukemia (AML), M2 (Myeloblastic)",Male,HSSRB
+ACH-001035,CHLA99_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001031,CHLA266_SOFT_TISSUE,,,,Rhabdoid,Atypical Teratoid Rhabdoid Tumor (ATRT),-1,
+ACH-000500,SNU46_UPPER_AERODIGESTIVE_TRACT,SNU-46,,,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",Male,KCLB
+ACH-000501,LS123_LARGE_INTESTINE,LS123,907792,2266,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000502,TCCPAN2_PANCREAS,TCC-PAN2,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,HSRRB
+ACH-000503,BICR16_UPPER_AERODIGESTIVE_TRACT,BICR 16,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ECACC
+ACH-000504,SNB75_CENTRAL_NERVOUS_SYSTEM,SNB75,905982,1181,Brain Cancer,Unknown,,Garraway Lab
+ACH-000505,RKN_SOFT_TISSUE,RKN,1298539,1471,Sarcoma,Leiomyosarcoma,Female,HSSRB
+ACH-000506,NCIH146_LUNG,NCI-H146,910899,932,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000507,KE39_STOMACH,KE-39,,,Gastric Cancer,Carcinoma,Male,RIKEN
+ACH-000508,CORL88_LUNG,COR-L88,906808,774,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000509,HUT78_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,HuT 78,,,Lymphoma,"T-cell, Non-Hodgkins, Cutaneous, Sezary Syndrome",Male,ATCC
+ACH-000510,NCIH1299_LUNG,NCI-H1299,724831,1235,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000511,CALU1_LUNG,Calu-1,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-001050,CW9019_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",-1,
+ACH-000513,SNU1272_KIDNEY,SNU-1272,,,Kidney Cancer,"Renal Carcinoma, clear cell",Female,KCLB
+ACH-000514,NCIH1092_LUNG,NCI-H1092,687997,1928,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000515,HCC33_LUNG,HCC-33,1303901,353,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,DSMZ
+ACH-000516,CAL78_BONE,CAL-78,1290765,1148,Bone Cancer,Chondrosarcoma,Male,DSMZ
+ACH-000517,SNU410_PANCREAS,SNU-410,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,KCLB
+ACH-000518,CAL33_UPPER_AERODIGESTIVE_TRACT,CAL-33,753541,2041,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,DSMZ
+ACH-001703,VAL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331048,2221,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,
+ACH-000520,59M_OVARY,59M,,,Ovarian Cancer,Carcinoma,Female,ECACC
+ACH-000521,NCIH2030_LUNG,NCI-H2030,722045,912,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000522,UMUC3_URINARY_TRACT,UM-UC-3,724838,9,Bladder Cancer,Transitional Cell Carcinoma,Male,ATCC
+ACH-000523,NCIH1184_LUNG,NCI-H1184;H1184,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000524,KURAMOCHI_OVARY,KURAMOCHI,909975,854,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,HSRRB
+ACH-000525,NCIH2171_LUNG,NCI-H2171;H2171,688015,1571,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000526,HS821T_FIBROBLAST,Hs 821.T,,,Bone Cancer,Giant Cell Sarcoma,Female,ATCC
+ACH-000527,OVISE_OVARY,OVISE,1240198,358,Ovarian Cancer,"Adenocarcinoma, clear cell",Female,HSSRB
+ACH-000528,ABC1_LUNG,ABC-1,906791,1557,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,HSRRB
+ACH-000529,T173_FIBROBLAST,T1-73,,,Bone Cancer,Osteosarcoma,,ATCC
+ACH-000530,DMS114_LUNG,DMS 114,687983,1495,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000531,RS5_FIBROBLAST,,,,Lung Cancer,Mesothelioma,Male,DSMZ
+ACH-000532,SNU61_LARGE_INTESTINE,SNU-61,1660035,151,Colon/Colorectal Cancer,Colorectal Carcinoma,Male,KCLB
+ACH-000533,NCIH2004RT_SOFT_TISSUE,NCI-H2004 RT,,,Rhabdoid,Malignant Rhabdoid Tumor,-1,
+ACH-000534,WSUDLCL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,WSU-DLCL2,1331050,557,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000535,BXPC3_PANCREAS,BxPC-3,906693,1978,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,ATCC
+ACH-001357,MCF10A_BREAST,,,,Immortalized,Fibrocystic Disease,Female,
+ACH-000537,SNU761_LIVER,SNU-761,,,Liver Cancer,Hepatocellular Carcinoma,Male,KCLB
+ACH-000538,HUTU80_SMALL_INTESTINE,HUTU80,907073,305,Colon/Colorectal Cancer,Duodenum Adenocarcinoma,Male,ATCC
+ACH-000539,HS618T_FIBROBLAST,Hs 618.T,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000540,HS606T_FIBROBLAST,Hs 606.T,,,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000541,KMS34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KMS-34,,,Myeloma,Multiple Myeloma,Female,HSRRB
+ACH-000542,HEYA8_OVARY,Hey-A8,,,Ovarian Cancer,"Cystadenocarcinoma, papillary",Female,Academic Lab
+ACH-000543,SNU489_CENTRAL_NERVOUS_SYSTEM,SNU-489,,,Brain Cancer,Glioblastoma,Male,KCLB
+ACH-000544,OE21_OESOPHAGUS,OE21,1298359,2152,Esophageal Cancer,Squamous Cell Carcinoma,Male,HPACC
+ACH-000545,VMCUB1_URINARY_TRACT,VM-CUB1,909780,276,Bladder Cancer,Transitional Cell Carcinoma,Male,DSMZ
+ACH-000546,HSC4_UPPER_AERODIGESTIVE_TRACT,HSC-4,907062,99,Head and Neck Cancer,Squamous Cell Carcinoma,Male,HSSRB
+ACH-000547,HT1197_URINARY_TRACT,HT-1197,907065,1533,Bladder Cancer,Carcinoma,Male,ATCC
+ACH-000548,BHY_UPPER_AERODIGESTIVE_TRACT,BHY,753535,748,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,DSMZ
+ACH-000549,SNU1076_UPPER_AERODIGESTIVE_TRACT,SNU-1076,,,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",Male,KCLB
+ACH-000550,IGR39_SKIN,IGR-39,,,Skin Cancer,Melanoma,Male,DSMZ
+ACH-000551,K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,K-562,905940,2098,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Female,ATCC
+ACH-000552,HT29_LARGE_INTESTINE,HT-29,905939,1212,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000553,SQ1_LUNG,Sq-1,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,RIKEN
+ACH-000111,HCC1187_BREAST,HCC1187,749711,1644,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000555,A498_KIDNEY,A-498,905948,602,Kidney Cancer,Renal Cell Carcinoma,Male,ATCC
+ACH-000556,SIHA_CERVIX,SIHA,930297,1354,Cervical Cancer,Carcinoma,-1,
+ACH-000557,AML193_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,AML-193,,,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",Female,ATCC
+ACH-000558,A172_CENTRAL_NERVOUS_SYSTEM,A-172,687563,1777,Brain Cancer,Glioblastoma,Male,ATCC
+ACH-000559,NCIH1836_LUNG,NCI-H1836,1240182,1829,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000560,ECC10_STOMACH,ECC10,906848,799,Gastric Cancer,Small Cell Carcinoma,,RIKEN
+ACH-000561,TT_OESOPHAGUS,T.T,1299064,544,Esophageal Cancer,Squamous Cell Carcinoma,,HSSRB
+ACH-000562,HCC78_LUNG,HCC-78,1290908,639,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,DSMZ
+ACH-000563,EBC1_LUNG,EBC-1,753554,1665,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,RIKEN
+ACH-000564,KHM1B_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,KHM1B;KHM-1B,,,Myeloma,Multiple Myeloma,Male,HSSRB
+ACH-000565,RCM1_LARGE_INTESTINE,,909263,1271,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Female,HSSRB
+ACH-000566,SW1710_URINARY_TRACT,,909749,2,Bladder Cancer,Transitional Cell Carcinoma,Female,DSMZ
+ACH-000567,ST486_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910906,130,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Female,ATCC
+ACH-000147,T47D_BREAST,T-47D,905945,1286,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000569,ISTMES1_PLEURA,,907173,1001,Lung Cancer,Mesothelioma,Female,ICLC
+ACH-000570,YKG1_CENTRAL_NERVOUS_SYSTEM,,687592,61,Brain Cancer,Glioblastoma,Female,HSRRB
+ACH-000571,T98G_CENTRAL_NERVOUS_SYSTEM,,687586,131,Brain Cancer,Glioblastoma,Male,ATCC
+ACH-000572,G361_SKIN,,906865,1173,Skin Cancer,Melanoma,Male,ATCC
+ACH-000573,MDAMB436_BREAST,,1240172,927,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000574,FUOV1_OVARY,,1240129,2063,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,DSMZ
+ACH-000575,HCC364_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-000576,KMS27_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,Male,HSRRB
+ACH-000577,JHH2_LIVER,,1240157,347,Liver Cancer,Hepatocellular Carcinoma,Male,HSRRB
+ACH-000578,HCC1171_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,KCLB
+ACH-000579,UACC257_SKIN,,905977,14,Skin Cancer,Melanoma,,NCI/DCTD
+ACH-000580,C32_SKIN,,906830,2242,Skin Cancer,"Melanoma, amelanotic",Male,ATCC
+ACH-000581,SNU16_STOMACH,,908446,291,Gastric Cancer,Carcinoma,Female,ATCC
+ACH-000582,COLO741_SKIN,,,,Skin Cancer,Melanoma,Female,ECACC
+ACH-000106,JVM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,JVM-2,907269,764,Leukemia,"Chronic Lymphoblastic Leukemia (CLL), B-cell",Female,DSMZ
+ACH-000584,JHOS4_OVARY,,1480359,1651,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,RIKEN
+ACH-000585,EPLC272H_LUNG,,753556,404,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,DSMZ
+ACH-000586,NCIH1876_LUNG,,1330972,91,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000587,NCIH1975_LUNG,,924244,1403,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000588,KMS26_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,Male,HSRRB
+ACH-000589,NCIH1437_LUNG,,687794,800,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000590,NCIH2073_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-001053,D425_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-000592,TM31_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioma,,RIKEN
+ACH-000593,BC3C_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Female,DSMZ
+ACH-000594,DMS153_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000595,LN229_CENTRAL_NERVOUS_SYSTEM,,1240169,1504,Brain Cancer,Glioblastoma,Female,ATCC
+ACH-000596,LCLC97TM1_LUNG,,946361,485,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,DSMZ
+ACH-000597,TTC709_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,-1,
+ACH-000598,KMS21BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,Male,HSSRB
+ACH-000599,PATU8902_PANCREAS,,1298526,1549,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,DSMZ
+ACH-001054,D458_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-000601,MIAPACA2_PANCREAS,,724870,1541,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000602,M07E_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Myelogenous Leukemia (AML), M7 (Megakaryoblastic)",Female,DSMZ
+ACH-000603,BEN_LUNG,,753534,971,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",Male,DSMZ
+ACH-000604,KYO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Male,DSMZ
+ACH-000605,TE6_OESOPHAGUS,,946355,1642,Esophageal Cancer,Squamous Cell Carcinoma,,RIKEN
+ACH-000606,PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, basaloid",Male,ECACC
+ACH-000607,KYM1_SOFT_TISSUE,,1240166,1344,Rhabdoid,Malignant Rhabdoid Tumor,,HSRRB
+ACH-000608,COV644_OVARY,,,,Ovarian Cancer,"Carcinoma, epithelial-mucinous",Female,ECACC
+ACH-000609,SF126_CENTRAL_NERVOUS_SYSTEM,,909712,1677,Brain Cancer,Astrocytoma,,HSSRB
+ACH-000610,NCIH2227_LUNG,,688018,1220,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000611,SUDHL6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331037,2036,Lymphoma,Diffuse Mixed Small and Large B-cell Lymphoma,Male,DSMZ
+ACH-000612,HUT102_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,Male,ATCC
+ACH-000613,HOS_BONE,,907060,1202,Bone Cancer,Osteosarcoma,Female,ATCC
+ACH-000614,RVH421_SKIN,,909706,1274,Skin Cancer,Melanoma,Male,DSMZ
+ACH-000615,SKMEL28_SKIN,,905954,1499,Skin Cancer,Melanoma,Male,ATCC
+ACH-000616,HS746T_STOMACH,,1240151,1850,Gastric Cancer,Carcinoma,Male,ATCC
+ACH-000617,OVCAR4_OVARY,,905990,606,Ovarian Cancer,Adenocarcinoma,Female,NCI/DCTD
+ACH-000618,SNU1041_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, hypopharyngeal",,KCLB
+ACH-000619,PECAPJ15_UPPER_AERODIGESTIVE_TRACT,,1240207,1810,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ECACC
+ACH-000620,JHH1_LIVER,,1298151,89,Liver Cancer,Hepatocellular Carcinoma,Male,HSRRB
+ACH-000621,MDAMB157_BREAST,,925338,1796,Breast Cancer,"Breast Ductal Carcinoma, medullary",Female,ATCC
+ACH-000622,KNS42_CENTRAL_NERVOUS_SYSTEM,,907282,1149,Brain Cancer,Glioma,Male,HSSRB
+ACH-000623,SNU201_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Male,KCLB
+ACH-000624,HCC1806_BREAST,,907047,1317,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000625,HEP3B217_LIVER,,1240147,1922,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000626,U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,753615,1635,Myeloma,"Multiple Myeloma, plasmacytoma",Male,ATCC
+ACH-000627,LCLC103H_LUNG,,753586,1502,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,DSMZ
+ACH-000628,NCIH596_LUNG,,908459,1225,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",Male,ATCC
+ACH-000629,IOMMLEE_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Meningioma,,
+ACH-000630,YD8_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, tongue",Female,KCLB
+ACH-000631,KS1_CENTRAL_NERVOUS_SYSTEM,,907313,1387,Brain Cancer,Glioblastoma,Female,HSRRB
+ACH-000632,HS944T_SKIN,,,,Skin Cancer,Melanoma,Male,ATCC
+ACH-000633,FU97_STOMACH,,1290806,2062,Gastric Cancer,Adenocarcinoma,Female,HSRRB
+ACH-000634,LN340_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Male,
+ACH-000635,SNU119_OVARY,,,,Ovarian Cancer,Cystadenocarcinoma,Female,KCLB
+ACH-000636,RPMI8402_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909702,288,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Female,DSMZ
+ACH-000637,KYSE520_OESOPHAGUS,,753575,894,Esophageal Cancer,Squamous Cell Carcinoma,Female,DSMZ
+ACH-000638,NCIH441_LUNG,,908460,1815,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,ATCC
+ACH-000639,NCIH211_LUNG,,1240189,2107,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000640,SKMEL31_SKIN,,909727,153,Skin Cancer,Melanoma,Female,ATCC
+ACH-000641,CMK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910566,734,Leukemia,"Acute Myelogenous Leukemia (AML), M7 (Megakaryoblastic)",Male,DSMZ
+ACH-000212,CAL120_BREAST,CAL-120,906826,1748,Breast Cancer,Carcinoma,Female,DSMZ
+ACH-000276,HCC38_BREAST,HCC38,749717,1318,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000644,COLO829_SKIN,,687448,430,Skin Cancer,Melanoma,Male,ATCC
+ACH-000645,JL1_PLEURA,,,,Lung Cancer,Mesothelioma,Male,DSMZ
+ACH-000646,OVMANA_OVARY,,,,Ovarian Cancer,"Adenocarcinoma, clear cell",Female,HSRRB
+ACH-000647,TE1_OESOPHAGUS,,753621,1493,Esophageal Cancer,Squamous Cell Carcinoma,Male,JCRB
+ACH-000648,NCIH28_PLEURA,,908470,1199,Lung Cancer,Mesothelioma,Male,ATCC
+ACH-000649,786O_KIDNEY,,905947,301,Kidney Cancer,"Renal Adenocarcinoma, clear cell",Male,ATCC
+ACH-000650,IGR37_SKIN,,1240153,1535,Skin Cancer,Melanoma,Male,DSMZ
+ACH-000651,SW620_LARGE_INTESTINE,,905962,3,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000652,SUIT2_PANCREAS,,1240219,1749,Pancreatic Cancer,"Ductal Adenocarcinoma, tubular",Male,HSSRB
+ACH-000653,JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1327766,905,Myeloma,Multiple Myeloma,Female,DSMZ
+ACH-000654,RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909262,1762,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,ATCC
+ACH-000655,SF268_CENTRAL_NERVOUS_SYSTEM,,905986,1490,Brain Cancer,Unknown,,Garraway Lab
+ACH-000656,SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331038,1877,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Male,DSMZ
+ACH-000657,A2780_OVARY,,906804,1245,Ovarian Cancer,"Adenocarcinoma, endometrioid",Female,ECACC
+ACH-001096,JR_SOFT_TISSUE,,,,Sarcoma,Rhabdomyosarcoma,-1,
+ACH-000659,SCLC21H_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,DSMZ
+ACH-000660,SUDHL5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331036,1609,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,DSMZ
+ACH-000661,WM1799_SKIN,,,,Skin Cancer,Melanoma,,WISTAR
+ACH-000662,CORL23_LUNG,,687780,1313,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ECAAC
+ACH-000663,OVTOKO_OVARY,,1298365,1095,Ovarian Cancer,"Adenocarcinoma, clear cell",Female,HSSRB
+ACH-000664,SUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909742,1634,Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",Male,DSMZ
+ACH-000665,SKMES1_LUNG,,909728,1628,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000666,NCIH1355_LUNG,,724866,1780,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000667,HCC44_LUNG,,1240145,1247,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,DSMZ
+ACH-000568,UACC812_BREAST,,910910,1754,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000669,SW900_LUNG,,724879,1454,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000670,SBC5_LUNG,,713880,999,Lung Cancer,Small Cell Lung Cancer (SCLC),,HSRRB
+ACH-000671,HUH6_LIVER,,,,Liver Cancer,Hepatoblastoma,Male,RIKEN
+ACH-000672,IALM_LUNG,,910779,1792,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,RIKEN
+ACH-001111,L82_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,-1,
+ACH-000674,NUGC4_STOMACH,,1298357,941,Gastric Cancer,"Adenocarcinoma, signet ring cell",Female,RIKEN
+ACH-000675,NCIH1734_LUNG,,722058,411,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-001119,MAC2A_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-000677,SW1573_LUNG,,724878,849,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Female,ATCC
+ACH-000678,MKN7_STOMACH,,924250,2113,Gastric Cancer,"Adenocarcinoma, tubular",Male,RIKEN
+ACH-000679,OE19_OESOPHAGUS,,910079,1664,Esophageal Cancer,Adenocarcinoma,Male,HPACC
+ACH-000680,SW948_LARGE_INTESTINE,,909757,1689,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Female,ATCC
+ACH-000681,A549_LUNG,,905949,369,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000682,SNU1066_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,Squamous Cell Carcinoma,Male,KCLB
+ACH-000683,SNU503_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Carcinoma,Male,KCLB
+ACH-000684,KMRC1_KIDNEY,,1298168,1514,Kidney Cancer,"Renal Carcinoma, clear cell",Male,HSRRB
+ACH-000685,L33_PANCREAS,,,,Pancreatic Cancer,Ductal Adenosquamous Carcinoma,,Academic Lab
+ACH-000686,SNU878_LIVER,,,,Liver Cancer,Hepatocellular Carcinoma,Female,KCLB
+ACH-000357,JEKO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,JeKo-1,1327765,2118,Lymphoma,"B-cell, Non-Hodgkins, Mantle Cell",Female,DSMZ
+ACH-000688,OV7_OVARY,,1480360,1985,Ovarian Cancer,"Carcinoma, mixed",Female,ECACC
+ACH-000689,RH18_SOFT_TISSUE,,971774,861,Sarcoma,Rhabdomyosarcoma,Female,DSMZ
+ACH-000690,HCC2814_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,
+ACH-001394,SUM229PE_BREAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-000692,SNU899_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",Male,KCLB
+ACH-000693,KYSE180_OESOPHAGUS,,907318,599,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-000694,TE9_OESOPHAGUS,,946353,1312,Esophageal Cancer,Squamous Cell Carcinoma,Male,RIKEN
+ACH-000695,CORL47_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000696,OVCAR8_OVARY,,905991,2131,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,NCI/DCTD
+ACH-000697,A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910935,1511,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),Female,HSRRB
+ACH-000698,DMS53_LUNG,,907295,580,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000699,HCC1395_BREAST,,749712,94,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-001134,MYLA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,-1,
+ACH-000701,RMUGS_OVARY,,,,Ovarian Cancer,"Adenocarcinoma, endometrioid",Female,HSRRB
+ACH-000702,L1236_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330935,408,Lymphoma,"B-cell, Hodgkins",Male,DSMZ
+ACH-000703,DMS79_LUNG,,753551,300,Lung Cancer,Small Cell Lung Cancer (SCLC),,ATCC
+ACH-000704,OAW42_OVARY,,910548,782,Ovarian Cancer,Carcinoma,Female,ECACC
+ACH-000705,LC1F_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,RIKEN
+ACH-001196,SMSCTR_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, embryonal",-1,
+ACH-000707,P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,ATCC
+ACH-000708,SNU283_LARGE_INTESTINE,,1659929,2189,Colon/Colorectal Cancer,Colorectal Carcinoma,Female,KCLB
+ACH-000709,KMRC2_KIDNEY,,,,Kidney Cancer,"Renal Carcinoma, clear cell",Male,HSRRB
+ACH-000710,NCIH854_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,KCLB
+ACH-000711,JIMT1_BREAST,,1298157,479,Breast Cancer,Breast Ductal Carcinoma,Female,DSMZ
+ACH-000712,HCC1833_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,KCLB
+ACH-000713,CAOV3_OVARY,,906825,320,Ovarian Cancer,Adenocarcinoma,Female,ATCC
+ACH-000714,KMS11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1659817,1308,Myeloma,Multiple Myeloma,Female,HSRRB
+ACH-000715,SNU1214_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",Male,KCLB
+ACH-000716,TT2609C02_THYROID,,1240223,1457,Thyroid Cancer,"Carcinoma, follicular",Male,DSMZ
+ACH-000717,COLO680N_OESOPHAGUS,,906817,1469,Esophageal Cancer,Squamous Cell Carcinoma,Female,DSMZ
+ACH-000718,NCIH2291_LUNG,,724874,917,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000719,RMGI_OVARY,,909699,1162,Ovarian Cancer,"Carcinoma, clear cell",Female,HSRRB
+ACH-000720,TCCSUP_URINARY_TRACT,,687459,275,Bladder Cancer,Transitional Cell Carcinoma,Female,ATCC
+ACH-000721,HMC18_BREAST,,,,Breast Cancer,Carcinoma,Female,HSSRB
+ACH-000722,SNUC1_LARGE_INTESTINE,,910905,1066,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000723,YD10B_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, tongue",Male,KCLB
+ACH-000724,HT1376_URINARY_TRACT,,907066,1211,Bladder Cancer,Carcinoma,Female,ATCC
+ACH-000725,HCC202_BREAST,,1290906,1552,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000726,TE14_OESOPHAGUS,,,,Esophageal Cancer,Squamous Cell Carcinoma,,RIKEN
+ACH-000727,NCIH2066_LUNG,,1330973,1073,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000020,MHHCALL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MHH-CALL-2,908132,1906,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,DSMZ
+ACH-000729,NCIH1963_LUNG,,688010,1570,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000730,SKMEL5_SKIN,,905956,1491,Skin Cancer,Melanoma,Female,ATCC
+ACH-000731,HCC2279_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,KCLB
+ACH-000732,PECAPJ41CLONED2_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Female,ECACC
+ACH-000733,NCIH1838_LUNG,,687807,1690,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000734,JHH5_LIVER,,,,Liver Cancer,Hepatocellular Carcinoma,Male,HSSRB
+ACH-000735,PECAPJ49_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ECACC
+ACH-000736,SNU601_STOMACH,,,,Gastric Cancer,"Adenocarcinoma, signet ring cell",Male,KCLB
+ACH-000737,NCIH1385_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,ATCC
+ACH-000738,GB1_CENTRAL_NERVOUS_SYSTEM,,687568,2095,Brain Cancer,Glioblastoma,Male,HSSRB
+ACH-000739,HEPG2_LIVER,,,,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000740,A253_SALIVARY_GLAND,,906794,2089,Head and Neck Cancer,"Squamous Cell Carcinoma, salivary gland",Male,ATCC
+ACH-000741,UBLC1_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Female,ECACC
+ACH-000742,DM3_FIBROBLAST,,,,Lung Cancer,Mesothelioma,Male,DSMZ
+ACH-000743,CORL95_LUNG,,1297439,1769,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000744,NCIH1623_LUNG,,687798,1238,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000745,MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330950,924,Myeloma,Multiple Myeloma,Male,DSMZ
+ACH-000746,GSS_STOMACH,,,,Gastric Cancer,Adenocarcinoma,,RIKEN
+ACH-000747,NCIH1703_LUNG,,908474,1239,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000748,SJSA1_BONE,,909717,1180,Bone Cancer,"Osteosarcoma, Multipotential Sarcoma",Male,ATCC
+ACH-000749,DMS273_LUNG,,687985,1862,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ECACC
+ACH-000750,LOXIMVI_SKIN,,905974,401,Skin Cancer,Melanoma,Male,NCI/DCTD
+ACH-000751,OCIM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330985,1679,Leukemia,"Acute Myelogenous Leukemia (AML), M6 (Erythroleukemia)",,DSMZ
+ACH-000752,NCIH196_LUNG,,1240186,1250,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000753,JMSU1_URINARY_TRACT,,,,Bladder Cancer,Carcinoma,Male,DSMZ
+ACH-000754,L428_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907322,1804,Lymphoma,"B-cell, Hodgkins",Female,DSMZ
+ACH-001396,SUM52PE_BREAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-000756,GI1_CENTRAL_NERVOUS_SYSTEM,,906871,245,Brain Cancer,Glioblastoma,Male,RIKEN
+ACH-001197,SMZ1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,Unknown,,
+ACH-000758,MKN74_STOMACH,,,,Gastric Cancer,Stomach Adenocarcinoma,Male,HSSRB
+ACH-001228,UPCISCC152_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",,
+ACH-000761,NUGC2_STOMACH,,,,Gastric Cancer,Adenocarcinoma,Female,HSRRB
+ACH-000762,YD38_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,Squamous Cell Carcinoma,Male,KCLB
+ACH-000763,MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1659818,995,Myeloma,Multiple Myeloma,,Academic Lab
+ACH-000764,SH10TC_STOMACH,,,,Gastric Cancer,"Adenocarcinoma, mucinous",,RIKEN
+ACH-000765,WM983B_SKIN,,,,Skin Cancer,Melanoma,,Academic Lab
+ACH-000766,NCIH1648_LUNG,,687799,712,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000767,NCIH526_LUNG,,688025,1380,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000768,MDAMB231_BREAST,,905960,1013,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000769,LK2_LUNG,,687787,45,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,RIKEN
+ACH-000770,P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909253,642,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",Male,HSSRB
+ACH-000771,BICR56_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Female,ECACC
+ACH-000772,TE441T_SOFT_TISSUE,,924248,298,Sarcoma,Rhabdomyosarcoma,Female,ATCC
+ACH-001232,UW228_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-000774,RERFLCAD2_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,HSSRB
+ACH-000775,NCIH727_LUNG,,724855,341,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Female,ATCC
+ACH-000776,ONS76_CENTRAL_NERVOUS_SYSTEM,,909248,67,Brain Cancer,Medulloblastoma,Female,HSSRB
+ACH-000777,KYSE30_OESOPHAGUS,,,,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-000778,HSC3_UPPER_AERODIGESTIVE_TRACT,,907061,648,Head and Neck Cancer,Squamous Cell Carcinoma,Male,HSSRB
+ACH-000779,PC9_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-000780,NCIH1105_LUNG,,908468,128,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000781,NCIH2023_LUNG,,1240187,1266,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000981,DND41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1297446,1035,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-000783,CAMA1_BREAST,,946382,363,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000784,KYSE70_OESOPHAGUS,,753576,2219,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-000785,NCIH2126_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000786,DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906831,1783,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,ATCC
+ACH-000787,LXF289_LUNG,,753592,1175,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,DSMZ
+ACH-000788,A2058_SKIN,,906792,652,Skin Cancer,Melanoma,Male,ATCC
+ACH-000789,NCIH810_LUNG,,925341,1104,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000790,SHP77_LUNG,,724872,1479,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000791,RERFLCAD1_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,HSRRB
+ACH-000792,BFTC909_KIDNEY,,910698,1284,Kidney Cancer,"Renal Carcinoma, transitional cell",Male,DSMZ
+ACH-000793,KATOIII_STOMACH,,907276,406,Gastric Cancer,"Adenocarcinoma, signet ring cell",Male,ATCC
+ACH-000794,BICR22_UPPER_AERODIGESTIVE_TRACT,,1240121,1575,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,ECACC
+ACH-001127,MOLT4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,905958,2227,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,ATCC
+ACH-000796,MCAS_OVARY,,,,Ovarian Cancer,"Cystadenocarcinoma, mucinous",Female,HSRRB
+ACH-000797,HLFA_FIBROBLAST,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Female,ATCC
+ACH-000798,CL40_LARGE_INTESTINE,,1240124,555,Colon/Colorectal Cancer,Colorectal Carcinoma,Female,DSMZ
+ACH-000799,HS695T_SKIN,,,,Skin Cancer,"Melanoma, amelanotic",Male,ATCC
+ACH-000800,NCIH446_LUNG,,688023,1222,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000801,HS936T_SKIN,,,,Skin Cancer,Melanoma,Male,ATCC
+ACH-000802,BFTC905_URINARY_TRACT,,910926,1583,Bladder Cancer,"Transitional Cell Carcinoma, papillary",Female,DSMZ
+ACH-000803,COLO668_LUNG,,910692,1072,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ECACC
+ACH-000804,NB1_AUTONOMIC_GANGLIA,,949179,127,Neuroblastoma,Unknown,Male,HSRRB
+ACH-000805,COLO679_SKIN,,906818,2049,Skin Cancer,Melanoma,Female,DSMZ
+ACH-000806,L540_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907323,651,Lymphoma,"B-cell, Hodgkins",Female,DSMZ
+ACH-000807,SNU738_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,"Oligodendroglioma, anaplastic",Male,KCLB
+ACH-000808,HUH28_BILIARY_TRACT,,,,Bile Duct Cancer,"Cholangiocarcinoma, intrahepatic",,HSSRB
+ACH-000809,KYSE410_OESOPHAGUS,,753574,952,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-000810,SKMEL30_SKIN,,909726,1789,Skin Cancer,Melanoma,Male,DSMZ
+ACH-000811,SKOV3_OVARY,,905959,1166,Ovarian Cancer,Cystadenocarcinoma,Female,ATCC
+ACH-000812,COLO783_SKIN,,1240125,857,Skin Cancer,Melanoma,Female,DSMZ
+ACH-000813,T3M10_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,RIKEN
+ACH-000814,HS939T_SKIN,,1298144,1261,Skin Cancer,Melanoma,Female,ATCC
+ACH-000815,KMH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909976,313,Lymphoma,"B-cell, Hodgkins",Male,DSMZ
+ACH-000816,NCIH524_LUNG,,908483,2147,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000817,RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,905964,705,Myeloma,"Multiple Myeloma, plasmacytoma",Male,ATCC
+ACH-000819,LN18_CENTRAL_NERVOUS_SYSTEM,,1240168,1503,Brain Cancer,Glioblastoma,Male,ATCC
+ACH-000820,SW403_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000821,EJM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1297447,567,Myeloma,Multiple Myeloma,Female,DSMZ
+ACH-000822,SKMEL24_SKIN,,909725,945,Skin Cancer,Melanoma,Male,ATCC
+ACH-000823,KYSE140_OESOPHAGUS,,753573,951,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-000824,KYSE510_OESOPHAGUS,,907321,893,Esophageal Cancer,Squamous Cell Carcinoma,Female,DSMZ
+ACH-000825,HOP92_LUNG,,905973,888,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",,Garraway Lab
+ACH-000826,CAL12T_LUNG,,753540,2252,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",Male,DSMZ
+ACH-000827,WM793_SKIN,,1299081,114,Skin Cancer,Melanoma,,WISTAR
+ACH-000829,HUNS1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,Male,ATCC
+ACH-000830,NCIH1436_LUNG,,908469,2120,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000831,HEC50B_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000832,CAL27_UPPER_AERODIGESTIVE_TRACT,,910916,1911,Head and Neck Cancer,Squamous Cell Carcinoma,Male,ATCC
+ACH-000833,RH30_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",Male,DSMZ
+ACH-000834,UMUC1_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Male,ECACC
+ACH-000835,GCT_SOFT_TISSUE,,906999,963,Sarcoma,Malignant Fibrous Histiocytoma,Male,ATCC
+ACH-000836,YD15_SALIVARY_GLAND,,,,Head and Neck Cancer,"Carcinoma, mucoepidermoid",Male,KCLB
+ACH-000837,NCIH322_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Male,EACC
+ACH-000838,AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1295741,1204,Myeloma,"Multiple Myeloma, plasmacytoma",Female,DSMZ
+ACH-000839,SCABER_URINARY_TRACT,,,,Bladder Cancer,Squamous Cell Carcinoma,Male,ATCC
+ACH-000840,HCC366_LUNG,,1240144,638,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",Female,DSMZ
+ACH-000841,NCIH2087_LUNG,,724834,915,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000842,SW480_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000843,HARA_LUNG,,1240142,350,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,HSRRB
+ACH-000844,DMS454_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ECACC
+ACH-000845,NCIH1373_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000846,FADU_UPPER_AERODIGESTIVE_TRACT,,906863,1170,Head and Neck Cancer,Squamous Cell Carcinoma,Male,ATCC
+ACH-000847,HGC27_STOMACH,,907055,1102,Gastric Cancer,Carcinoma,,ECACC
+ACH-000848,JHH7_LIVER,,1240160,1038,Liver Cancer,Hepatocellular Carcinoma,Male,HSRRB
+ACH-000849,MDAMB468_BREAST,,908123,415,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000850,HS698T_FIBROBLAST,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000851,MORCPR_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,ECACC
+ACH-000852,NCIH1435_LUNG,,1298347,2119,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000853,NCIH661_LUNG,,687829,107,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000854,OCIMY5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,,
+ACH-000855,KYSE150_OESOPHAGUS,,907317,407,Esophageal Cancer,Squamous Cell Carcinoma,Female,DSMZ
+ACH-000856,CAL51_BREAST,,910927,4,Breast Cancer,Carcinoma,Female,DSMZ
+ACH-000857,CAL851_BREAST,,910852,113,Breast Cancer,Carcinoma,Female,DSMZ
+ACH-000858,KNS62_LUNG,,753569,1369,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000859,HCC1954_BREAST,,749709,2143,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000860,NCIH358_LUNG,,908465,1691,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Male,ATCC
+ACH-001274,SW982_SOFT_TISSUE,,909759,1560,Sarcoma,Synovial,,
+ACH-000862,KMBC2_URINARY_TRACT,,,,Bladder Cancer,Carcinoma,,HSRRB
+ACH-000863,DBTRG05MG_CENTRAL_NERVOUS_SYSTEM,,906835,1784,Brain Cancer,Glioblastoma,Female,ATCC
+ACH-000864,COLO684_ENDOMETRIUM,,910691,218,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,ECACC
+ACH-000865,KYSE450_OESOPHAGUS,,907320,60,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-000866,NCIH1048_LUNG,,687995,1875,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000867,CHAGOK1_LUNG,,687596,1605,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Male,ECACC
+ACH-000868,HCC1195_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",Male,KCLB
+ACH-000869,NCIH1568_LUNG,,1298348,711,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000870,NCIH1930_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000871,NCIH510_LUNG,,753605,919,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-001275,SYO1_SOFT_TISSUE,,,,Sarcoma,Synovial,,
+ACH-000873,KYSE270_OESOPHAGUS,,907319,1518,Esophageal Cancer,Squamous Cell Carcinoma,Male,DSMZ
+ACH-001278,BIN67_OVARY,,,,Ovarian Cancer,Small Cell Carcinoma of the Ovary Hypercalcemic Type (SCCOHT),-1,
+ACH-000875,NCIH2347_LUNG,,687820,337,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000876,MDAMB415_BREAST,,924240,344,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000877,EB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Female,ATCC
+ACH-000878,HCC15_LUNG,,1240143,1368,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,DSMZ
+ACH-000879,MFE296_ENDOMETRIUM,,908130,920,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,DSMZ
+ACH-000880,AGS_STOMACH,,906790,1011,Gastric Cancer,Adenocarcinoma,Female,ATCC
+ACH-000881,MELJUSO_SKIN,,908125,626,Skin Cancer,Melanoma,Female,DSMZ
+ACH-000882,IGR1_SKIN,,907169,1534,Skin Cancer,Melanoma,Male,DSMZ
+ACH-000883,SW1783_CENTRAL_NERVOUS_SYSTEM,,909750,1453,Brain Cancer,Astrocytoma,Male,ATCC
+ACH-000884,MDAMB435S_SKIN,,,,Skin Cancer,"Melanoma, amelanotic",Female,ATCC
+ACH-000885,TOV21G_OVARY,,1240222,700,Ovarian Cancer,"Adenocarcinoma, clear cell",Female,ATCC
+ACH-000886,NCIH2009_LUNG,,724873,79,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-001430,TC138_BONE,,,,Bone Cancer,Ewings Sarcoma,-1,
+ACH-000888,NCIH1793_LUNG,,908463,934,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000889,KMM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,Male,HSSRB
+ACH-000890,SW1271_LUNG,,1299062,2037,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-000891,HCC1438_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,KCLB
+ACH-000892,NCIH1563_LUNG,,753600,1402,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000893,NCIH1651_LUNG,,910900,1828,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000894,NCIH1869_LUNG,,1240183,90,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,ATCC
+ACH-000895,CL34_LARGE_INTESTINE,,1290771,1005,Colon/Colorectal Cancer,Colon Carcinoma,Female,DSMZ
+ACH-000896,647V_URINARY_TRACT,,906797,2061,Bladder Cancer,Carcinoma,Male,DSMZ
+ACH-000897,FTC238_THYROID,,,,Thyroid Cancer,"Carcinoma, follicular",Male,ECACC
+ACH-000898,SNU719_STOMACH,,,,Gastric Cancer,"Adenocarcinoma, tubular",Male,KCLB
+ACH-000899,WM88_SKIN,,,,Skin Cancer,Melanoma,,Academic Lab
+ACH-000900,NCIH23_LUNG,,905942,2108,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000901,HCC1359_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Female,KCLB
+ACH-000536,BT20_BREAST,BT-20,906801,2264,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000903,FTC133_THYROID,,906864,1007,Thyroid Cancer,"Carcinoma, anaplastic",Male,ECACC
+ACH-000904,NCIH2106_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000905,5637_URINARY_TRACT,,687452,1157,Bladder Cancer,Unknown,Male,ATCC
+ACH-000906,ES2_OVARY,,1240128,869,Ovarian Cancer,"Carcinoma, clear cell",Female,ATCC
+ACH-000907,SNU349_KIDNEY,,,,Kidney Cancer,"Renal Carcinoma, clear cell",Male,KCLB
+ACH-000908,SNU520_STOMACH,,,,Gastric Cancer,Stomach Adenocarcinoma,Female,KCLB
+ACH-000909,JHUEM2_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,Female,RIKEN
+ACH-000910,MDAMB453_BREAST,,908122,101,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000911,NUGC3_STOMACH,,908455,1251,Gastric Cancer,Adenocarcinoma,Male,JHSF
+ACH-000912,NCIH2286_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000913,ESS1_ENDOMETRIUM,,907000,293,Endometrial/Uterine Cancer,Endometrial Stromal Sarcoma,Female,DSMZ
+ACH-000915,IPC298_SKIN,,907171,77,Skin Cancer,Melanoma,Female,DSMZ
+ACH-000916,NCIH1573_LUNG,,908472,372,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ATCC
+ACH-000917,TE4_OESOPHAGUS,,1503371,382,Esophageal Cancer,Squamous Cell Carcinoma,,RIKEN
+ACH-000104,LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,Loucy,907789,1645,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Female,ATCC
+ACH-000919,IM95_STOMACH,,1240155,405,Gastric Cancer,Adenocarcinoma,Male,HSRRB
+ACH-000920,CMLT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910951,160,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Female,DSMZ
+ACH-000921,NCIH1339_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,ATCC
+ACH-000874,RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909703,862,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,ATCC
+ACH-000924,NCIH2172_LUNG,,1298353,1692,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",Female,ATCC
+ACH-000925,DV90_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,DSMZ
+ACH-000926,HT55_LARGE_INTESTINE,,907287,1688,Colon/Colorectal Cancer,Colon Carcinoma,,ECACC
+ACH-000927,BT474_BREAST,,946359,412,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000928,JHUEM1_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,RIKEN
+ACH-000929,NCIH2110_LUNG,,1298351,1948,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",,ATCC
+ACH-000643,HDQP1_BREAST,,1290922,743,Breast Cancer,Breast Ductal Carcinoma,Female,DSMZ
+ACH-000931,HMCB_SKIN,,,,Skin Cancer,Melanoma,,ATCC
+ACH-000932,SNU1_STOMACH,,908444,564,Gastric Cancer,Carcinoma,Male,ATCC
+ACH-000933,SNU324_PANCREAS,,,,Pancreatic Cancer,Carcinoma,Male,KCLB
+ACH-000759,MDAMB175VII_BREAST,,908120,50,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000935,MDST8_LARGE_INTESTINE,,1240173,928,Colon/Colorectal Cancer,Colon Carcinoma,,ECACC
+ACH-000936,EFO27_OVARY,,906852,1497,Ovarian Cancer,"Adenocarcinoma, mucinous papillary",Female,DSMZ
+ACH-001289,COGAR359_SOFT_TISSUE,,,,Rhabdoid,Atypical Teratoid Rhabdoid Tumor (ATRT),-1,
+ACH-000122,SUPT11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SUP-T11,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-000939,SKUT1_SOFT_TISSUE,,909732,725,Sarcoma,Leiomyosarcoma,Female,ATCC
+ACH-000940,AN3CA_ENDOMETRIUM,,910781,1294,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,ATCC
+ACH-000941,HEC1B_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,ATCC
+ACH-000372,P12ICHIKAWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,P12-ICHIKAWA,909251,2153,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-000943,RKO_LARGE_INTESTINE,,909698,607,Colon/Colorectal Cancer,Colon Carcinoma,,ATCC
+ACH-000944,NAMALWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908159,669,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Female,JCRB
+ACH-000945,NCIH650_LUNG,,722066,1539,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",Male,ATCC
+ACH-000946,HEC265_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000947,OVK18_OVARY,,1480371,200,Ovarian Cancer,"Adenocarcinoma, endometrioid",Female,Riken
+ACH-000948,2313287_STOMACH,,910924,558,Gastric Cancer,Adenocarcinoma,Male,DSMZ
+ACH-000949,TGBC11TKB_STOMACH,,909770,1917,Gastric Cancer,Adenocarcinoma,Female,RIKEN
+ACH-000950,LOVO_LARGE_INTESTINE,,907790,306,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000951,NCIH2342_LUNG,,687819,1814,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,ATCC
+ACH-000952,MDAPCA2B_PROSTATE,,,,Prostate Cancer,Adenocarcinoma,Male,ATCC
+ACH-000953,SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909743,1452,Leukemia,"T-cell, unspecified",Male,ATCC
+ACH-000954,HEC1A_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,Female,ATCC
+ACH-000955,SNU407_LARGE_INTESTINE,,1660034,1907,Colon/Colorectal Cancer,Colon Carcinoma,Male,KCLB
+ACH-000956,22RV1_PROSTATE,,924100,1027,Prostate Cancer,Carcinoma,Male,ATCC
+ACH-000957,LS180_LARGE_INTESTINE,,998189,2081,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000958,SW48_LARGE_INTESTINE,,909751,1,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ATCC
+ACH-000959,SNUC4_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,KCLB
+ACH-000059,SUPB15_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,SUP-B15,1247871,786,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,ATCC
+ACH-000961,ISHIKAWAHERAKLIO02ER_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,ECACC
+ACH-000962,OC314_OVARY,,909257,896,Ovarian Cancer,"Cystadenocarcinoma, serous papillary",Female,ICLC
+ACH-000963,CCK81_LARGE_INTESTINE,,1240123,1915,Colon/Colorectal Cancer,Colon Adenocarcinoma,,HSRRB
+ACH-000519,PEER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,PEER,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Female,HSRRB
+ACH-000965,RL952_ENDOMETRIUM,,930082,2215,Endometrial/Uterine Cancer,Adenosquamous Carcinoma,Female,ATCC
+ACH-000966,IGROV1_OVARY,,905968,1215,Ovarian Cancer,"Adenocarcinoma, endometrioid",Female,NCI/DCTD
+ACH-000967,SNUC2A_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Carcinoma,Female,ATCC
+ACH-000968,COLO792_SKIN,,906814,1467,Skin Cancer,Melanoma,Male,ECACC
+ACH-000969,KM12_LARGE_INTESTINE,,905989,1990,Colon/Colorectal Cancer,Colon Adenocarcinoma,-1,JCRB
+ACH-000970,SNUC5_LARGE_INTESTINE,,1674021,152,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Female,KCLB
+ACH-000971,HCT116_LARGE_INTESTINE,,905936,1920,Colon/Colorectal Cancer,Colon Carcinoma,Male,ATCC
+ACH-000972,HEC151_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000973,639V_URINARY_TRACT,,906798,1483,Bladder Cancer,Transitional Cell Carcinoma,Male,ATCC
+ACH-000974,SNGM_ENDOMETRIUM,,909735,2058,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,HSSRB
+ACH-001300,CHLA15_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,,
+ACH-000976,HUCCT1_BILIARY_TRACT,,907069,1213,Bile Duct Cancer,"Cholangiocarcinoma, intrahepatic",Male,HSSRB
+ACH-000977,LNCAPCLONEFGC_PROSTATE,,907788,2080,Prostate Cancer,Adenocarcinoma,Male,ATCC
+ACH-000978,EN_ENDOMETRIUM,,1240127,1919,Endometrial/Uterine Cancer,Endometrial Carcinoma,Female,DSMZ
+ACH-000979,DU145_PROSTATE,,905935,872,Prostate Cancer,Carcinoma,Male,ATCC
+ACH-000980,NCIH1155_LUNG,,908467,801,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",Male,ATCC
+ACH-000964,MOLT3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,PT-6ZZI
+ACH-000982,GP2D_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,ECACC
+ACH-000983,KCL22_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330931,1513,Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",Female,DSMZ
+ACH-000984,HEC6_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000985,LS411N_LARGE_INTESTINE,,907794,724,Colon/Colorectal Cancer,Colon Carcinoma,Male,ATCC
+ACH-000986,HT115_LARGE_INTESTINE,,907289,2099,Colon/Colorectal Cancer,Colon Carcinoma,,ECACC
+ACH-000987,MEWO_SKIN,,908128,102,Skin Cancer,Melanoma,Male,ATCC
+ACH-000988,MFE319_ENDOMETRIUM,,1240174,1816,Endometrial/Uterine Cancer,Unknown,Female,DSMZ
+ACH-000989,SNU175_LARGE_INTESTINE,,1659928,154,Colon/Colorectal Cancer,"Colorectal Carcinoma, mucinous",Female,KCLB
+ACH-000990,HEC108_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000991,SNU81_LARGE_INTESTINE,,1660036,697,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Male,KCLB
+ACH-000992,BICR18_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,Squamous Cell Carcinoma,Male,ECACC
+ACH-000993,JHUEM7_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,RIKEN
+ACH-000994,HEC59_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000105,ALLSIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,ALL-SIL,1295740,2263,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-000996,HEC251_ENDOMETRIUM,,,,Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,Female,HSSRB
+ACH-000997,HCT15_LARGE_INTESTINE,,905937,1553,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-000998,CW2_LARGE_INTESTINE,,910554,1833,Colon/Colorectal Cancer,Colorectal Carcinoma,Female,RIKEN
+ACH-000999,SNU1040_LARGE_INTESTINE,,1659823,2191,Colon/Colorectal Cancer,Colorectal Carcinoma,Male,KCLB
+ACH-001000,1321N1_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioma,,ECACC
+ACH-001001,143B_BONE,,,,Bone Cancer,Osteosarcoma,Female,ATCC
+ACH-001002,451LU_SKIN,,1287706,577,Skin Cancer,Melanoma,-1,
+ACH-001011,ACCS_URINARY_TRACT,,,,Bladder Cancer,Carcinoma,Female,
+ACH-001015,AZ521_SMALL_INTESTINE,,,,Gastric Cancer,Duodenal Adenocarcinoma,,
+ACH-001016,BECKER_CENTRAL_NERVOUS_SYSTEM,,906746,2090,Brain Cancer,Glioma,Male,HSRRB
+ACH-001017,BGC823_STOMACH,,,,Gastric Cancer,Adenocarcinoma,Male,
+ACH-001018,BJHTERT_FIBROBLAST,,,,Fibroblast,Unknown,-1,
+ACH-001020,BT16_SOFT_TISSUE,,,,Rhabdoid,Atypical Teratoid Rhabdoid Tumor (ATRT),,
+ACH-001021,C3A_LIVER,,910850,1161,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-000499,EW8_BONE,EW8,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001023,CGTHW1_THYROID,,910568,65,Thyroid Cancer,"Carcinoma, follicular",Female,DSMZ
+ACH-001024,CHL1_SKIN,,910853,739,Skin Cancer,Melanoma,,ATCC
+ACH-001301,COGN278_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,,
+ACH-000279,EWS502_BONE,EWS502,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001302,COGN305_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,-1,
+ACH-000391,MHHES1_BONE,MHH-ES-1,908134,339,Bone Cancer,Ewings Sarcoma,Male,DSMZ
+ACH-000041,RDES_BONE,RD-ES,,,Bone Cancer,Ewings Sarcoma,Male,ATCC
+ACH-001036,CMK115_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Acute Myelogenous Leukemia (AML),,HSSRB
+ACH-001037,CMK86_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Acute Myelogenous Leukemia (AML),,HSRRB
+ACH-001039,COLO205_LARGE_INTESTINE,,905961,1687,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-001041,COLO699_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,DSMZ
+ACH-001042,COLO704_OVARY,,,,Ovarian Cancer,Carcinoma,Female,DSMZ
+ACH-001043,COLO775_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Plasma Cell,Female,
+ACH-001044,COLO818_SKIN,,,,Skin Cancer,Melanoma,,DSMZ
+ACH-001047,CORL51_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-001048,COV504_OVARY,,,,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,ECACC
+ACH-001049,CPCN_LUNG,,753547,292,Lung Cancer,Small Cell Lung Cancer (SCLC),,ATCC
+ACH-001431,TC205_BONE,,,,Bone Cancer,Ewings Sarcoma,-1,
+ACH-001052,D384_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-000128,LN319_CENTRAL_NERVOUS_SYSTEM,LN-319,,,Brain Cancer,Glioblastoma,Male,
+ACH-000512,INA6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,INA-6,,,Myeloma,Multiple Myeloma,,
+ACH-001055,D556_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-001057,DERL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-001059,DL_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,-1,
+ACH-001060,DL40_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-001061,DLD1_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,ATCC
+ACH-001063,DOV13_OVARY,,1479987,1897,Non-Cancerous,Control,Female,Academic Lab
+ACH-001064,EB2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906846,873,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Female,ATCC
+ACH-000349,HCC1500_BREAST,HCC1500,1303900,653,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000887,SF172_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Female,
+ACH-001068,FEPD_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-001071,GLC82_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Female,ICLC
+ACH-001072,GRM_SKIN,,,,Skin Cancer,Melanoma,Male,
+ACH-001075,NCIH292_LUNG,,753604,935,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Mucoepidermoid Carcinoma",Female,ATCC
+ACH-001078,HCC1588_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Female,KCLB
+ACH-001079,HCC1897_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,
+ACH-001081,HCC2998_LARGE_INTESTINE,,905971,43,Colon/Colorectal Cancer,Unknown,,
+ACH-001084,HCT8_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Male,
+ACH-001086,HELA_CERVIX,,1298134,1799,Cervical Cancer,Carcinoma,,
+ACH-001087,HK2_KIDNEY,,,,immortalized_epithelial,kidney,,
+ACH-001088,HLC1_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001089,HLE_LIVER,,907057,311,Liver Cancer,Hepatocellular Carcinoma,Male,HSRRB
+ACH-001090,HN_UPPER_AERODIGESTIVE_TRACT,,907059,1060,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",Male,DSMZ
+ACH-001091,HRT18_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,Male,
+ACH-001093,HS604T_FIBROBLAST,,,,Lymphoma,Unknown,Male,ATCC
+ACH-001094,HTK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,,ECACC
+ACH-001270,127399_SOFT_TISSUE,,,,Sarcoma,Synovial,,
+ACH-001097,KARPAS384_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,-1,
+ACH-001098,KCIMOH1_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,DSMZ
+ACH-001099,KD_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001100,KHYG_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,Unknown,,
+ACH-001101,KLM1_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",,RIKEN
+ACH-000197,TALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,TALL-1,909762,2218,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-001107,KP1N_PANCREAS,,1298216,228,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,
+ACH-001108,KP1NL_PANCREAS,,,,Pancreatic Cancer,Carcinoma,Male,
+ACH-001109,KPMRTRY_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001280,SCS214_SOFT_TISSUE,,,,Sarcoma,Synovial,-1,
+ACH-001113,LC1SQSF_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",Male,RIKEN
+ACH-001118,M059J_CENTRAL_NERVOUS_SYSTEM,,949094,2225,Brain Cancer,Glioma,,
+ACH-001283,TC106_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-000828,ZR7530_BREAST,,909907,429,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000068,REC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,REC-1,,,Lymphoma,"B-cell, Non-Hodgkins, Mantle Cell",Male,DSMZ
+ACH-001122,MKL1_SKIN,,,,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001123,MKL2_SKIN,,,,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001125,MOGGCCM_CENTRAL_NERVOUS_SYSTEM,,908144,1383,Brain Cancer,Glioma,,
+ACH-001126,MOGGUVW_CENTRAL_NERVOUS_SYSTEM,,908145,1543,Brain Cancer,Glioma,,
+ACH-000942,HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Male,DSMZ
+ACH-001322,CME1_SOFT_TISSUE,,,,Sarcoma,Synovial,-1,
+ACH-001128,MON_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001129,MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Acute Myelogenous Leukemia (AML),Male,DSMZ
+ACH-001130,MOTN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,Female,DSMZ
+ACH-001131,MS1_SKIN,,753594,674,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001132,MTA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-000143,HCC2429_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001136,NCIH187_LUNG,,688007,1323,Lung Cancer,Small Cell Lung Cancer (SCLC),-1,
+ACH-001137,NCIH1993_LUNG,,908476,78,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001138,NCIH2141_LUNG,,688014,1537,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,ATCC
+ACH-001140,NCIH820_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001142,NHAHTDD_PRIMARY,,,,Primary Cells,Immortalized epithelial,-1,
+ACH-001143,NKL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,Unknown,,
+ACH-001145,OC316_OVARY,,,,Ovarian Cancer,"Adenocarcinoma, serous",Female,ICLC
+ACH-001146,OCILY10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),,
+ACH-001147,OCILY12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-001148,OCILY132_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,T-cell,,
+ACH-001150,OUMS27_BONE,,,,Bone Cancer,Chondrosarcoma,Male,HSSRB
+ACH-001151,OVCAR5_OVARY,,905969,1858,Ovarian Cancer,"Adenocarcinoma, high grade serous",Female,Garraway Lab
+ACH-001162,PCM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,,Riken
+ACH-001163,CCLFPEDS0001T_KIDNEY,,,,Kidney Cancer,Renal Medullary Carcinoma,-1,
+ACH-001164,CCLFPEDS0003T_SOFT_TISSUE,,,,Sarcoma,Unknown,-1,
+ACH-001170,PETA_SKIN,,,,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001171,PL45_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,ATCC
+ACH-000251,NCIH2887_LUNG,NCI-H2887,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",,
+ACH-001175,RCC4_KIDNEY,,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-001182,RPMI6666_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909701,961,Unknown,,-1,ATCC
+ACH-001183,RT11284_URINARY_TRACT,,,,Bladder Cancer,Carcinoma,Female,ECACC
+ACH-000337,NCIH3122_LUNG,NCI-H3122,1240190,918,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",-1,
+ACH-001187,SF8657_SKIN,,,,Skin Cancer,Melanoma,Male,
+ACH-001188,SHSY5Y_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,Female,ATCC
+ACH-001189,SJRH30_SOFT_TISSUE,,909716,2260,Sarcoma,Rhabdomyosarcoma,Male,ATCC
+ACH-001190,SKMEL2_SKIN,,905955,1191,Skin Cancer,Melanoma,Male,ATCC
+ACH-000087,SKES1_BONE,SK-ES-1,684072,41,Bone Cancer,Ewings Sarcoma,Male,ATCC
+ACH-001192,SKNEP1_BONE,,,,Bone Cancer,Ewings Sarcoma,-1,
+ACH-000039,SKNMC_BONE,SK-N-MC,,,Bone Cancer,Ewings Sarcoma,Female,ATCC
+ACH-001194,SKRC31_KIDNEY,,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-000339,HCC461_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-000436,OCIMY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,OCI-MY7,,,Myeloma,Multiple Myeloma,-1,
+ACH-001198,SNB19_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Astrocytoma,Male,DSMZ
+ACH-001199,SNUC2B_LARGE_INTESTINE,,909740,37,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,
+ACH-001200,STM9101_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001201,SUMB002_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-001203,SUPHD1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331039,1451,Lymphoma,"B-cell, Hodgkins",Male,DSMZ
+ACH-001193,SKPNDW_BONE,,909731,946,Bone Cancer,Ewings Sarcoma,,
+ACH-001207,TIG3TD_FIBROBLAST,,,,Fibroblast,Unknown,-1,
+ACH-001208,TK10_KIDNEY,,905980,1401,Kidney Cancer,Unknown,,
+ACH-001738,CCRFCEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,905952,1151,Leukemia,Unknown,-1,
+ACH-001210,TTC1240_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001211,TTC549_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001212,TTC642_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,,
+ACH-001214,U138MG_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioma,,ATCC
+ACH-000658,KMS18_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Myeloma,Multiple Myeloma,,ATCC
+ACH-001230,UT7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Acute Myelogenous Leukemia (AML),Male,DSMZ
+ACH-000676,LN464_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioma,Male,
+ACH-001233,VMRCLCD_LUNG,,713869,277,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",Male,HSRRB
+ACH-001234,VMRCLCP_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,HSRRB
+ACH-001239,WM2664_SKIN,,,,Skin Cancer,Melanoma,Female,ATCC
+ACH-000930,HCC1569_BREAST,,907046,2127,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000757,A427_LUNG,,910851,1839,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001272,FUJI_SOFT_TISSUE,,,,Sarcoma,Synovial,-1,
+ACH-000872,HCC515_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001028,CHLA06ATRT_SOFT_TISSUE,,,,Rhabdoid,Atypical Teratoid Rhabdoid Tumor (ATRT),,
+ACH-001740,RH28_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",-1,
+ACH-001737,HSB2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",-1,
+ACH-001279,SCCOHT1_OVARY,,,,Ovarian Cancer,Small Cell Carcinoma of the Ovary Hypercalcemic Type (SCCOHT),-1,
+ACH-001277,YAMATO_SOFT_TISSUE,,,,Sarcoma,Synovial,,
+ACH-001745,RHJT_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",,
+ACH-001735,SEMK2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Unknown,-1,
+ACH-001295,Y79_AUTONOMIC_GANGLIA,,,,Eye Cancer,Retinoblastoma,-1,
+ACH-001736,HB1119_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Unknown,-1,
+ACH-000272,SLR24_KIDNEY,,,,Kidney Cancer,Renal Cell Carcinoma,-1,
+ACH-001956,MUGCHOR1_BONE,,,,Bone Cancer,Chordoma,,
+ACH-001957,UMCHOR1_BONE,,,,Bone Cancer,Chordoma,,
+ACH-001306,8305C_THYROID,,906795,433,Thyroid Cancer,Carcinoma,Female,DSMZ
+ACH-001307,8505C_THYROID,,924102,868,Thyroid Cancer,Carcinoma,Female,HSRRB
+ACH-001310,HA1E_KIDNEY,,,,Kidney Cancer,Unknown,,
+ACH-001318,PLCPRF5_LIVER,,,,Liver Cancer,Hepatocellular Carcinoma,Male,ATCC
+ACH-001321,TT_THYROID,,,,Thyroid Cancer,Squamous Cell Carcinoma,Female,ATCC
+ACH-000975,HCC2450_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,
+ACH-001328,A431_SKIN,,910925,97,Skin Cancer,Squamous Cell Carcinoma,,
+ACH-001329,ANGMCSS_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Male,
+ACH-001331,BICR10_UPPER_AERODIGESTIVE_TRACT,,1290724,1676,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",-1,
+ACH-001332,BICR78_UPPER_AERODIGESTIVE_TRACT,,1240122,913,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",-1,
+ACH-001333,C33A_CERVIX,,687505,1761,Cervical Cancer,Carcinoma,,
+ACH-001334,C4I_CERVIX,,687506,561,Cervical Cancer,Carcinoma,,
+ACH-001336,CASKI_CERVIX,,906824,1767,Cervical Cancer,Squmous Cell Carcinoma,Female,
+ACH-001338,CHP134_AUTONOMIC_GANGLIA,,910941,1562,Neuroblastoma,Unknown,Male,
+ACH-001339,COLO794_SKIN,,,,Skin Cancer,Melanoma,Male,
+ACH-001340,COV413A_OVARY,,,,Ovarian Cancer,Carcinoma,Female,
+ACH-001341,DOTC24510_CERVIX,,906843,473,Cervical Cancer,Cervical Adenocarcinoma,Female,
+ACH-001344,GIMEN_AUTONOMIC_GANGLIA,,906872,1530,Neuroblastoma,Unknown,Male,
+ACH-001345,GP5D_LARGE_INTESTINE,,907291,741,Colon/Colorectal Cancer,Colon Adenocarcinoma,Female,
+ACH-001346,H103_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,Squamous Cell Carcinoma,Male,
+ACH-001350,HTCC3_THYROID,,924151,329,Thyroid Cancer,"Carcinoma, giant cell",Female,
+ACH-001353,JOPACA1_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,
+ACH-001354,LAN2_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,Female,
+ACH-001355,LAN6_AUTONOMIC_GANGLIA,,949170,278,Neuroblastoma,Unknown,Male,
+ACH-001356,MB1_THYROID,,,,Thyroid Cancer,"Carcinoma, anaplastic",Male,
+ACH-000934,MDAMB361_BREAST,,908121,880,Breast Cancer,Carcinoma,Female,ATCC
+ACH-000196,HCC1599_BREAST,HCC1599,749713,1264,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-001359,ME180_CERVIX,,687514,1040,Cervical Cancer,Squmous Cell Carcinoma,Female,
+ACH-001360,MS751_CERVIX,,1240179,386,Cervical Cancer,Squmous Cell Carcinoma,Female,
+ACH-001362,NCIH1770_LUNG,,687804,1014,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",Male,
+ACH-001363,NCIH2135_LUNG,,1298352,106,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",,
+ACH-001364,NCIH345_LUNG,,688021,1615,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-001365,NCIH847_LUNG,,1240193,630,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-001367,NMB_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,Male,
+ACH-001368,OACM51_OESOPHAGUS,,1503363,752,Esophageal Cancer,Adenocarcinoma,Female,
+ACH-001369,OCIC5X_OVARY,,,,Ovarian Cancer,"Adenocarcinoma, clear cell",Female,
+ACH-001373,OV17R_OVARY,,1480361,986,Ovarian Cancer,Adenocarcinoma,Female,
+ACH-001374,PA1_OVARY,,909255,643,Ovarian Cancer,Teratocarcinoma,Female,
+ACH-001375,PACADD119_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,
+ACH-001376,PACADD135_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,
+ACH-001377,PACADD137_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,
+ACH-001378,PACADD159_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,
+ACH-001379,PACADD161_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,
+ACH-001380,PACADD165_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Male,
+ACH-001382,PACADD188_PANCREAS,,,,Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",Female,
+ACH-001383,PWR1E_PROSTATE,,1330993,23,Prostate Cancer,Carcinoma,Male,
+ACH-001384,RO82W1_THYROID,,930083,1983,Thyroid Cancer,"Carcinoma, follicular",Female,
+ACH-001385,RPMI2650_UPPER_AERODIGESTIVE_TRACT,,909700,1163,Head and Neck Cancer,Squamous Cell Carcinoma,Male,
+ACH-001386,SCLC22H_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-000668,HCC70_BREAST,,907048,937,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000044,MDAMB134VI_BREAST,MDA-MB-134-VI,,,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-001390,SUM149PT_BREAST,,,,Breast Cancer,Breast Ductal Carcinoma,Female,
+ACH-001391,SUM159PT_BREAST,,,,Breast Cancer,"Carcinoma, anaplastic",Female,
+ACH-000818,BT483_BREAST,,949093,1231,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000554,UACC893_BREAST,UACC-893,909778,1090,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000902,CAL148_BREAST,,924106,1610,Breast Cancer,Breast Ductal Carcinoma,Female,DSMZ
+ACH-000755,HCC2218_BREAST,,749716,352,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-000691,HCC2157_BREAST,,749715,351,Breast Cancer,Breast Ductal Carcinoma,Female,ATCC
+ACH-001398,SW156_KIDNEY,,1240220,272,Kidney Cancer,Hypernephroma,Male,
+ACH-001399,SW626_LARGE_INTESTINE,,909753,2038,Colon/Colorectal Cancer,Unknown,Female,
+ACH-001400,SW954_CERVIX,,924247,1182,Cervical Cancer,Squmous Cell Carcinoma,Female,
+ACH-001401,SW13_ADRENAL_CORTEX,,909744,270,Adrenal Cancer,Carcinoma,Female,
+ACH-001402,SW756_CERVIX,,724839,1984,Cervical Cancer,Squmous Cell Carcinoma,Female,
+ACH-001403,TO14_OVARY,,,,Ovarian Cancer,Cystadenocarcinoma,Female,
+ACH-001358,MDAMB330_BREAST,,1330941,1989,Breast Cancer,"Carcinoma, lobular",Female,
+ACH-001249,YMB1_BREAST,,,,Breast Cancer,Carcinoma,Female,HSRRB
+ACH-001407,UMUC13_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,,
+ACH-001408,UMUC14_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,,
+ACH-001409,UMUC16_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,,
+ACH-001410,UMUC4_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Female,
+ACH-001411,UMUC5_URINARY_TRACT,,,,Bladder Cancer,Squamous Cell Carcinoma,Female,
+ACH-001412,UMUC10_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,,
+ACH-001413,UMUC11_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,,
+ACH-001414,UMUC6_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Male,
+ACH-001415,UMUC7_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Male,
+ACH-001416,UMUC9_URINARY_TRACT,,,,Bladder Cancer,Transitional Cell Carcinoma,Male,
+ACH-001417,UMC11_LUNG,,909779,1914,Lung Cancer,Carcinoid,Male,
+ACH-001418,UWB1289_OVARY,,1480374,1596,Ovarian Cancer,"Adenocarcinoma, serous",Female,
+ACH-001392,SUM185PE_BREAST,,,,Breast Cancer,"Carcinoma, anaplastic",Female,
+ACH-001397,SUM225CWN_BREAST,,,,Breast Cancer,Adenocarcinoma,Female,
+ACH-001425,CCLFPEDS0004T_SOFT_TISSUE,,,,Sarcoma,MPNST,-1,
+ACH-001173,R262_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Medulloblastoma,,
+ACH-001205,TC32_BONE,,,,Bone Cancer,Ewings Sarcoma,Female,
+ACH-000424,TC71_BONE,TC-71,1240221,2194,Bone Cancer,Ewings Sarcoma,Male,DSMZ
+ACH-001433,CCLFPEDS0008T_SOFT_TISSUE,,,,Sarcoma,Epithelioid,Unknown,
+ACH-001441,921_UVEA,,,,Eye Cancer,Uveal Melanoma,Female,
+ACH-001442,A388_SKIN,,910697,948,Cervical Cancer,Squmous Cell Carcinoma,Male,
+ACH-001443,ASH3_THYROID,,1290722,891,Thyroid Cancer,Carcinoma,Female,
+ACH-001450,BLUE1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",Male,
+ACH-001452,BONNA12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906695,196,Leukemia,Hairy Cell,Male,
+ACH-001453,BPH1_PROSTATE,,924105,1223,Prostate Cancer,Prostate Hyperplasia,Male,
+ACH-001454,C10_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,
+ACH-001456,C125PM_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,,
+ACH-001458,C75_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,
+ACH-001459,C80_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,
+ACH-001460,C84_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,
+ACH-001461,C99_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Adenocarcinoma,Male,
+ACH-001489,CORL32_LUNG,,1322212,1168,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,
+ACH-001490,CORL321_LUNG,,1322213,1484,Lung Cancer,Carcinoma,Female,
+ACH-001494,EGI1_BILIARY_TRACT,,906853,1315,Bile Duct Cancer,Cholangiocarcinoma,Male,
+ACH-001496,ESO26_OESOPHAGUS,,1503366,1680,Esophageal Cancer,Adenocarcinoma,Male,
+ACH-001497,ESO51_OESOPHAGUS,,1503367,668,Esophageal Cancer,Adenocarcinoma,,
+ACH-001500,FLO1_OESOPHAGUS,,1503361,1019,Esophageal Cancer,Adenocarcinoma,,
+ACH-001388,SUM102PT_BREAST,,,,Breast Cancer,Carcinoma,Female,
+ACH-001517,HEC1_ENDOMETRIUM,,907051,474,Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,Female,
+ACH-001519,HEMCSS_BONE,,907290,1921,Bone Cancer,"Chondrosarcoma, myeloid",Female,
+ACH-001521,HKA1_SKIN,,,,Head and Neck Cancer,Keratoacanthoma,Female,
+ACH-001522,HMY1_SKIN,,,,Skin Cancer,Melanoma,Male,
+ACH-001523,HSC1_SKIN,,,,Skin Cancer,Squamous Cell Carcinoma,Male,
+ACH-001524,HSC5_SKIN,,,,Skin Cancer,Squamous Cell Carcinoma,Male,
+ACH-001525,HT3_CERVIX,,907068,1393,Cervical Cancer,Carcinoma,Female,
+ACH-001526,HUO9_BONE,,907072,330,Bone Cancer,Osteosarcoma,Female,
+ACH-001528,IHH4_THYROID,,1240154,331,Thyroid Cancer,"Carcinoma, papillary",Male,
+ACH-001529,JAR_PLACENTA,,907175,633,Endometrial/Uterine Cancer,Choriocarcinoma,Male,
+ACH-001530,JEG3_PLACENTA,,907176,1195,Endometrial/Uterine Cancer,Choriocarcinoma,,
+ACH-001532,JMURTK2_SOFT_TISSUE,,,,Rhabdoid,Malignant Rhabdoid Tumor,Female,
+ACH-001536,KKU100_BILIARY_TRACT,,,,Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic",Female,
+ACH-001538,KKU213_BILIARY_TRACT,,,,Bile Duct Cancer,Cholangiocarcinoma,Male,
+ACH-000073,GRANTA519_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,GRANTA-519,1303897,1776,Lymphoma,"B-cell, Non-Hodgkins, Mantle Cell",Female,DSMZ
+ACH-001540,KMLS1_SOFT_TISSUE,,,,Liposarcoma,Unknown,-1,
+ACH-001542,KON_UPPER_AERODIGESTIVE_TRACT,,1298215,314,Head and Neck Cancer,Squamous Cell Carcinoma,Male,
+ACH-001544,KYAE1_OESOPHAGUS,,1503368,1624,Esophageal Cancer,Adenocarcinoma,,
+ACH-001546,LIM1215_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Carcinoma,,
+ACH-001549,LU135_LUNG,,713899,207,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-001550,MCC13_SKIN,,,,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001551,MCC142_SKIN,,,,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001552,MCC26_SKIN,,,,Skin Cancer,Merkel Cell Carcinoma,,
+ACH-001554,MEL202_UVEA,,,,Eye Cancer,Uveal Melanoma,-1,
+ACH-001555,MERO14_PLEURA,,,,Lung Cancer,Mesothelioma,Male,
+ACH-001556,MERO25_PLEURA,,,,Lung Cancer,Mesothelioma,Male,
+ACH-001557,MERO41_PLEURA,,,,Lung Cancer,Mesothelioma,Male,
+ACH-001558,MERO48A_PLEURA,,,,Lung Cancer,Mesothelioma,,
+ACH-001559,MERO82_PLEURA,,,,Lung Cancer,Mesothelioma,,
+ACH-001560,MERO83_PLEURA,,,,Lung Cancer,Mesothelioma,,
+ACH-001561,MERO84_PLEURA,,,,Lung Cancer,Mesothelioma,,
+ACH-001562,MERO95_PLEURA,,,,Lung Cancer,Mesothelioma,,
+ACH-001563,MM127_SKIN,,,,Skin Cancer,"Melanoma, amelanotic",,
+ACH-001566,MM370_SKIN,,,,Skin Cancer,Melanoma,,
+ACH-001567,MM383_SKIN,,,,Skin Cancer,Melanoma,,
+ACH-001568,MM386_SKIN,,,,Skin Cancer,Melanoma,,
+ACH-001569,MM415_SKIN,,,,Skin Cancer,Melanoma,,
+ACH-001570,MM426_SKIN,,,,Skin Cancer,Melanoma,,
+ACH-001578,NCCIT_TESTIS,,908441,1098,Embryonal Cancer,Carcinoma,Male,
+ACH-001591,NCIH1417_LUNG,,688001,423,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,
+ACH-001599,NCIH64_LUNG,,688026,1371,Lung Cancer,Small Cell Lung Cancer (SCLC),Female,
+ACH-001603,NH12_AUTONOMIC_GANGLIA,,908447,1546,Neuroblastoma,Unknown,Male,
+ACH-001605,NO10_CENTRAL_NERVOUS_SYSTEM,,908452,36,Brain Cancer,Glioma,Male,
+ACH-001606,NO11_CENTRAL_NERVOUS_SYSTEM,,908450,1489,Brain Cancer,Glioma,Female,
+ACH-001607,NOZ_LIVER,,,,Gallbladder Cancer,Carcinoma,Female,
+ACH-001610,NP5_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioma,Male,
+ACH-001611,NP8_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioblastoma,Female,
+ACH-000687,CI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins",Female,DSMZ
+ACH-000398,RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,RI-1,,,Lymphoma,"B-cell, Non-Hodgkins",Female,DSMZ
+ACH-001121,MEC2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, unspecified",Male,DSMZ
+ACH-001624,ONDA9_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Glioma,Male,
+ACH-001625,OSC19_UPPER_AERODIGESTIVE_TRACT,,1298362,1253,Head and Neck Cancer,Squamous Cell Carcinoma,Male,
+ACH-001626,OSC20_UPPER_AERODIGESTIVE_TRACT,,1240196,1254,Head and Neck Cancer,Squamous Cell Carcinoma,Female,
+ACH-001628,PEA1_OVARY,,,,Ovarian Cancer,Cystadenocarcinoma,Female,
+ACH-001630,PEO1_OVARY,,1480372,177,Ovarian Cancer,Cystadenocarcinoma,Female,
+ACH-001638,RCK8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330995,283,Lymphoma,"B-cell, unspecified",,
+ACH-000130,NALM19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,NALM-19,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Male,DSMZ
+ACH-001641,SAT_UPPER_AERODIGESTIVE_TRACT,,1299050,562,Head and Neck Cancer,Squamous Cell Carcinoma,,
+ACH-001642,SCC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910930,1475,Lymphoma,"B-cell, Non-Hodgkins",Female,
+ACH-001645,SEKI_SKIN,,,,Skin Cancer,Melanoma,Female,
+ACH-001650,SISO_CERVIX,,1240212,1498,Cervical Cancer,Cervical Adenocarcinoma,Female,
+ACH-001653,SKGT2_STOMACH,,1503364,1868,Gastric Cancer,Adenocarcinoma,Male,
+ACH-001654,SKGT4_OESOPHAGUS,,1503365,2164,Esophageal Cancer,Adenocarcinoma,,
+ACH-001655,SKN_ENDOMETRIUM,,1240215,791,Endometrial/Uterine Cancer,Squamous Cell Carcinoma,Female,
+ACH-001656,SKNO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Acute Myelogenous Leukemia (AML),,
+ACH-001389,SUM1315MO2_BREAST,,,,Breast Cancer,Breast Ductal Carcinoma,Female,
+ACH-001819,MFM223_BREAST,,,,Breast Cancer,Ductal Mammary Carcinoma,-1,
+ACH-000922,RCHACV_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330994,1160,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,DSMZ
+ACH-001670,TASK1_CENTRAL_NERVOUS_SYSTEM,,,,Brain Cancer,Primitive Neuroectodermal Tumor (PNET) Medulloblastoma,,
+ACH-001673,TFK1_BILIARY_TRACT,,,,Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic",Male,
+ACH-001674,TGW_AUTONOMIC_GANGLIA,,910780,1752,Neuroblastoma,Unknown,,
+ACH-000405,MEC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,MEC-1,,,Leukemia,"Chronic Lymphoblastic Leukemia (CLL), B-cell",Male,DSMZ
+ACH-000583,MC116_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907799,2082,Lymphoma,"B-cell, Non-Hodgkins",Male,ATCC
+ACH-000914,HT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907063,745,Lymphoma,"B-cell, Non-Hodgkins",Male,ATCC
+ACH-001680,U698M_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909777,548,Lymphoma,"B-cell, unspecified",Male,
+ACH-001514,HCC1008_BREAST,,,,Breast Cancer,Breast Ductal Carcinoma,Female,
+ACH-000346,JVM3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,JVM-3,907270,1632,Leukemia,"Chronic Lymphoblastic Leukemia (CLL), B-cell",Male,DSMZ
+ACH-001702,VAESBJ_SOFT_TISSUE,,688121,1004,Sarcoma,Epithelioid,Male,
+ACH-000151,JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,JM1,1327768,2096,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,ATCC
+ACH-001704,VMRCMELG_SKIN,,930301,158,Skin Cancer,Melanoma,,
+ACH-000038,EHEB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,EHEB,906854,39,Leukemia,"Chronic Lymphoblastic Leukemia (CLL), B-cell",Female,DSMZ
+ACH-000923,BCP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins",Male,ATCC
+ACH-001677,U2904_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, unspecified",Male,
+ACH-001711,PFSK1_CENTRAL_NERVOUS_SYSTEM,,683667,1682,Brain Cancer,Primitive Neuroectodermal Tumor (PNET) Medulloblastoma,Male,
+ACH-001715,CAL72_BONE,,906827,550,Bone Cancer,Osteosarcoma,Male,
+ACH-001716,GOTO_AUTONOMIC_GANGLIA,,906875,1009,Neuroblastoma,Unknown,,
+ACH-001639,ROS50_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331025,1764,Leukemia,"B-cell, unspecified",Male,
+ACH-000795,MOLT13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908146,86,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Female,DSMZ
+ACH-000918,MOLT16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908147,1321,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",Female,DSMZ
+ACH-001184,SCMCRM2_SOFT_TISSUE,,,,Sarcoma,Rhabdomyosarcoma,-1,"Janet Shipley, Sarcoma Molecular Pathology, The Institute of Cancer Research"
+ACH-001741,RMS13_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",,
+ACH-001743,RC2_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",-1,"Pier-Luigi Lollini, Interdepartmental Centre for Cancer Research ""Giorgio Prodi"", University of Bologna, Via Massarenti 9, Bologna, 40138, Italy"
+ACH-001303,NB1643_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,,
+ACH-001750,TTC442_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, embryonal",,Triche lab
+ACH-001751,RH36_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, embryonal",,"Peter Houghton, The Research Institute at Nationwide Childrens Hospital, Columbus OH"
+ACH-001765,RH4_SOFT_TISSUE,,,,Sarcoma,"Rhabdomyosarcoma, alveolar",,Tom Look
+ACH-001767,CCLFPEDS0018T_SOFT_TISSUE,,,,Fibroblast,,-1,
+ACH-001790,RH18DM_SOFT_TISSUE,RH18DM_ENGINEERED,,,Sarcoma,"Rhabdomyosarcoma, alveolar",-1,
+ACH-001814,OS252_BONE,,,,Bone Cancer,Osteosarcoma,-1,
+ACH-001842,ICC2_BILIARY_TRACT,,,,Bile Duct Cancer,"Cholangiocarcinoma, intrahepatic",,
+ACH-001861,TGBC1TKB_BILIARY_TRACT,,,,Gallbladder Cancer,Cholangiocarcinoma,-1,
+ACH-000029,HCC827GR5_LUNG,HCC-827-GR5;HCC827 GR5,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",-1,
+ACH-000700,NCIH2882_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,
+ACH-001958,MS1_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),-1,
+ACH-000995,JURKAT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,998184,1210,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",,DSMZ
+ACH-002015,MEL285_UVEA,,,,Eye Cancer,Uveal Melanoma,Female,
+ACH-002017,OMM1_UVEA,,,,Eye Cancer,Uveal Melanoma,Male,
+ACH-002020,SKGIIIA_CERVIX,,,,Cervical Cancer,Carcinoma,Female,
+ACH-002029,SAS_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, tongue",,
+ACH-002040,HMVII_SKIN,,,,Skin Cancer,Melanoma,Female,
+ACH-002043,CA922_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Carcinoma, gingival",Male,
+ACH-002045,HO1U1_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",,
+ACH-002051,LU134A_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-002052,LU139_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-002058,ATN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"T-cell, unspecified",Male,
+ACH-002059,P30OHK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",Female,
+ACH-002062,SLVL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, unspecified",Female,
+ACH-002067,NOS1_BONE,,,,Bone Cancer,Osteosarcoma,Male,
+ACH-002077,LU165_LUNG,,,,Lung Cancer,Small Cell Lung Cancer (SCLC),Male,
+ACH-002083,NB69_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,Male,
+ACH-002085,HSSYII_LUNG,,,,Sarcoma,Synovial,,
+ACH-002335,UCH1_BONE,,,,Bone Cancer,Chordoma,-1,
+ACH-002245,HS445_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1322218,1243,Lymphoma,Hodgkins,Female,ATCC
+ACH-002345,CAR1_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colorectal Adenocarcinoma,-1,JCRB
+ACH-000008,A101D_SKIN,,910921,1806,Skin Cancer,Melanoma,Male,ATCC
+ACH-000474,[MERGED_TO_ACH-001075]NCIH292_LUNG,,753604,935,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Mucoepidermoid Carcinoma",Female,ATCC
+ACH-001045,COLO849_SKIN,,,,Skin Cancer,Melanoma,,DSMZ
+ACH-001066,EWS834_BONE,,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001092,HS571T_OVARY,,,,Ovarian Cancer,Carcinoma,,
+ACH-001206,TCC466_BONE,TTC466_BONE,,,Bone Cancer,Ewings Sarcoma,,
+ACH-001224,UMRC2_KIDNEY,,,,Kidney Cancer,Renal Cell Carcinoma,,
+ACH-001665,SR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,905965,794,Lymphoma,Immunoblastic,Male,
+ACH-001827,184B5_BREAST,,,,Non-Cancerous,Unknown,-1,
+ACH-002089,201T_LUNG,,1287381,220,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Sanger
+ACH-002090,BB65RCC_KIDNEY,,753533,181,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002091,CAL39_VULVA,,924107,998,Skin Cancer,"Squamous Cell Carcinoma, vulvar",,Sanger
+ACH-002092,CHSA0011_BONE,,1290767,1466,Bone Cancer,Chondrosarcoma,,Sanger
+ACH-002093,CHSA0108_BONE,,1290768,280,Bone Cancer,Chondrosarcoma,,Sanger
+ACH-002094,CHSA8926_BONE,,1303912,554,Bone Cancer,Chondrosarcoma,,Sanger
+ACH-002095,CORL303_LUNG,,1297438,1942,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002096,CP50MELB_SKIN,,753545,1248,Skin Cancer,Melanoma,,Sanger
+ACH-002097,CP66MEL_SKIN,,753546,1845,Skin Cancer,Melanoma,,Sanger
+ACH-002098,CP67MEL_SKIN,,949092,640,Skin Cancer,Melanoma,,Sanger
+ACH-002099,CS1_BONE,,1290795,1006,Bone Cancer,Chondrosarcoma,,Sanger
+ACH-002100,DJM1_SKIN,,906841,899,Skin Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002101,EMCBAC1_LUNG,,1503369,967,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",,Sanger
+ACH-002102,EMCBAC2_LUNG,,1503370,2232,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",,Sanger
+ACH-002103,ES1_BONE,,949158,1564,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002104,ES3_BONE,,684055,1342,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002105,ES4_BONE,,949156,70,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002106,ES5_BONE,,684057,610,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002107,ES6_BONE,,949157,611,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002108,ES7_BONE,,684059,71,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002109,ES8_BONE,,949155,2139,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002110,EW1_BONE,,949163,902,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002111,EW11_BONE,,684062,231,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002112,EW12_BONE,,949162,2140,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002113,EW13_BONE,,949166,324,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002114,EW16_BONE,,949165,1529,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002115,EW18_BONE,,949164,612,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002116,EW22_BONE,,949167,613,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002117,EW24_BONE,,949168,704,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002118,EW3_BONE,,949161,2176,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002119,EW7_BONE,,949160,72,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002120,GAK_SKIN,,910932,325,Skin Cancer,Melanoma,,Sanger
+ACH-002121,GMEL_SKIN,,1240130,1981,Skin Cancer,Melanoma,,Sanger
+ACH-002122,GT3TKB_STOMACH,,907041,614,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",,Sanger
+ACH-002123,H2369_PLEURA,,1290808,165,Lung Cancer,Mesothelioma,,Sanger
+ACH-002124,NCIH2373_PLEURA,,1290809,1797,Lung Cancer,Mesothelioma,,Sanger
+ACH-002125,NCIH2461_PLEURA,,1290810,1508,Lung Cancer,Mesothelioma,,Sanger
+ACH-002126,NCIH2591_PLEURA,,1240131,1509,Lung Cancer,Mesothelioma,,Sanger
+ACH-002127,NCIH2595_PLEURA,,1240132,51,Lung Cancer,Mesothelioma,,Sanger
+ACH-002128,NCIH2722_PLEURA,,1290812,1798,Lung Cancer,Mesothelioma,,Sanger
+ACH-002129,NCIH2731_PLEURA,,1240134,1074,Lung Cancer,Mesothelioma,,Sanger
+ACH-002130,NCIH2795_PLEURA,,1290813,1971,Lung Cancer,Mesothelioma,,Sanger
+ACH-002131,NCIH2803_PLEURA,,1240135,52,Lung Cancer,Mesothelioma,,Sanger
+ACH-002132,NCIH2804_PLEURA,,1240136,882,Lung Cancer,Mesothelioma,,Sanger
+ACH-002133,NCIH2810_PLEURA,,1240137,591,Lung Cancer,Mesothelioma,,Sanger
+ACH-002134,NCIH2818_PLEURA,,1290814,2254,Lung Cancer,Mesothelioma,,Sanger
+ACH-002135,NCIH2869_PLEURA,,1240138,309,Lung Cancer,Mesothelioma,,Sanger
+ACH-002136,H290_PLEURA,,1240139,742,Lung Cancer,Mesothelioma,,Sanger
+ACH-002137,[MERGED_TO_ACH-000109]H3255_LUNG,,1247873,1992,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",-1,Sanger
+ACH-002138,H513_LUNG,,1240141,2125,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",,Sanger
+ACH-002139,HA7RCC_KIDNEY,,753558,1790,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002140,HEY_OVARY,,1479988,1096,Ovarian Cancer,"Adenocarcinoma, high grade serous",-1,Sanger
+ACH-002141,HSC39_STOMACH,,1322224,1991,Gastric Cancer,"Adenocarcinoma, signet ring cell",,Sanger
+ACH-002142,HUO3N1_BONE,,909977,2101,Bone Cancer,Osteosarcoma,-1,Sanger
+ACH-002143,ISTMEL1_SKIN,,907172,1501,Skin Cancer,Melanoma,,Sanger
+ACH-002144,ISTSL1_LUNG,,753564,1194,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002145,ISTSL2_LUNG,,753565,450,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002146,JHOS3_OVARY,,1480358,1595,Ovarian Cancer,"Adenocarcinoma, serous",,Sanger
+ACH-002147,K2_SKIN,,1298160,1980,Skin Cancer,Melanoma,,Sanger
+ACH-002148,K5_THYROID,,924238,365,Thyroid Cancer,"Carcinoma, follicular",,Sanger
+ACH-002149,KGN_OVARY,,924186,11,Ovarian Cancer,Granulosa Cell Tumor,,Sanger
+ACH-002150,LB1047RCC_KIDNEY,,753577,658,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002151,LB2241RCC_KIDNEY,,753578,552,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002152,LB2518MEL_SKIN,,753579,1464,Skin Cancer,Melanoma,,Sanger
+ACH-002153,LB373MELD_SKIN,,753581,659,Skin Cancer,Melanoma,,Sanger
+ACH-002154,LB647SCLC_LUNG,,753582,1365,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002155,LB996RCC_KIDNEY,,753585,1755,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002156,LC1SQ_LUNG,,1298223,600,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",-1,Sanger
+ACH-002157,LC2AD_LUNG,,907786,367,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",-1,Sanger
+ACH-002158,LU99A_LUNG,,907796,1660,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",,Sanger
+ACH-002159,M14_SKIN,,905975,586,Skin Cancer,"Melanoma, amelanotic",,Sanger
+ACH-002160,MCIXC_BONE,,908118,170,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002161,MKN28_STOMACH,,908139,2112,Gastric Cancer,"Adenocarcinoma, tubular",,Sanger
+ACH-002162,MMACSF_SKIN,,925339,30,Skin Cancer,Melanoma,,Sanger
+ACH-002163,MRKNU1_BREAST,,908151,385,Breast Cancer,Carcinoma,-1,Sanger
+ACH-002164,MZ1PC_PANCREAS,,753595,1486,Pancreatic Cancer,Ductal Adenocarcinoma,,Sanger
+ACH-002165,MZ2MEL_SKIN,,971777,31,Skin Cancer,Melanoma,,Sanger
+ACH-002166,MZ7MEL_SKIN,,753596,296,Skin Cancer,Melanoma,-1,Sanger
+ACH-002167,NCC010_KIDNEY,,1509073,688,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002168,NCC021_KIDNEY,,1509074,1020,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002169,NCIH1304_LUNG,,753599,775,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002170,NCIH1688_LUNG,,1298349,348,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002171,NCIH250_LUNG,,924241,208,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002172,NCIH322M_LUNG,,905967,34,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Sanger
+ACH-002173,NCIH378_LUNG,,688022,625,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002174,NCIH720_LUNG,,687600,172,Lung Cancer,Carcinoid,,Sanger
+ACH-002175,NCIH740_LUNG,,1331055,925,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002176,NCIH748_LUNG,,909194,1085,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002177,NCIH835_LUNG,,753607,926,Lung Cancer,Carcinoid,,Sanger
+ACH-002178,NY_BONE,,910849,478,Bone Cancer,Osteosarcoma,,Sanger
+ACH-002179,OCUBM_BREAST,,909256,1002,Breast Cancer,Carcinoma,,Sanger
+ACH-002180,OMC1_CERVIX,,949154,605,Cervical Cancer,Squmous Cell Carcinoma,,Sanger
+ACH-002181,OVCA420_OVARY,,1480364,1949,Ovarian Cancer,"Adenocarcinoma, serous",,Sanger
+ACH-002182,OVCA433_OVARY,,1480367,1332,Ovarian Cancer,"Adenocarcinoma, serous",,Sanger
+ACH-002183,OVMIU_OVARY,,1240200,373,Ovarian Cancer,"Adenocarcinoma, high grade serous",,Sanger
+ACH-002184,PC3JPC3_LUNG,,1240202,1809,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Sanger
+ACH-002185,PL18_PANCREAS,,1240208,1759,Pancreatic Cancer,Ductal Adenocarcinoma,,Sanger
+ACH-002186,PL4_PANCREAS,,1298533,470,Pancreatic Cancer,Ductal Adenocarcinoma,,Sanger
+ACH-002187,RCCAB_KIDNEY,,1524418,695,Kidney Cancer,"Renal Carcinoma, clear cell",,Sanger
+ACH-002188,RCCER_KIDNEY,,1524417,694,Kidney Cancer,"Renal Carcinoma, clear cell",,Sanger
+ACH-002189,RCCFG2_KIDNEY,,1524414,1904,Kidney Cancer,"Renal Carcinoma, clear cell",,Sanger
+ACH-002190,RCCJF_KIDNEY,,1524415,147,Kidney Cancer,"Renal Carcinoma, clear cell",,Sanger
+ACH-002191,RCCJW_KIDNEY,,1524416,1905,Kidney Cancer,"Renal Carcinoma, clear cell",,Sanger
+ACH-002192,RCCMF_KIDNEY,,1524419,693,Kidney Cancer,"Renal Carcinoma, clear cell",,Sanger
+ACH-002193,RERFLCFM_LUNG,,930081,287,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002194,RH1_BONE,,971773,2193,Bone Cancer,Ewings Sarcoma,,Sanger
+ACH-002195,RXF393_KIDNEY,,905978,1526,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002196,SBC1_LUNG,,713885,27,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002197,SBC3_LUNG,,753610,1765,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002198,SCH_STOMACH,,909711,1766,Gastric Cancer,Choriocarcinoma,,Sanger
+ACH-002199,SN12C_KIDNEY,,905979,156,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002200,SW962_VULVA,,909758,1986,Skin Cancer,"Carcinoma, vulvar",,Sanger
+ACH-002201,TCYIK_CERVIX,,946357,579,Cervical Cancer,Small Cell Carcinoma,,Sanger
+ACH-002202,TMK1_STOMACH,,1299069,547,Gastric Cancer,Adenocarcinoma,,Sanger
+ACH-002203,U031_KIDNEY,,905981,1636,Kidney Cancer,Renal Cell Carcinoma,,Sanger
+ACH-002205,WM1552C_SKIN,,1299078,1155,Skin Cancer,Melanoma,,Sanger
+ACH-002206,WM278_SKIN,,1240226,2155,Skin Cancer,Melanoma,,Sanger
+ACH-002207,WM35_SKIN,,1299080,1156,Skin Cancer,Melanoma,,Sanger
+ACH-002208,YMB1E_BREAST,,1303911,317,Breast Cancer,Breast Ductal Carcinoma,,Sanger
+ACH-002209,ALLPO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910944,1637,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002210,ARH77_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906765,2198,Non-Cancerous,Unknown,,Sanger
+ACH-002211,BALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910705,48,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002212,BB30HNC_UPPER_AERODIGESTIVE_TRACT,,753531,64,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002213,BB49HNC_UPPER_AERODIGESTIVE_TRACT,,753532,1522,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002214,BC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910919,585,Lymphoma,"B-cell, Non-Hodgkins, Primary Effusion",,Sanger
+ACH-002215,BC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910918,590,Lymphoma,"B-cell, Non-Hodgkins, Primary Effusion",,Sanger
+ACH-002216,BE13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906763,603,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",,Sanger
+ACH-002217,BE2M17_AUTONOMIC_GANGLIA,,753616,1320,Neuroblastoma,Unknown,,Sanger
+ACH-002218,CESS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910688,185,Leukemia,Acute Myelogenous Leukemia (AML),,Sanger
+ACH-002219,COLO320HSR_LARGE_INTESTINE,,910569,2128,Colon/Colorectal Cancer,Colon Adenocarcinoma,,Sanger
+ACH-002220,CROAP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906807,566,Lymphoma,"B-cell, Non-Hodgkins, Primary Effusion",,Sanger
+ACH-002221,CTB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,949088,2129,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),,Sanger
+ACH-002222,CTV1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,753548,1034,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",,Sanger
+ACH-002223,D245MG_CENTRAL_NERVOUS_SYSTEM,,946366,1249,Brain Cancer,Glioblastoma,,Sanger
+ACH-002224,D247MG_CENTRAL_NERVOUS_SYSTEM,,946367,1075,Brain Cancer,Glioblastoma,,Sanger
+ACH-002225,D263MG_CENTRAL_NERVOUS_SYSTEM,,946368,453,Brain Cancer,Glioblastoma,,Sanger
+ACH-002226,D336MG_CENTRAL_NERVOUS_SYSTEM,,946369,609,Brain Cancer,Glioblastoma,,Sanger
+ACH-002227,D392MG_CENTRAL_NERVOUS_SYSTEM,,946370,1527,Brain Cancer,Glioblastoma,,Sanger
+ACH-002228,D423MG_CENTRAL_NERVOUS_SYSTEM,,946372,2092,Brain Cancer,Glioblastoma,,Sanger
+ACH-002229,D502MG_CENTRAL_NERVOUS_SYSTEM,,946373,768,Brain Cancer,Glioblastoma,,Sanger
+ACH-002230,D542MG_CENTRAL_NERVOUS_SYSTEM,,753549,898,Brain Cancer,Glioblastoma,,Sanger
+ACH-002231,D566MG_CENTRAL_NERVOUS_SYSTEM,,946377,2093,Brain Cancer,Glioblastoma,,Sanger
+ACH-002232,DG75_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906838,188,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",,Sanger
+ACH-002233,DIFI_LARGE_INTESTINE,,1789883,1625,Colon/Colorectal Cancer,Colorectal Carcinoma,,Sanger
+ACH-002234,DOK_UPPER_AERODIGESTIVE_TRACT,,910936,162,Head and Neck Cancer,Oral Dysplasia,,Sanger
+ACH-002235,DSH1_URINARY_TRACT,,753552,900,Bladder Cancer,Carcinoma,,Sanger
+ACH-002236,EB3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906847,581,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",,Sanger
+ACH-002237,ETK1_BILIARY_TRACT,,906861,323,Bile Duct Cancer,"Cholangiocarcinoma, intrahepatic",,Sanger
+ACH-002238,GRST_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,906877,1709,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002239,H3118_UPPER_AERODIGESTIVE_TRACT,,1240140,93,Head and Neck Cancer,"Carcinoma, mucoepidermoid",,Sanger
+ACH-002240,H9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907043,903,Lymphoma,"T-cell, Non-Hodgkins, Cutaneous, Sezary Syndrome",,Sanger
+ACH-002241,HAL01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,949153,1192,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002242,HC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907044,637,Leukemia,Hairy Cell,,Sanger
+ACH-002243,HCE4_OESOPHAGUS,,753559,2077,Esophageal Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002244,HO1N1_UPPER_AERODIGESTIVE_TRACT,,924111,706,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",,Sanger
+ACH-002246,HS633T_SOFT_TISSUE,,1240149,1568,Sarcoma,Fibrosarcoma,-1,Sanger
+ACH-002247,IM9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,753563,1574,Non-Cancerous,Unknown,,Sanger
+ACH-002248,IMR5_AUTONOMIC_GANGLIA,,907170,431,Neuroblastoma,Unknown,,Sanger
+ACH-002249,JHU011_UPPER_AERODIGESTIVE_TRACT,,1240161,1233,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",,Sanger
+ACH-002250,JHU022_UPPER_AERODIGESTIVE_TRACT,,1240162,615,Head and Neck Cancer,"Squamous Cell Carcinoma, oral",,Sanger
+ACH-002251,JHU029_UPPER_AERODIGESTIVE_TRACT,,1298156,74,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",,Sanger
+ACH-002252,JIYOYEP2003_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907268,1941,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",-1,Sanger
+ACH-002253,JSC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1327769,1378,Lymphoma,"B-cell, Non-Hodgkins, Primary Effusion",,Sanger
+ACH-002254,KARPAS1106P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1327773,1030,Lymphoma,"B-cell, Non-Hodgkins, Mediastinal Large",,Sanger
+ACH-002255,KARPAS231_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1327774,2177,Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),,Sanger
+ACH-002256,KARPAS45_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907272,617,Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",,Sanger
+ACH-002257,KINGS1_CENTRAL_NERVOUS_SYSTEM,,907279,217,Brain Cancer,"Astrocytoma, anaplastic",,Sanger
+ACH-002258,KMOE2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907280,1803,Leukemia,"Acute Myelogenous Leukemia (AML), M6 (Erythroleukemia)",,Sanger
+ACH-002259,KNS81FD_CENTRAL_NERVOUS_SYSTEM,,924188,1150,Brain Cancer,Glioblastoma,,Sanger
+ACH-002260,KOSC2_UPPER_AERODIGESTIVE_TRACT,,753570,315,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002261,KPNYS_AUTONOMIC_GANGLIA,,946363,853,Neuroblastoma,Unknown,,Sanger
+ACH-002262,KY821_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907300,1631,Leukemia,"Acute Myelogenous Leukemia (AML), M4 (Myelomonocytic)",,Sanger
+ACH-002263,KYSE220_OESOPHAGUS,,1240167,1614,Esophageal Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002264,KYSE50_OESOPHAGUS,,1298222,1939,Esophageal Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002265,LB771HNC_UPPER_AERODIGESTIVE_TRACT,,753583,12,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002266,LB831BLC_URINARY_TRACT,,753584,1267,Bladder Cancer,Carcinoma,,Sanger
+ACH-002267,LC41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,907787,583,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002268,LN405_CENTRAL_NERVOUS_SYSTEM,,910694,1505,Brain Cancer,Glioblastoma,,Sanger
+ACH-002269,LNZTA3WT4_CENTRAL_NERVOUS_SYSTEM,,1240170,1793,Brain Cancer,Astrocytoma,,Sanger
+ACH-002270,MCCAR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,683665,49,Non-Cancerous,Unknown,,Sanger
+ACH-002271,MFHINO_SOFT_TISSUE,,925343,2069,Sarcoma,Malignant Fibrous Histiocytoma,-1,Sanger
+ACH-002272,MHHPREB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908136,788,Lymphoma,"B-cell, Non-Hodgkins",,Sanger
+ACH-002273,ML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908141,628,Leukemia,Acute Myelogenous Leukemia (AML),,Sanger
+ACH-002274,MLMA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908142,1228,Leukemia,Hairy Cell,,Sanger
+ACH-002275,MN60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908143,1177,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002276,MYM12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330960,126,Leukemia,Acute Biphenotypic Leukemia,,Sanger
+ACH-002277,NBTU110_AUTONOMIC_GANGLIA,,1240181,730,Neuroblastoma,Unknown,,Sanger
+ACH-002278,NB10_AUTONOMIC_GANGLIA,,949171,1033,Neuroblastoma,Unknown,,Sanger
+ACH-002279,NB12_AUTONOMIC_GANGLIA,,949172,1779,Neuroblastoma,Unknown,,Sanger
+ACH-002280,NB13_AUTONOMIC_GANGLIA,,949177,215,Neuroblastoma,Unknown,,Sanger
+ACH-002281,NB14_AUTONOMIC_GANGLIA,,949178,32,Neuroblastoma,Unknown,,Sanger
+ACH-002282,NB17_AUTONOMIC_GANGLIA,,949175,159,Neuroblastoma,Unknown,,Sanger
+ACH-002283,NB5_AUTONOMIC_GANGLIA,,949176,2071,Neuroblastoma,Unknown,,Sanger
+ACH-002284,NB6_AUTONOMIC_GANGLIA,,949173,2258,Neuroblastoma,Unknown,,Sanger
+ACH-002285,NB7_AUTONOMIC_GANGLIA,,949174,1861,Neuroblastoma,Unknown,,Sanger
+ACH-002286,NCIH128_LUNG,,753597,1234,Lung Cancer,Small Cell Lung Cancer (SCLC),,Sanger
+ACH-002287,NCIH630_LARGE_INTESTINE,,908482,338,Colon/Colorectal Cancer,Colorectal Carcinoma,,Sanger
+ACH-002288,NEC8_TESTIS,,910942,1394,Embryonal Cancer,Testicular Carcinoma,,Sanger
+ACH-002289,NK92MI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330981,424,Leukemia,Natural Killer Cell Lymphoblastic Leukemia/Lymphoma,,Sanger
+ACH-002290,NKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,908448,1488,Leukemia,Acute Myelogenous Leukemia (AML),,Sanger
+ACH-002291,NTERA2CLD1_TESTIS,,908454,229,Embryonal Cancer,Carcinoma,-1,Sanger
+ACH-002292,OACP4C_OESOPHAGUS,,1503362,966,Esophageal Cancer,Adenocarcinoma,,Sanger
+ACH-002293,P32ISH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1330987,1617,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",,Sanger
+ACH-002294,PCI15A_UPPER_AERODIGESTIVE_TRACT,,1240204,1217,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002295,PCI30_UPPER_AERODIGESTIVE_TRACT,,1298529,1042,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002296,PCI38_UPPER_AERODIGESTIVE_TRACT,,1240205,334,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002297,PCI4B_UPPER_AERODIGESTIVE_TRACT,,1298531,1068,Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",,Sanger
+ACH-002298,PCI6A_UPPER_AERODIGESTIVE_TRACT,,1240206,1218,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002299,QIMRWIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910545,402,Leukemia,Acute Myelogenous Leukemia (AML),,Sanger
+ACH-002300,RAMOS2G64C10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910401,68,Lymphoma,"B-cell, Non-Hodgkins, Burkitts",-1,Sanger
+ACH-002301,RF48_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909697,69,Lymphoma,"B-cell, Non-Hodgkins",,Sanger
+ACH-002302,RPMI8866_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910544,1525,Leukemia,Chronic Myelogenous Leukemia (CML),,Sanger
+ACH-002303,[MERGED_TO_ACH-002392]SC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331030,863,Lymphoma,"B-cell, Non-Hodgkins, Follicular",-1,Sanger
+ACH-002304,SKMG1_CENTRAL_NERVOUS_SYSTEM,,909729,578,Brain Cancer,Astrocytoma,,Sanger
+ACH-002305,SKN3_UPPER_AERODIGESTIVE_TRACT,,1299059,1910,Head and Neck Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002306,STS0421_SOFT_TISSUE,,1299061,1747,Gastric Cancer,Adenocarcinoma,,Sanger
+ACH-002307,SUDHL16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331034,1449,Lymphoma,"B-cell, Non-Hodgkins",,Sanger
+ACH-002308,SUPB8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,910209,2072,Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",,Sanger
+ACH-002309,SW684_SOFT_TISSUE,,909754,1559,Sarcoma,Fibrosarcoma,,Sanger
+ACH-002310,SW872_SOFT_TISSUE,,909756,1916,Liposarcoma,Unknown,,Sanger
+ACH-002311,TE12_OESOPHAGUS,,946356,1611,Esophageal Cancer,Squamous Cell Carcinoma,,Sanger
+ACH-002312,TGBC24TKB_BILIARY_TRACT,,910695,2046,Gallbladder Cancer,Carcinoma,,Sanger
+ACH-002313,TK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331045,851,Lymphoma,"B-cell, Non-Hodgkins",,Sanger
+ACH-002314,TUR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,909773,6,Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",,Sanger
+ACH-002315,SCC90_UPPER_AERODIGESTIVE_TRACT,,1299052,864,Head and Neck Cancer,"Squamous Cell Carcinoma, tongue",,Sanger
+ACH-002316,WIL2NS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,1331049,1470,Non-Cancerous,Hereditary Spherocytosis,,Sanger
+ACH-002317,YT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,946358,1521,Leukemia,Natural Killer Cell Lymphoblastic Leukemia/Lymphoma,,Sanger
+ACH-002319,184A1_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002320,600MPE_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002321,HBL100_BREAST,,,,Unknown,Unknown,-1,
+ACH-002322,HCC2185_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002323,HCC2688_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002324,HCC3153_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002325,LY2_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002326,MACLS2_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002327,MCF12A_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002328,MX1_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002329,SKBR5_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002330,SKBR7_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002331,ZR75B_BREAST,,,,Breast Cancer,Unknown,,
+ACH-002333,HCC827GR_LUNG,,,,Lung Cancer,Unknown,,
+ACH-002334,SS1A_SOFT_TISSUE,,,,Sarcoma,,-1,
+ACH-002336,HCET_UPPER_AERODIGESTIVE_TRACT,,,,Unknown,Unknown,,Sanger
+ACH-002337,JHU028_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",,Sanger
+ACH-002338,M980513_SKIN,,,,Skin Cancer,Melanoma,,Sanger
+ACH-002339,MOT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Hairy Cell,,Sanger
+ACH-002340,NBSUSSR_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,-1,Sanger
+ACH-002341,[MERGED_TO_ACH-002138]H513_LUNG,,,,Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",-1,Sanger
+ACH-002342,BB30PBL_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002343,BB49EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002344,BB65EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002346,CP50EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002347,CP66EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002348,DIPG007_CENTRAL_NERVOUS_SYSTEM,,,,unknown,,,Sanger
+ACH-002349,GBM001_CENTRAL_NERVOUS_SYSTEM,,,,unknown,,,Sanger
+ACH-002350,HA7EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002351,L542_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002352,LB1047EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002353,LB2241EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002354,LB2518EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002355,LB373EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002356,LB647PBL_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002357,LB771PBL_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002358,LB831EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002359,LB996EBV_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002360,MZ1B_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002361,MZ7B_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002362,NCIBL128_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002363,NCIBL1395_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002364,NCIBL1437_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002365,NCIBL1770_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002366,NCIBL2009_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002367,NCIBL2052_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002368,NCIBL2087_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002369,NCIBL209_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002370,NCIBL2122_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002371,NCIBL2126_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002372,NCIBL2171_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002373,HCC1187_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002374,HCC1599_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002375,HCC1937_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002376,LS1034_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002377,HCC38_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002378,HCC1143_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002379,J82_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002380,COLO829_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002381,HCC2157_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002382,HCC1395_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002383,HCC2218_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002384,HCC1954_MATCHED_NORMAL_TISSUE,,,,unknown,,,Sanger
+ACH-002386,M00921_SKIN,,,,Skin Cancer,Melanoma,,Sanger
+ACH-002387,M1203273_SKIN,,,,Skin Cancer,Melanoma,-1,Sanger
+ACH-002388,MET2B_SKIN,,,,Skin Cancer,Melanoma,,Sanger
+ACH-002389,ACN_AUTONOMIC_GANGLIA,,,,Neuroblastoma,Unknown,-1,Sanger
+ACH-002390,MC1010_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Leukemia,Acute Myelogenous Leukemia (AML),,Sanger
+ACH-002391,UDSCC2_UPPER_AERODIGESTIVE_TRACT,,,,Head and Neck Cancer,"Squamous Cell Carcinoma, hypopharyngeal",Male,Sanger
+ACH-002392,SC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins, Follicular",Male,Sanger
+ACH-002393,CROAP3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE,,,,Lymphoma,"B-cell, Non-Hodgkins, Primary Effusion",Male,Sanger
+ACH-002394,GEO_LARGE_INTESTINE,,,,Colon/Colorectal Cancer,Colon Carcinoma,,Sanger
+ACH-002395,HUH6CLONE5_LIVER,,,,Liver Cancer,Hepatoblastoma,Male,Sanger
+ACH-002396,SARC9371_BONE,,,,Bone Cancer,Osteosarcoma,,Sanger
+ACH-002397,KMH2_THYROID,,2054094,,Thyroid Cancer,Carcinoma,Male,
