@@ -16,4 +16,4 @@ merge$Source <- ifelse(is.na(merge$Source), merge$Original.Source.of.Cell.Line,
                        merge$Source)
 merge <- merge[, -c("Gender.x", "Gender.y", "CCLE_ID", 
                     "Original.Source.of.Cell.Line")]
-write.table(merge, file = "data/cell_info.txt", sep = "\t", row.names = F)
+write.table(merge, file = "data/cell_info.txt", sep = "\t", row.names = F, quote = F)
