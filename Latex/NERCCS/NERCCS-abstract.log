@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.5)  21 JAN 2020 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.5)  21 JAN 2020 14:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -252,21 +252,19 @@ File: fig1.pdf Graphic file (type pdf)
 <use fig1.pdf>
 Package pdftex.def Info: fig1.pdf  used on input line 48.
 (pdftex.def)             Requested size: 469.75502pt x 233.06563pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fig1.pdf>]
 (./NERCCS-abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 3556 strings out of 492982
- 54348 string characters out of 6134897
+ 3553 strings out of 492982
+ 54315 string characters out of 6134897
  122424 words of memory out of 5000000
- 7086 multiletter control sequences out of 15000+600000
- 17081 words of font info for 37 fonts, out of 8000000 for 9000
+ 7084 multiletter control sequences out of 15000+600000
+ 15455 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,39p,1678b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,5n,39p,1678b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r
 .enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/shar
@@ -274,7 +272,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on NERCCS-abstract.pdf (1 page, 998471 bytes).
+Output written on NERCCS-abstract.pdf (1 page, 997996 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
