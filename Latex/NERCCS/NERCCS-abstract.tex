@@ -7,6 +7,7 @@
 \usepackage{graphicx}
 \usepackage{sectsty}
 \usepackage{setspace}
+\usepackage{caption}
 \allsectionsfont{\normalsize}
 \usepackage{authblk}
 \renewcommand\Authfont{\normalsize}
@@ -25,6 +26,7 @@ A Network Approach to Cancer Identification: Clustering Cell Lines by Gene Depen
 \begingroup\onehalfspacing
 \author{\vspace{-3ex}Diana Garcia$^1$, Celestin Coquide$^2$, Rodrigo Migueles Ramirez$^3$ and Jane Adams$^4$\\
 \footnotesize
+\vspace{-1ex}
 $^1$ National Institute of Genomics Medicine, Mexico City, Mexico\\ 
 $^2$ Institut UTINAM, OSU THETA, University of Bourgogne, France\\
 $^3$ Quantitative Life Sciences Interfaculty Program, McGill University, Montreal, Canada\\
@@ -33,23 +35,22 @@ $^4$ Vermont Complex Systems Center, University of Vermont, United States}
 
 
 
-\date{\vspace{-8ex}} % to kill the unnecessary blank space for \date{}
+\date{\vspace{-7ex}} % to kill the unnecessary blank space for \date{}
 
 \maketitle
 
 \thispagestyle{empty}
 \pagestyle{empty}
-Cancer heterogeneity is one of the main obstacles that prevent efficient treatment: each tumor is usually composed of widely divergent cells. Conversely, different types of cancer can present unexpected genetic similarities. Recently, the DepMap project \cite{Tsherniak17} evaluated the gene dependency for survival in cancer cell lines using CRISPr technology to target a wide number of genes (18k) with sgRNAs. In this project, we use the Achilles dataset from the DepMap project to find similarities between 625 different cancer cell lines based on their genetic dependency profiles. The genetic dependency profiles are characterized by a gene effect score and a gene dependency probability. Spearman’s rank correlation coefficients were calculated on the dependency probability matrix between each pair of cell lines. A backbone method  \cite{Serrano09} was applied to the correlation matrix resulting in a network with 12 connected components. Half of the components were composed of heterogeneous tumour origins, accounting for 84.21$\%$ of the cell lines. One prominent component containing 60 nodes from 12 different types of cell lines features pancreatic cancer as the central hub of the giant component. Although some same origin cell line cliques were observed (for instance leukemia cell lines rarely share any edges with non-leukemia cell lines), 93.75$\%$ of the cell lines have a tendency to be preferentially linked with cell lines of different origins, as measured by balanced homophily. These results suggest that this approach could allow us to identify genes to which cancer types are similarly vulnerable, thus providing hints for combinatorial therapies and novel applications for existing therapeutic strategies. 
+Cancer heterogeneity is one of the main obstacles that prevent efficient treatment: each tumor is usually composed of widely divergent cells. Conversely, different types of cancer can present unexpected genetic similarities. Recently, the DepMap project \cite{Tsherniak17} evaluated the gene dependency for survival in cancer cell lines using CRISPr technology to target a wide number of genes (18k) with sgRNAs. In this project, we use the Achilles dataset from the DepMap project to find similarities between 625 different cancer cell lines based on their genetic dependency profiles. The genetic dependency profiles are characterized by a gene effect score and a gene dependency probability. Spearman’s rank correlation coefficients were calculated on the dependency probability matrix between each pair of cell lines. A backbone method  \cite{Serrano09} was applied to the correlation matrix resulting in a network with 12 connected components. Half of the components were composed of heterogeneous tumour origins, accounting for 84.21$\%$ of the cell lines. One prominent component containing 60 nodes from 12 different types of cell lines features pancreatic cancer as the central hub. Although some same origin cell line cliques, like leukemia cell lines, 93.75$\%$ of the cell lines have a tendency to be preferentially linked with cell lines of different origins, as measured by balanced homophily. These results suggest that this approach could allow us to identify genes to which cancer types are similarly vulnerable, thus providing hints for combinatorial therapies and novel applications for existing therapeutic strategies. 
 
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=1\columnwidth]{fig1.pdf}
-\caption{Network of cell-cell gene dependence similarities built from the cell line correlation matrix. Each cell line has been colored according to its cancer type. A total of 95 cell lines and 213 links.}
-\label{fig:sinx}
+\includegraphics[width=0.9\columnwidth]{fig1.pdf}
+ \caption*{\scriptsize Network of cell-cell gene dependence similarities. Cell lines are colored according to their cancer type. A total of 95 cell lines and 213 links.}
 \end{figure}
 
-\vspace{-3ex}
+\vspace{-4ex}
  
 \begin{thebibliography}{99}
 \vspace{-2ex}
