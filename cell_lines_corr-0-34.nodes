@@ -1,0 +1,53 @@
+Node_ID	DepMap_ID	Primary Disease	Gender
+10	ACH-000017	Breast Cancer	Female
+25	ACH-000042	Pancreatic Cancer	Female
+26	ACH-000045	Leukemia	Male
+36	ACH-000078	Neuroblastoma	Male
+42	ACH-000095	Brain Cancer	Male
+51	ACH-000118	Pancreatic Cancer	Male
+53	ACH-000123	Ovarian Cancer	Female
+64	ACH-000148	Breast Cancer	Female
+70	ACH-000160	Rhabdoid	NA
+82	ACH-000198	Leukemia	Male
+90	ACH-000215	Brain Cancer	Male
+102	ACH-000235	Pancreatic Cancer	Male
+107	ACH-000246	Kidney Cancer	KIRC
+108	ACH-000248	Breast Cancer	Female
+122	ACH-000265	Pancreatic Cancer	Male
+123	ACH-000266	Pancreatic Cancer	Male
+135	ACH-000292	Lung Cancer	Male
+141	ACH-000304	Skin Cancer	Female
+144	ACH-000310	Neuroblastoma	Male
+173	ACH-000362	Leukemia	Male
+195	ACH-000406	Leukemia	Male
+221	ACH-000459	Kidney Cancer	KIRC
+233	ACH-000473	Bladder Cancer	Female
+245	ACH-000488	Esophageal Cancer	ESCA
+264	ACH-000518	Head and Neck Cancer	Male
+282	ACH-000557	Leukemia	Female
+297	ACH-000600	Kidney Cancer	KIRC
+301	ACH-000606	Head and Neck Cancer	Male
+323	ACH-000651	Colon/Colorectal Cancer	Male
+337	ACH-000677	Lung Cancer	Female
+343	ACH-000693	Esophageal Cancer	Male
+344	ACH-000694	Esophageal Cancer	Male
+346	ACH-000696	Ovarian Cancer	Female
+385	ACH-000771	Head and Neck Cancer	Female
+396	ACH-000788	Skin Cancer	Male
+419	ACH-000827	Skin Cancer	SKCM
+421	ACH-000831	Endometrial/Uterine Cancer	Female
+427	ACH-000837	Lung Cancer	Male
+438	ACH-000853	Lung Cancer	Male
+441	ACH-000858	Lung Cancer	Male
+486	ACH-000937	Leukemia	Female
+490	ACH-000943	Colon/Colorectal Cancer	COAD/READ
+492	ACH-000947	Ovarian Cancer	Female
+495	ACH-000953	Leukemia	Male
+535	ACH-001183	Bladder Cancer	Female
+547	ACH-001239	Skin Cancer	Female
+551	ACH-001278	Ovarian Cancer	-1
+555	ACH-001295	Eye Cancer	-1
+603	ACH-001550	Skin Cancer	NA
+615	ACH-001735	Leukemia	-1
+618	ACH-001740	Sarcoma	-1
+619	ACH-001745	Sarcoma	NA
