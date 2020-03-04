@@ -1,0 +1,27 @@
+#CANCER	#HOMOPHILINESS	#NODE_OCCURANCE
+Lymphoma	0.428571428571	6
+Leukemia	0.333333333333	20
+Myeloma	-0.2	4
+Neuroblastoma	-0.4	9
+Kidney Cancer	-0.538461538462	10
+Head and Neck Cancer	-0.6	11
+Brain Cancer	-0.605633802817	27
+Pancreatic Cancer	-0.658536585366	11
+Lung Cancer	-0.666666666667	39
+Sarcoma	-0.666666666667	12
+Skin Cancer	-0.681818181818	16
+Esophageal Cancer	-0.688311688312	10
+Bone Cancer	-0.739130434783	10
+Ovarian Cancer	-0.818181818182	16
+Bladder Cancer	-0.857142857143	11
+Rhabdoid	-0.894736842105	5
+Endometrial/Uterine Cancer	-0.916666666667	10
+Breast Cancer	-0.925925925926	9
+Colon/Colorectal Cancer	-0.928571428571	5
+Eye Cancer	-1.0	2
+Liver Cancer	-1.0	10
+Gastric Cancer	-1.0	6
+Cervical Cancer	-1.0	4
+	-1.0	2
+Fibroblast	-1.0	1
+Bile Duct Cancer	-1.0	2
