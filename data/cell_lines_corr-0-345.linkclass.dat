@@ -1,0 +1,144 @@
+#SOURCE	#TARGET	#LINK
+Leukemia	Leukemia	20
+Ovarian Cancer	Brain Cancer	18
+Lung Cancer	Ovarian Cancer	16
+Lung Cancer	Lung Cancer	15
+Brain Cancer	Brain Cancer	14
+Esophageal Cancer	Esophageal Cancer	12
+Ovarian Cancer	Ovarian Cancer	11
+Skin Cancer	Brain Cancer	11
+Lung Cancer	Esophageal Cancer	10
+Lung Cancer	Breast Cancer	8
+Lung Cancer	Pancreatic Cancer	8
+Skin Cancer	Eye Cancer	8
+Brain Cancer	Esophageal Cancer	8
+Ovarian Cancer	Sarcoma	7
+Ovarian Cancer	Liver Cancer	7
+Ovarian Cancer	Endometrial/Uterine Cancer	7
+Skin Cancer	Skin Cancer	7
+Pancreatic Cancer	Pancreatic Cancer	7
+Lung Cancer	Eye Cancer	6
+Ovarian Cancer	Breast Cancer	6
+Ovarian Cancer	Bone Cancer	6
+Ovarian Cancer	Rhabdoid	6
+Ovarian Cancer	Esophageal Cancer	6
+Neuroblastoma	Neuroblastoma	6
+Kidney Cancer	Kidney Cancer	6
+Colon/Colorectal Cancer	Pancreatic Cancer	5
+Colon/Colorectal Cancer	Esophageal Cancer	5
+Ovarian Cancer	Pancreatic Cancer	5
+Lymphoma	Lymphoma	5
+Head and Neck Cancer	Esophageal Cancer	5
+Colon/Colorectal Cancer	Lung Cancer	4
+Lung Cancer	Bone Cancer	4
+Ovarian Cancer	Neuroblastoma	4
+Ovarian Cancer	Head and Neck Cancer	4
+Skin Cancer	Esophageal Cancer	4
+Pancreatic Cancer	Esophageal Cancer	4
+Sarcoma	Eye Cancer	4
+Gastric Cancer	Esophageal Cancer	4
+Neuroblastoma	Eye Cancer	4
+Rhabdoid	Esophageal Cancer	4
+Head and Neck Cancer	Head and Neck Cancer	4
+Liver Cancer	Esophageal Cancer	4
+Leukemia	Myeloma	3
+Colon/Colorectal Cancer	Ovarian Cancer	3
+Bladder Cancer	Ovarian Cancer	3
+Bladder Cancer	Eye Cancer	3
+Lung Cancer	Brain Cancer	3
+Lung Cancer	Endometrial/Uterine Cancer	3
+Ovarian Cancer	Kidney Cancer	3
+Ovarian Cancer	Eye Cancer	3
+Brain Cancer	Kidney Cancer	3
+Brain Cancer	Eye Cancer	3
+Sarcoma	Sarcoma	3
+Bone Cancer	Bone Cancer	3
+Rhabdoid	Eye Cancer	3
+Colon/Colorectal Cancer	Breast Cancer	2
+Colon/Colorectal Cancer	Head and Neck Cancer	2
+Colon/Colorectal Cancer	Endometrial/Uterine Cancer	2
+Bladder Cancer	Esophageal Cancer	2
+Lung Cancer	Gastric Cancer	2
+Lung Cancer	Neuroblastoma	2
+Lung Cancer	Kidney Cancer	2
+Ovarian Cancer	Skin Cancer	2
+Ovarian Cancer	Cervical Cancer	2
+Skin Cancer	Bone Cancer	2
+Skin Cancer	Rhabdoid	2
+Skin Cancer	Head and Neck Cancer	2
+Breast Cancer	Pancreatic Cancer	2
+Breast Cancer	Brain Cancer	2
+Pancreatic Cancer	Bone Cancer	2
+Pancreatic Cancer	Liver Cancer	2
+Brain Cancer	Bone Cancer	2
+Sarcoma	Esophageal Cancer	2
+Gastric Cancer	Eye Cancer	2
+Kidney Cancer	Esophageal Cancer	2
+Myeloma	Myeloma	2
+Liver Cancer	Endometrial/Uterine Cancer	2
+Liver Cancer	Eye Cancer	2
+Endometrial/Uterine Cancer	Esophageal Cancer	2
+Leukemia	Lung Cancer	1
+Leukemia	Ovarian Cancer	1
+Leukemia	Brain Cancer	1
+Leukemia	Lymphoma	1
+Leukemia	Kidney Cancer	1
+Leukemia	Eye Cancer	1
+Leukemia	NA	1
+Colon/Colorectal Cancer	Colon/Colorectal Cancer	1
+Colon/Colorectal Cancer	Brain Cancer	1
+Colon/Colorectal Cancer	Gastric Cancer	1
+Colon/Colorectal Cancer	Kidney Cancer	1
+Colon/Colorectal Cancer	Liver Cancer	1
+Bladder Cancer	Bladder Cancer	1
+Bladder Cancer	Lung Cancer	1
+Bladder Cancer	Skin Cancer	1
+Bladder Cancer	Brain Cancer	1
+Bladder Cancer	Kidney Cancer	1
+Bladder Cancer	Cervical Cancer	1
+Lung Cancer	Skin Cancer	1
+Lung Cancer	Sarcoma	1
+Lung Cancer	Lymphoma	1
+Lung Cancer	Bile Duct Cancer	1
+Lung Cancer	Liver Cancer	1
+Ovarian Cancer	Gastric Cancer	1
+Skin Cancer	Pancreatic Cancer	1
+Skin Cancer	Neuroblastoma	1
+Skin Cancer	Kidney Cancer	1
+Skin Cancer	Cervical Cancer	1
+Breast Cancer	Breast Cancer	1
+Breast Cancer	Gastric Cancer	1
+Breast Cancer	Rhabdoid	1
+Breast Cancer	Liver Cancer	1
+Breast Cancer	Endometrial/Uterine Cancer	1
+Breast Cancer	Esophageal Cancer	1
+Breast Cancer	Eye Cancer	1
+Pancreatic Cancer	Kidney Cancer	1
+Pancreatic Cancer	Endometrial/Uterine Cancer	1
+Pancreatic Cancer	Cervical Cancer	1
+Pancreatic Cancer	Eye Cancer	1
+Pancreatic Cancer	NA	1
+Brain Cancer	Neuroblastoma	1
+Brain Cancer	Fibroblast	1
+Brain Cancer	Liver Cancer	1
+Brain Cancer	Endometrial/Uterine Cancer	1
+Sarcoma	Neuroblastoma	1
+Bone Cancer	Neuroblastoma	1
+Bone Cancer	Endometrial/Uterine Cancer	1
+Bone Cancer	Esophageal Cancer	1
+Bone Cancer	Eye Cancer	1
+Gastric Cancer	Bile Duct Cancer	1
+Gastric Cancer	Endometrial/Uterine Cancer	1
+Rhabdoid	Rhabdoid	1
+Rhabdoid	Kidney Cancer	1
+Rhabdoid	Head and Neck Cancer	1
+Kidney Cancer	Head and Neck Cancer	1
+Kidney Cancer	Liver Cancer	1
+Kidney Cancer	Endometrial/Uterine Cancer	1
+Kidney Cancer	Eye Cancer	1
+Bile Duct Cancer	Liver Cancer	1
+Bile Duct Cancer	Eye Cancer	1
+Head and Neck Cancer	Eye Cancer	1
+Endometrial/Uterine Cancer	Endometrial/Uterine Cancer	1
+Endometrial/Uterine Cancer	Eye Cancer	1
+Esophageal Cancer	Eye Cancer	1
