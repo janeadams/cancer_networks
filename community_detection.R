@@ -1,46 +1,56 @@
 library(igraph)
-library(data.table)
+library(viridis)
+links <- read.delim("./data/cell_lines_corr-above0-5-0-309.net",
+                    col.names = c("from", "to", "weight"))
+vertices <- read.delim("./data/cell_lines_corr-above0-5-0-309.nodes", 
+                       col.names = c("id", "depmapId", "NULL", "NULL"),
+                       colClasses = c("numeric", 'character', "NULL", "NULL"))
 
-setwd("/home/diana/Workspace/cnww/cancer_networks/")
-links <- fread("data/edges_p3.txt")
-colnames(links) <- c("from", "to", "weight")
-vertices <- fread("data/cell_info.txt")
-colnames(vertices)
-# [1] "DepMap_ID"                    "CCLE_Name"                   
-# [3] "Aliases"                      "COSMIC_ID"                   
-# [5] "Sanger ID"                    "Primary Disease"             
-# [7] "Subtype Disease"              "Source"                      
-# [9] "Name"                         "Pathology"                   
-# [11] "Site_Primary"                 "Site_Subtype1"               
-# [13] "Site_Subtype2"                "Site_Subtype3"               
-# [15] "Histology"                    "Hist_Subtype1"               
-# [17] "Hist_Subtype2"                "Hist_Subtype3"               
-# [19] "Life_Stage"                   "Age"                         
-# [21] "Race"                         "Geo_Loc"                     
-# [23] "inferred_ethnicity"           "Site_Of_Finding"             
-# [25] "Disease"                      "Annotation_Source"           
-# [27] "Characteristics"              "Growth.Medium"               
-# [29] "Supplements"                  "Freezing.Medium"             
-# [31] "Doubling.Time.from.Vendor"    "Doubling.Time.Calculated.hrs"
-# [33] "type"                         "type_refined"                
-# [35] "PATHOLOGIST_ANNOTATION"       "mutRate"                     
-# [37] "tcga_code"                    "Gender
-vertices <- vertices[, c("DepMap_ID", "Primary Disease", "Subtype Disease", "Name", 
-                         "Pathology", "Site_Primary", "Site_Subtype1", "Site_Subtype2",
-                         "Site_Subtype3", "Histology", "Hist_Subtype1", "Hist_Subtype2",
-                         "Hist_Subtype3")]
+vertices_info <- read.delim("data/cell_info.txt")
+colnames(vertices_info)
+# [1] "DepMap_ID"                    "CCLE_Name"                    "Aliases"                     
+# [4] "COSMIC_ID"                    "Sanger.ID"                    "Primary.Disease"             
+# [7] "Subtype.Disease"              "Source"                       "Name"                        
+# [10] "Pathology"                    "Site_Primary"                 "Site_Subtype1"               
+# [13] "Site_Subtype2"                "Site_Subtype3"                "Histology"                   
+# [16] "Hist_Subtype1"                "Hist_Subtype2"                "Hist_Subtype3"               
+# [19] "Life_Stage"                   "Age"                          "Race"                        
+# [22] "Geo_Loc"                      "inferred_ethnicity"           "Site_Of_Finding"             
+# [25] "Disease"                      "Annotation_Source"            "Characteristics"             
+# [28] "Growth.Medium"                "Supplements"                  "Freezing.Medium"             
+# [31] "Doubling.Time.from.Vendor"    "Doubling.Time.Calculated.hrs" "type"                        
+# [34] "type_refined"                 "PATHOLOGIST_ANNOTATION"       "mutRate"                     
+# [37] "tcga_code"                    "Gender"   
+vertices_info <- vertices_info[, c("DepMap_ID", "Primary.Disease", "Subtype.Disease", "Name", 
+                         "Pathology", "Site_Primary", "Site_Subtype1", 
+                         "Histology", "Hist_Subtype1", "Gender")]
+
+colnames(vertices_info) <- c("depmapId", "primary_disease", "subtype_disease", "cell_name", 
+                             "pathology", "primary_site", "subtype_syte", 
+                             "histology", "subtype_histology", "gender")
+vertices <- merge(vertices, vertices_info, by = "depmapId")
+vertices <- vertices[, c("id", colnames(vertices)[-2])]
+
 from_to <- c(links$from, links$to)
 from_to <- from_to[!duplicated(from_to)]
-colnames(vertices) <- tolower(colnames(vertices))
-colnames(vertices)[4] <- "cell_line_name"
-colnames(vertices)[1] <- "name"
-vertices <- vertices[vertices$name %in% from_to, ]
-noinfo <- c("ACH-001366","ACH-001647","ACH-001838")
-links <- links[!links$from %in% noinfo, ]
-links <- links[!links$to %in% noinfo, ]
+no_info <- vertices[!vertices$id %in% from_to, ]
+
 g <- graph_from_data_frame(links, vertices = vertices, directed = F)
-commun <- cluster_louvain(g)
-V(g)$louvain <- membership(commun)
-g_df <- as_data_frame(g, what = "vertices")
-write.table(g_df[, c("name", "louvain")], file = "data/louvain_clusters_3.txt",
-            row.names = F, quote = F, sep = "\t")
+
+node_colors <- viridis(length(table(V(g)$primary_disease)))
+V(g)$color <- node_colors[as.numeric(as.factor(V(g)$primary_disease))]
+
+
+l = layout_with_fr(g)
+png("figures/network_cell_type.png")
+plot(g, vertex.label=NA, vertex.color=V(g)$color, 
+     vertex.size=degree(g),  edge.width=E(g)$weight, 
+     edge.color="grey50", layout = l)
+dev.off()
+commun <- cluster_infomap(g, nb.trials = 10)
+
+png("figures/network_cell_type_communities.png")
+plot(g, vertex.label=NA, vertex.color=V(g)$color, 
+        vertex.size=3*degree(g),  edge.width=2*(E(g)$weight), 
+        edge.color="grey50", layout = l, mark.groups= commun, mark.border=NA)
+dev.off()
