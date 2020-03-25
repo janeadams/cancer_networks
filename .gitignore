@@ -4,3 +4,5 @@
 .Ruserdata
 packrat/lib*/
 packrat/src/
+data/achilles_gene_dependency.csv
+.ipynb_checkpoints/*
