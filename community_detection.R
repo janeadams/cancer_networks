@@ -1,8 +1,8 @@
 library(igraph)
 library(viridis)
-links <- read.delim("./data/cell_lines_corr-above0-5-0-309.net",
+links <- read.delim("./data/cell_lines_corr-above0-5-0-321.net",
                     col.names = c("from", "to", "weight"))
-vertices <- read.delim("./data/cell_lines_corr-above0-5-0-309.nodes", 
+vertices <- read.delim("./data/cell_lines_corr-above0-5-0-321.nodes", 
                        col.names = c("id", "depmapId", "NULL", "NULL"),
                        colClasses = c("numeric", 'character', "NULL", "NULL"))
 

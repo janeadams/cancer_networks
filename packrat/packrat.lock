@@ -7,6 +7,11 @@ Repos: BioCsoft=https://bioconductor.org/packages/3.4/bioc,
     BioCextra=https://bioconductor.org/packages/3.4/extra,
     CRAN=https://cran.rstudio.com/
 
+Package: BH
+Source: CRAN
+Version: 1.72.0-3
+Hash: fc53be86f0b712d3de03fef95893d710
+
 Package: R6
 Source: CRAN
 Version: 2.2.2
@@ -43,6 +48,11 @@ Source: CRAN
 Version: 1.1.0
 Hash: bc4e54014c2049f2605ad0c3ba0cce6b
 Requires: assertthat, crayon
+
+Package: clipr
+Source: CRAN
+Version: 0.7.0
+Hash: 30cdec6c8cc62c80c485e6bdd0c02b05
 
 Package: colorspace
 Source: CRAN
@@ -112,6 +122,12 @@ Package: gtable
 Source: CRAN
 Version: 0.2.0
 Hash: cd78381a9d3fea966ac39bd0daaf5554
+
+Package: hms
+Source: CRAN
+Version: 0.5.3
+Hash: a0709e1b17b4bc1c27f5235177543e07
+Requires: pkgconfig, rlang, vctrs
 
 Package: igraph
 Source: CRAN
@@ -197,6 +213,12 @@ Source: CRAN
 Version: 1.3.0
 Hash: 1d4cae95887ffe5b1a22bea5994476cd
 
+Package: readr
+Source: CRAN
+Version: 1.3.1
+Hash: 227952c7b715f3bf7caf5fcdb33d7de3
+Requires: BH, R6, Rcpp, clipr, crayon, hms, tibble
+
 Package: rlang
 Source: CRAN
 Version: 0.4.5
@@ -240,9 +262,9 @@ Hash: f3f97ce59092abc8ed3fd098a59e236c
 
 Package: vctrs
 Source: CRAN
-Version: 0.2.0
-Hash: daf77cb3dbcacd7fb619cb3748dc215f
-Requires: backports, digest, ellipsis, glue, rlang, zeallot
+Version: 0.2.4
+Hash: e06451edcd80df3a07b71fe7f5d10739
+Requires: digest, ellipsis, glue, rlang
 
 Package: viridis
 Source: CRAN
