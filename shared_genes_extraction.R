@@ -11,7 +11,7 @@ gene_corr <- gene_corr[, -1]
 
 cs <- unique(vertices$commun)
 n <- length(genes)
-nt <- n - n*0.1
+nt <- n - n*0.05
 
 all_genes <- lapply(cs, FUN = function(co){
   
@@ -33,6 +33,6 @@ all_genes <- lapply(cs, FUN = function(co){
 })
 
 all_genes <- bind_rows(all_genes)
-write.table(all_genes, "data/network_top_genes_per_community.tsv", 
+write.table(all_genes, "data/network_top_genes_per_community_5_per.tsv", 
             row.names = F, quote = F, sep = "\t")
 write(paste(genes, collapse = "\n"), "data/gene_list.tsv")
