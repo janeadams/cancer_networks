@@ -33,5 +33,6 @@ all_genes <- lapply(cs, FUN = function(co){
 })
 
 all_genes <- bind_rows(all_genes)
-write.table(all_genes, "data/network_top_genes_per_community.tsv", row.names = F, quote = F)
+write.table(all_genes, "data/network_top_genes_per_community.tsv", 
+            row.names = F, quote = F, sep = "\t")
 write(paste(genes, collapse = "\n"), "data/gene_list.tsv")
