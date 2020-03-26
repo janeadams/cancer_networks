@@ -246,6 +246,7 @@ GO:0072657	protein localization to membrane	342	53	24.93	1.0e-07	1
 GO:0070987	error-free translesion synthesis	18	10	1.31	1.0e-07	1
 GO:0006363	termination of RNA polymerase I transcription	32	13	2.33	1.4e-07	1
 GO:0010948	negative regulation of cell cycle process	194	36	14.14	1.4e-07	1
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.44	1.5e-07	1
 GO:1903902	positive regulation of viral life cycle	73	20	5.32	1.5e-07	1
 GO:0044267	cellular protein metabolic process	3074	286	224.11	1.5e-07	1
 GO:0009894	regulation of catabolic process	356	54	25.95	1.5e-07	1
@@ -344,6 +345,7 @@ GO:0033260	nuclear DNA replication	24	9	1.75	2.7e-05	1
 GO:0051304	chromosome separation	62	15	4.52	2.8e-05	1
 GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	8	1.39	2.8e-05	1
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	26	11.08	3.5e-05	1
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.51	3.8e-05	1
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	12	3.13	3.8e-05	1
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	12	3.13	3.8e-05	1
 GO:0000076	DNA replication checkpoint	15	7	1.09	4.1e-05	1
@@ -365,6 +367,9 @@ GO:0016567	protein ubiquitination	535	63	39	8.3e-05	1
 GO:0006998	nuclear envelope organization	68	15	4.96	8.7e-05	1
 GO:0051052	regulation of DNA metabolic process	265	37	19.32	9.1e-05	1
 GO:0010501	RNA secondary structure unwinding	40	11	2.92	9.3e-05	1
+GO:0010388	cullin deneddylation	8	5	0.58	9.4e-05	1
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	5	0.58	9.4e-05	1
+GO:0034475	U4 snRNA 3'-end processing	8	5	0.58	9.4e-05	1
 GO:0006271	DNA strand elongation involved in DNA replication	22	8	1.6	9.8e-05	1
 GO:0002181	cytoplasmic translation	47	12	3.43	9.9e-05	1
 GO:0051248	negative regulation of protein metabolic process	672	75	48.99	0.00010	1
@@ -374,6 +379,7 @@ GO:0043086	negative regulation of catalytic activity	487	58	35.5	0.00012	1
 GO:0032479	regulation of type I interferon production	78	16	5.69	0.00013	1
 GO:0032606	type I interferon production	78	16	5.69	0.00013	1
 GO:1901988	negative regulation of cell cycle phase transition	137	23	9.99	0.00013	1
+GO:0075525	viral translational termination-reinitiation	5	4	0.36	0.00013	1
 GO:0065004	protein-DNA complex assembly	183	28	13.34	0.00014	1
 GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	35	10	2.55	0.00014	1
 GO:0042769	DNA damage response, detection of DNA damage	35	10	2.55	0.00014	1
@@ -382,6 +388,11 @@ GO:0006356	regulation of transcription from RNA polymerase I promoter	23	8	1.68	
 GO:0031100	animal organ regeneration	49	12	3.57	0.00015	1
 GO:0032481	positive regulation of type I interferon production	49	12	3.57	0.00015	1
 GO:0051171	regulation of nitrogen compound metabolic process	2876	252	209.67	0.00018	1
+GO:0000338	protein deneddylation	9	5	0.66	0.00020	1
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.66	0.00020	1
+GO:0016093	polyprenol metabolic process	9	5	0.66	0.00020	1
+GO:0034472	snRNA 3'-end processing	9	5	0.66	0.00020	1
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.66	0.00020	1
 GO:0018205	peptidyl-lysine modification	316	41	23.04	0.00020	1
 GO:0071824	protein-DNA complex subunit organization	207	30	15.09	0.00021	1
 GO:0090329	regulation of DNA-dependent DNA replication	37	10	2.7	0.00023	1
@@ -438,6 +449,11 @@ GO:0007098	centrosome cycle	65	13	4.74	0.00070	1
 GO:0044344	cellular response to fibroblast growth factor stimulus	90	16	6.56	0.00071	1
 GO:0051784	negative regulation of nuclear division	50	11	3.65	0.00077	1
 GO:0071774	response to fibroblast growth factor	91	16	6.63	0.00080	1
+GO:0000022	mitotic spindle elongation	7	4	0.51	0.00082	1
+GO:0019348	dolichol metabolic process	7	4	0.51	0.00082	1
+GO:0031126	snoRNA 3'-end processing	7	4	0.51	0.00082	1
+GO:0033314	mitotic DNA replication checkpoint	7	4	0.51	0.00082	1
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.51	0.00082	1
 GO:0022616	DNA strand elongation	29	8	2.11	0.00083	1
 GO:0070925	organelle assembly	414	48	30.18	0.00083	1
 GO:0060070	canonical Wnt signaling pathway	214	29	15.6	0.00084	1
@@ -738,6 +754,7 @@ GO:0010948	negative regulation of cell cycle process	194	21	7.72	2.8e-05	2
 GO:0033260	nuclear DNA replication	24	7	0.96	2.9e-05	2
 GO:0042274	ribosomal small subunit biogenesis	63	11	2.51	3.3e-05	2
 GO:0044786	cell cycle DNA replication	33	8	1.31	3.4e-05	2
+GO:0000389	mRNA 3'-splice site recognition	6	4	0.24	3.5e-05	2
 GO:0033044	regulation of chromosome organization	127	16	5.06	4.1e-05	2
 GO:0015931	nucleobase-containing compound transport	170	19	6.77	4.4e-05	2
 GO:0070987	error-free translesion synthesis	18	6	0.72	4.7e-05	2
@@ -758,6 +775,7 @@ GO:0051306	mitotic sister chromatid separation	46	9	1.83	6.8e-05	2
 GO:0032508	DNA duplex unwinding	68	11	2.71	6.8e-05	2
 GO:0038093	Fc receptor signaling pathway	147	17	5.85	7.2e-05	2
 GO:0007088	regulation of mitotic nuclear division	120	15	4.78	7.8e-05	2
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	4	0.28	7.9e-05	2
 GO:0002181	cytoplasmic translation	47	9	1.87	8.1e-05	2
 GO:0002758	innate immune response-activating signal transduction	164	18	6.53	8.8e-05	2
 GO:2000027	regulation of organ morphogenesis	164	18	6.53	8.8e-05	2
@@ -774,6 +792,8 @@ GO:0051225	spindle assembly	72	11	2.87	0.00012	2
 GO:0001731	formation of translation preinitiation complex	21	6	0.84	0.00012	2
 GO:0071459	protein localization to chromosome, centromeric region	14	5	0.56	0.00014	2
 GO:0006312	mitotic recombination	40	8	1.59	0.00015	2
+GO:1904869	regulation of protein localization to Cajal body	8	4	0.32	0.00015	2
+GO:1904871	positive regulation of protein localization to Cajal body	8	4	0.32	0.00015	2
 GO:0007051	spindle organization	87	12	3.46	0.00016	2
 GO:0045930	negative regulation of mitotic cell cycle	172	18	6.85	0.00016	2
 GO:0006271	DNA strand elongation involved in DNA replication	22	6	0.88	0.00017	2
@@ -790,6 +810,10 @@ GO:0033120	positive regulation of RNA splicing	23	6	0.92	0.00022	2
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	8	1.71	0.00025	2
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	8	1.71	0.00025	2
 GO:0006362	transcription elongation from RNA polymerase I promoter	33	7	1.31	0.00026	2
+GO:0098787	mRNA cleavage involved in mRNA processing	9	4	0.36	0.00027	2
+GO:1903405	protein localization to nuclear body	9	4	0.36	0.00027	2
+GO:1904867	protein localization to Cajal body	9	4	0.36	0.00027	2
+GO:1990173	protein localization to nucleoplasm	9	4	0.36	0.00027	2
 GO:0002429	immune response-activating cell surface receptor signaling pathway	195	19	7.76	0.00028	2
 GO:0075733	intracellular transport of virus	55	9	2.19	0.00029	2
 GO:0000226	microtubule cytoskeleton organization	278	24	11.07	0.00029	2
@@ -807,6 +831,8 @@ GO:0046794	transport of virus	58	9	2.31	0.00043	2
 GO:0051338	regulation of transferase activity	623	42	24.8	0.00050	2
 GO:0070925	organelle assembly	414	31	16.48	0.00051	2
 GO:0071103	DNA conformation change	223	20	8.88	0.00057	2
+GO:0075525	viral translational termination-reinitiation	5	3	0.2	0.00059	2
+GO:1902969	mitotic DNA replication	5	3	0.2	0.00059	2
 GO:0045088	regulation of innate immune response	224	20	8.92	0.00060	2
 GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	38	7	1.51	0.00065	2
 GO:0000244	spliceosomal tri-snRNP complex assembly	11	4	0.44	0.00065	2
@@ -1100,6 +1126,7 @@ GO:0051170	nuclear import	200	37	14.58	1.0e-07	3
 GO:0006446	regulation of translational initiation	66	19	4.81	1.3e-07	3
 GO:1903311	regulation of mRNA metabolic process	107	25	7.8	1.3e-07	3
 GO:0031047	gene silencing by RNA	130	28	9.48	1.5e-07	3
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.44	1.5e-07	3
 GO:1903902	positive regulation of viral life cycle	73	20	5.32	1.5e-07	3
 GO:0032481	positive regulation of type I interferon production	49	16	3.57	1.8e-07	3
 GO:0009896	positive regulation of catabolic process	239	41	17.42	1.9e-07	3
@@ -1139,6 +1166,8 @@ GO:0009987	cellular process	8548	651	623.19	2.8e-06	3
 GO:2000278	regulation of DNA biosynthetic process	73	18	5.32	3.3e-06	3
 GO:0048024	regulation of mRNA splicing, via spliceosome	53	15	3.86	3.4e-06	3
 GO:0042769	DNA damage response, detection of DNA damage	35	12	2.55	3.6e-06	3
+GO:1904869	regulation of protein localization to Cajal body	8	6	0.58	3.6e-06	3
+GO:1904871	positive regulation of protein localization to Cajal body	8	6	0.58	3.6e-06	3
 GO:0032210	regulation of telomere maintenance via telomerase	41	13	2.99	3.8e-06	3
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	28	11.08	4.1e-06	3
 GO:0031400	negative regulation of protein modification process	395	54	28.8	4.3e-06	3
@@ -1146,7 +1175,13 @@ GO:0006997	nucleus organization	106	22	7.73	6.0e-06	3
 GO:0016074	snoRNA metabolic process	12	7	0.87	6.1e-06	3
 GO:0031329	regulation of cellular catabolic process	264	40	19.25	6.8e-06	3
 GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	57	15	4.16	9.2e-06	3
+GO:0043144	snoRNA processing	9	6	0.66	1.0e-05	3
+GO:1903405	protein localization to nuclear body	9	6	0.66	1.0e-05	3
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	6	0.66	1.0e-05	3
+GO:1904867	protein localization to Cajal body	9	6	0.66	1.0e-05	3
+GO:1990173	protein localization to nucleoplasm	9	6	0.66	1.0e-05	3
 GO:0007004	telomere maintenance via telomerase	51	14	3.72	1.1e-05	3
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.44	1.1e-05	3
 GO:0006271	DNA strand elongation involved in DNA replication	22	9	1.6	1.2e-05	3
 GO:0016180	snRNA processing	22	9	1.6	1.2e-05	3
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	13	3.28	1.2e-05	3
@@ -1175,6 +1210,8 @@ GO:0070203	regulation of establishment of protein localization to telomere	10	6	
 GO:0010498	proteasomal protein catabolic process	300	42	21.87	2.9e-05	3
 GO:0060249	anatomical structure homeostasis	242	36	17.64	2.9e-05	3
 GO:0010833	telomere maintenance via telomere lengthening	56	14	4.08	3.4e-05	3
+GO:0031126	snoRNA 3'-end processing	7	5	0.51	3.8e-05	3
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.51	3.8e-05	3
 GO:0051347	positive regulation of transferase activity	426	54	31.06	3.8e-05	3
 GO:1901998	toxin transport	25	9	1.82	3.9e-05	3
 GO:0051052	regulation of DNA metabolic process	265	38	19.32	4.1e-05	3
@@ -1212,6 +1249,8 @@ GO:0009451	RNA modification	102	19	7.44	0.00012	3
 GO:0032392	DNA geometric change	70	15	5.1	0.00012	3
 GO:0031023	microtubule organizing center organization	94	18	6.85	0.00013	3
 GO:0044839	cell cycle G2/M phase transition	155	25	11.3	0.00013	3
+GO:0000056	ribosomal small subunit export from nucleus	5	4	0.36	0.00013	3
+GO:0075525	viral translational termination-reinitiation	5	4	0.36	0.00013	3
 GO:0006606	protein import into nucleus	183	28	13.34	0.00014	3
 GO:0044744	protein targeting to nucleus	183	28	13.34	0.00014	3
 GO:1902593	single-organism nuclear import	183	28	13.34	0.00014	3
@@ -1227,6 +1266,8 @@ GO:0000083	regulation of transcription involved in G1/S transition of mitotic ce
 GO:0033260	nuclear DNA replication	24	8	1.75	0.00020	3
 GO:0051234	establishment of localization	2749	242	200.41	0.00020	3
 GO:0000075	cell cycle checkpoint	187	28	13.63	0.00020	3
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.66	0.00020	3
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.66	0.00020	3
 GO:0043632	modification-dependent macromolecule catabolic process	421	51	30.69	0.00020	3
 GO:0006810	transport	2659	235	193.85	0.00020	3
 GO:0046794	transport of virus	58	13	4.23	0.00022	3
@@ -1249,6 +1290,7 @@ GO:0015991	ATP hydrolysis coupled proton transport	20	7	1.46	0.00035	3
 GO:0051306	mitotic sister chromatid separation	46	11	3.35	0.00036	3
 GO:0033683	nucleotide-excision repair, DNA incision	39	10	2.84	0.00036	3
 GO:0010948	negative regulation of cell cycle process	194	28	14.14	0.00037	3
+GO:0007000	nucleolus organization	6	4	0.44	0.00037	3
 GO:0060828	regulation of canonical Wnt signaling pathway	175	26	12.76	0.00038	3
 GO:0019081	viral translation	10	5	0.73	0.00038	3
 GO:0045088	regulation of innate immune response	224	31	16.33	0.00039	3
@@ -1279,6 +1321,8 @@ GO:0044344	cellular response to fibroblast growth factor stimulus	90	16	6.56	0.0
 GO:0071774	response to fibroblast growth factor	91	16	6.63	0.00080	3
 GO:0051054	positive regulation of DNA metabolic process	136	21	9.91	0.00080	3
 GO:1903829	positive regulation of cellular protein localization	244	32	17.79	0.00082	3
+GO:0000022	mitotic spindle elongation	7	4	0.51	0.00082	3
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.51	0.00082	3
 GO:1904358	positive regulation of telomere maintenance via telomere lengthening	29	8	2.11	0.00083	3
 GO:0019941	modification-dependent protein catabolic process	414	48	30.18	0.00083	3
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	10	3.13	0.00084	3
@@ -1606,6 +1650,7 @@ GO:0002218	activation of innate immune response	167	28	11.27	6.1e-06	4
 GO:0016180	snRNA processing	22	9	1.48	6.2e-06	4
 GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	7	0.88	7.4e-06	4
 GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus	13	7	0.88	7.4e-06	4
+GO:0000389	mRNA 3'-splice site recognition	6	5	0.4	7.8e-06	4
 GO:0032508	DNA duplex unwinding	68	16	4.59	8.3e-06	4
 GO:0006383	transcription from RNA polymerase III promoter	47	13	3.17	8.8e-06	4
 GO:0000469	cleavage involved in rRNA processing	23	9	1.55	9.5e-06	4
@@ -1623,6 +1668,7 @@ GO:2000278	regulation of DNA biosynthetic process	73	16	4.93	2.2e-05	4
 GO:0044257	cellular protein catabolic process	473	56	31.93	2.2e-05	4
 GO:0032269	negative regulation of cellular protein metabolic process	636	70	42.93	2.4e-05	4
 GO:0000082	G1/S transition of mitotic cell cycle	189	29	12.76	2.4e-05	4
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.47	2.6e-05	4
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	25	10.26	2.7e-05	4
 GO:0034502	protein localization to chromosome	59	14	3.98	2.7e-05	4
 GO:0051983	regulation of chromosome segregation	75	16	5.06	3.1e-05	4
@@ -1644,6 +1690,7 @@ GO:0031047	gene silencing by RNA	130	22	8.77	5.2e-05	4
 GO:0044843	cell cycle G1/S phase transition	197	29	13.3	5.3e-05	4
 GO:0006271	DNA strand elongation involved in DNA replication	22	8	1.48	5.6e-05	4
 GO:0032210	regulation of telomere maintenance via telomerase	41	11	2.77	5.9e-05	4
+GO:0051231	spindle elongation	8	5	0.54	6.5e-05	4
 GO:0051783	regulation of nuclear division	132	22	8.91	6.6e-05	4
 GO:0051297	centrosome organization	88	17	5.94	6.7e-05	4
 GO:0046782	regulation of viral transcription	56	13	3.78	6.7e-05	4
@@ -1655,12 +1702,15 @@ GO:0018205	peptidyl-lysine modification	316	40	21.33	7.9e-05	4
 GO:0060249	anatomical structure homeostasis	242	33	16.33	7.9e-05	4
 GO:0000154	rRNA modification	23	8	1.55	8.1e-05	4
 GO:0065004	protein-DNA complex assembly	183	27	12.35	9.2e-05	4
+GO:0000212	meiotic spindle organization	5	4	0.34	9.7e-05	4
+GO:0075525	viral translational termination-reinitiation	5	4	0.34	9.7e-05	4
 GO:0060070	canonical Wnt signaling pathway	214	30	14.44	0.00010	4
 GO:0007017	microtubule-based process	398	47	26.86	0.00011	4
 GO:0007004	telomere maintenance via telomerase	51	12	3.44	0.00011	4
 GO:0048524	positive regulation of viral process	83	16	5.6	0.00011	4
 GO:0033260	nuclear DNA replication	24	8	1.62	0.00011	4
 GO:0000075	cell cycle checkpoint	187	27	12.62	0.00013	4
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.61	0.00014	4
 GO:0033045	regulation of sister chromatid segregation	60	13	4.05	0.00014	4
 GO:0044766	multi-organism transport	60	13	4.05	0.00014	4
 GO:1902579	multi-organism localization	60	13	4.05	0.00014	4
@@ -1684,6 +1734,9 @@ GO:0045088	regulation of innate immune response	224	30	15.12	0.00023	4
 GO:0075733	intracellular transport of virus	55	12	3.71	0.00024	4
 GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	10	5	0.67	0.00026	4
 GO:0019081	viral translation	10	5	0.67	0.00026	4
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.4	0.00028	4
+GO:0007000	nucleolus organization	6	4	0.4	0.00028	4
+GO:0007021	tubulin complex assembly	6	4	0.4	0.00028	4
 GO:0032204	regulation of telomere maintenance	64	13	4.32	0.00028	4
 GO:0010833	telomere maintenance via telomere lengthening	56	12	3.78	0.00029	4
 GO:1902581	multi-organism cellular localization	56	12	3.78	0.00029	4
@@ -1708,6 +1761,9 @@ GO:0001824	blastocyst development	52	11	3.51	0.00057	4
 GO:0010948	negative regulation of cell cycle process	194	26	13.09	0.00058	4
 GO:0033120	positive regulation of RNA splicing	23	7	1.55	0.00058	4
 GO:0043628	ncRNA 3'-end processing	17	6	1.15	0.00060	4
+GO:0000022	mitotic spindle elongation	7	4	0.47	0.00061	4
+GO:0031126	snoRNA 3'-end processing	7	4	0.47	0.00061	4
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.47	0.00061	4
 GO:0090329	regulation of DNA-dependent DNA replication	37	9	2.5	0.00062	4
 GO:0008033	tRNA processing	96	16	6.48	0.00064	4
 GO:2001251	negative regulation of chromosome organization	61	12	4.12	0.00066	4
@@ -1954,6 +2010,7 @@ GO:0006383	transcription from RNA polymerase III promoter	47	15	2.74	3.2e-08	5
 GO:0022607	cellular component assembly	1717	150	99.92	3.4e-08	5
 GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	35	13	2.04	3.4e-08	5
 GO:0042769	DNA damage response, detection of DNA damage	35	13	2.04	3.4e-08	5
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.35	3.8e-08	5
 GO:0006270	DNA replication initiation	36	13	2.09	5.1e-08	5
 GO:0043038	amino acid activation	49	15	2.85	6.1e-08	5
 GO:0043039	tRNA aminoacylation	49	15	2.85	6.1e-08	5
@@ -2046,6 +2103,7 @@ GO:0033045	regulation of sister chromatid segregation	60	13	3.49	3.1e-05	5
 GO:0044766	multi-organism transport	60	13	3.49	3.1e-05	5
 GO:1902579	multi-organism localization	60	13	3.49	3.1e-05	5
 GO:0034612	response to tumor necrosis factor	177	25	10.3	3.1e-05	5
+GO:0051231	spindle elongation	8	5	0.47	3.2e-05	5
 GO:0007091	metaphase/anaphase transition of mitotic cell cycle	45	11	2.62	3.9e-05	5
 GO:0010965	regulation of mitotic sister chromatid separation	45	11	2.62	3.9e-05	5
 GO:0044784	metaphase/anaphase transition of cell cycle	45	11	2.62	3.9e-05	5
@@ -2091,6 +2149,7 @@ GO:0030071	regulation of mitotic metaphase/anaphase transition	43	10	2.5	0.00014
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	10	2.5	0.00014	5
 GO:0030162	regulation of proteolysis	427	44	24.85	0.00014	5
 GO:0065004	protein-DNA complex assembly	183	24	10.65	0.00015	5
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.35	0.00015	5
 GO:0007093	mitotic cell cycle checkpoint	129	19	7.51	0.00016	5
 GO:0000226	microtubule cytoskeleton organization	278	32	16.18	0.00016	5
 GO:0071824	protein-DNA complex subunit organization	207	26	12.05	0.00016	5
@@ -2121,6 +2180,8 @@ GO:0034605	cellular response to heat	84	14	4.89	0.00031	5
 GO:0031023	microtubule organizing center organization	94	15	5.47	0.00032	5
 GO:0038093	Fc receptor signaling pathway	147	20	8.55	0.00032	5
 GO:0051234	establishment of localization	2749	196	159.97	0.00034	5
+GO:0000022	mitotic spindle elongation	7	4	0.41	0.00034	5
+GO:0031126	snoRNA 3'-end processing	7	4	0.41	0.00034	5
 GO:0006366	transcription from RNA polymerase II promoter	1411	111	82.11	0.00036	5
 GO:0000288	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	66	12	3.84	0.00037	5
 GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	12	3.84	0.00037	5
@@ -2136,6 +2197,9 @@ GO:0034502	protein localization to chromosome	59	11	3.43	0.00051	5
 GO:0009408	response to heat	109	16	6.34	0.00053	5
 GO:0016925	protein sumoylation	109	16	6.34	0.00053	5
 GO:0043928	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	26	7	1.51	0.00054	5
+GO:0010388	cullin deneddylation	8	4	0.47	0.00066	5
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	4	0.47	0.00066	5
+GO:0034475	U4 snRNA 3'-end processing	8	4	0.47	0.00066	5
 GO:1903900	regulation of viral life cycle	122	17	7.1	0.00067	5
 GO:0034504	protein localization to nucleus	251	28	14.61	0.00067	5
 GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	27	7	1.57	0.00069	5
@@ -2444,6 +2508,7 @@ GO:0090307	mitotic spindle assembly	44	16	3.8	3.4e-07	6
 GO:0051347	positive regulation of transferase activity	426	68	36.77	3.5e-07	6
 GO:0000226	microtubule cytoskeleton organization	278	50	24	3.7e-07	6
 GO:0000722	telomere maintenance via recombination	30	13	2.59	4.0e-07	6
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.52	4.1e-07	6
 GO:0031047	gene silencing by RNA	130	30	11.22	4.3e-07	6
 GO:0032200	telomere organization	130	30	11.22	4.3e-07	6
 GO:0000731	DNA synthesis involved in DNA repair	61	19	5.27	4.5e-07	6
@@ -2492,6 +2557,7 @@ GO:0033750	ribosome localization	11	7	0.95	8.4e-06	6
 GO:0033753	establishment of ribosome localization	11	7	0.95	8.4e-06	6
 GO:0006297	nucleotide-excision repair, DNA gap filling	23	10	1.99	8.8e-06	6
 GO:0034504	protein localization to nucleus	251	43	21.67	9.0e-06	6
+GO:0051231	spindle elongation	8	6	0.69	9.8e-06	6
 GO:0000460	maturation of 5.8S rRNA	33	12	2.85	1.0e-05	6
 GO:0044786	cell cycle DNA replication	33	12	2.85	1.0e-05	6
 GO:0051031	tRNA transport	33	12	2.85	1.0e-05	6
@@ -2517,7 +2583,10 @@ GO:0007017	microtubule-based process	398	59	34.35	2.3e-05	6
 GO:0002758	innate immune response-activating signal transduction	164	31	14.16	2.3e-05	6
 GO:2000027	regulation of organ morphogenesis	164	31	14.16	2.3e-05	6
 GO:0045930	negative regulation of mitotic cell cycle	172	32	14.85	2.4e-05	6
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.52	2.6e-05	6
+GO:0007000	nucleolus organization	6	5	0.52	2.6e-05	6
 GO:0030162	regulation of proteolysis	427	62	36.86	2.7e-05	6
+GO:0043144	snoRNA processing	9	6	0.78	2.7e-05	6
 GO:0006376	mRNA splice site selection	21	9	1.81	2.9e-05	6
 GO:0006448	regulation of translational elongation	21	9	1.81	2.9e-05	6
 GO:0008334	histone mRNA metabolic process	21	9	1.81	2.9e-05	6
@@ -2553,6 +2622,8 @@ GO:0044744	protein targeting to nucleus	183	32	15.8	8.3e-05	6
 GO:0065004	protein-DNA complex assembly	183	32	15.8	8.3e-05	6
 GO:1902593	single-organism nuclear import	183	32	15.8	8.3e-05	6
 GO:0060828	regulation of canonical Wnt signaling pathway	175	31	15.11	8.4e-05	6
+GO:0000022	mitotic spindle elongation	7	5	0.6	8.6e-05	6
+GO:0031126	snoRNA 3'-end processing	7	5	0.6	8.6e-05	6
 GO:0006379	mRNA cleavage	19	8	1.64	9.5e-05	6
 GO:0022616	DNA strand elongation	29	10	2.5	9.5e-05	6
 GO:0033260	nuclear DNA replication	24	9	2.07	0.00010	6
@@ -2577,6 +2648,8 @@ GO:1902581	multi-organism cellular localization	56	14	4.83	0.00021	6
 GO:1902583	multi-organism intracellular transport	56	14	4.83	0.00021	6
 GO:0032268	regulation of cellular protein metabolic process	1472	163	127.06	0.00024	6
 GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	38	11	3.28	0.00025	6
+GO:0030174	regulation of DNA-dependent DNA replication initiation	5	4	0.43	0.00026	6
+GO:0075525	viral translational termination-reinitiation	5	4	0.43	0.00026	6
 GO:0006626	protein targeting to mitochondrion	122	23	10.53	0.00026	6
 GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	27	9	2.33	0.00029	6
 GO:0006294	nucleotide-excision repair, preincision complex assembly	27	9	2.33	0.00029	6
@@ -2595,6 +2668,7 @@ GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	15	5.7	0.00039	
 GO:1900034	regulation of cellular response to heat	66	15	5.7	0.00039	6
 GO:0000724	double-strand break repair via homologous recombination	73	16	6.3	0.00040	6
 GO:0006278	RNA-dependent DNA biosynthetic process	53	13	4.57	0.00043	6
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.78	0.00044	6
 GO:0033120	positive regulation of RNA splicing	23	8	1.99	0.00045	6
 GO:0000725	recombinational repair	74	16	6.39	0.00047	6
 GO:0032210	regulation of telomere maintenance via telomerase	41	11	3.54	0.00052	6
@@ -2605,6 +2679,10 @@ GO:0070897	DNA-templated transcriptional preinitiation complex assembly	24	8	2.0
 GO:0010604	positive regulation of macromolecule metabolic process	1897	200	163.74	0.00066	6
 GO:0016226	iron-sulfur cluster assembly	14	6	1.21	0.00067	6
 GO:0031163	metallo-sulfur cluster assembly	14	6	1.21	0.00067	6
+GO:0007021	tubulin complex assembly	6	4	0.52	0.00072	6
+GO:0051256	mitotic spindle midzone assembly	6	4	0.52	0.00072	6
+GO:0051415	interphase microtubule nucleation by interphase microtubule organizing center	6	4	0.52	0.00072	6
+GO:0051418	microtubule nucleation by microtubule organizing center	6	4	0.52	0.00072	6
 GO:0060070	canonical Wnt signaling pathway	214	33	18.47	0.00072	6
 GO:0010833	telomere maintenance via telomere lengthening	56	13	4.83	0.00077	6
 GO:0001682	tRNA 5'-leader removal	10	5	0.86	0.00083	6
@@ -2910,6 +2988,7 @@ GO:0006312	mitotic recombination	40	15	3.28	2.5e-07	7
 GO:0032774	RNA biosynthetic process	2594	274	212.68	2.6e-07	7
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	281	49	23.04	2.7e-07	7
 GO:0000470	maturation of LSU-rRNA	26	12	2.13	2.8e-07	7
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.49	3.0e-07	7
 GO:0006310	DNA recombination	194	38	15.91	3.1e-07	7
 GO:0006271	DNA strand elongation involved in DNA replication	22	11	1.8	3.2e-07	7
 GO:0016180	snRNA processing	22	11	1.8	3.2e-07	7
@@ -2960,6 +3039,9 @@ GO:1902583	multi-organism intracellular transport	56	16	4.59	6.5e-06	7
 GO:0017038	protein import	227	39	18.61	6.6e-06	7
 GO:0038093	Fc receptor signaling pathway	147	29	12.05	6.7e-06	7
 GO:0044839	cell cycle G2/M phase transition	155	30	12.71	7.0e-06	7
+GO:0010388	cullin deneddylation	8	6	0.66	7.2e-06	7
+GO:1904869	regulation of protein localization to Cajal body	8	6	0.66	7.2e-06	7
+GO:1904871	positive regulation of protein localization to Cajal body	8	6	0.66	7.2e-06	7
 GO:0070925	organelle assembly	414	60	33.94	8.0e-06	7
 GO:0022616	DNA strand elongation	29	11	2.38	9.2e-06	7
 GO:0046794	transport of virus	58	16	4.76	1.1e-05	7
@@ -2972,6 +3054,12 @@ GO:0006376	mRNA splice site selection	21	9	1.72	1.9e-05	7
 GO:0006448	regulation of translational elongation	21	9	1.72	1.9e-05	7
 GO:0000075	cell cycle checkpoint	187	33	15.33	1.9e-05	7
 GO:0016925	protein sumoylation	109	23	8.94	1.9e-05	7
+GO:0000338	protein deneddylation	9	6	0.74	2.0e-05	7
+GO:0043144	snoRNA processing	9	6	0.74	2.0e-05	7
+GO:1903405	protein localization to nuclear body	9	6	0.74	2.0e-05	7
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	6	0.74	2.0e-05	7
+GO:1904867	protein localization to Cajal body	9	6	0.74	2.0e-05	7
+GO:1990173	protein localization to nucleoplasm	9	6	0.74	2.0e-05	7
 GO:0002758	innate immune response-activating signal transduction	164	30	13.45	2.2e-05	7
 GO:0043628	ncRNA 3'-end processing	17	8	1.39	2.5e-05	7
 GO:0051983	regulation of chromosome segregation	75	18	6.15	2.5e-05	7
@@ -2995,6 +3083,7 @@ GO:0016567	protein ubiquitination	535	70	43.86	4.8e-05	7
 GO:0001824	blastocyst development	52	14	4.26	5.1e-05	7
 GO:0051783	regulation of nuclear division	132	25	10.82	5.9e-05	7
 GO:2000278	regulation of DNA biosynthetic process	73	17	5.99	6.3e-05	7
+GO:0031126	snoRNA 3'-end processing	7	5	0.57	6.7e-05	7
 GO:0033260	nuclear DNA replication	24	9	1.97	6.8e-05	7
 GO:0032210	regulation of telomere maintenance via telomerase	41	12	3.36	7.2e-05	7
 GO:0000226	microtubule cytoskeleton organization	278	42	22.79	7.2e-05	7
@@ -3035,6 +3124,7 @@ GO:0010965	regulation of mitotic sister chromatid separation	45	12	3.69	0.00019	
 GO:0044784	metaphase/anaphase transition of cell cycle	45	12	3.69	0.00019	7
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	12	3.69	0.00019	7
 GO:0000380	alternative mRNA splicing, via spliceosome	39	11	3.2	0.00021	7
+GO:0010032	meiotic chromosome condensation	5	4	0.41	0.00021	7
 GO:0000460	maturation of 5.8S rRNA	33	10	2.71	0.00021	7
 GO:0051031	tRNA transport	33	10	2.71	0.00021	7
 GO:0000724	double-strand break repair via homologous recombination	73	16	5.99	0.00022	7
@@ -3059,6 +3149,7 @@ GO:0006888	ER to Golgi vesicle-mediated transport	130	23	10.66	0.00033	7
 GO:0045930	negative regulation of mitotic cell cycle	172	28	14.1	0.00033	7
 GO:1903900	regulation of viral life cycle	122	22	10	0.00033	7
 GO:0007077	mitotic nuclear envelope disassembly	41	11	3.36	0.00034	7
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.74	0.00035	7
 GO:0015682	ferric iron transport	29	9	2.38	0.00036	7
 GO:0072512	trivalent inorganic cation transport	29	9	2.38	0.00036	7
 GO:1904358	positive regulation of telomere maintenance via telomere lengthening	29	9	2.38	0.00036	7
@@ -3074,6 +3165,10 @@ GO:0022900	electron transport chain	86	17	7.05	0.00052	7
 GO:0045815	positive regulation of gene expression, epigenetic	71	15	5.82	0.00052	7
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	11	3.53	0.00053	7
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	11	3.53	0.00053	7
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.49	0.00059	7
+GO:0007000	nucleolus organization	6	4	0.49	0.00059	7
+GO:0051415	interphase microtubule nucleation by interphase microtubule organizing center	6	4	0.49	0.00059	7
+GO:0051418	microtubule nucleation by microtubule organizing center	6	4	0.49	0.00059	7
 GO:0060070	canonical Wnt signaling pathway	214	32	17.55	0.00061	7
 GO:0051054	positive regulation of DNA metabolic process	136	23	11.15	0.00064	7
 GO:0045088	regulation of innate immune response	224	33	18.37	0.00066	7
@@ -3381,6 +3476,8 @@ GO:0070987	error-free translesion synthesis	18	8	1.01	2.5e-06	8
 GO:0006446	regulation of translational initiation	66	15	3.71	2.7e-06	8
 GO:0051983	regulation of chromosome segregation	75	16	4.22	3.1e-06	8
 GO:0000722	telomere maintenance via recombination	30	10	1.69	3.1e-06	8
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.34	3.2e-06	8
+GO:0000389	mRNA 3'-splice site recognition	6	5	0.34	3.2e-06	8
 GO:0010948	negative regulation of cell cycle process	194	28	10.91	3.6e-06	8
 GO:0031570	DNA integrity checkpoint	132	22	7.42	3.8e-06	8
 GO:0006379	mRNA cleavage	19	8	1.07	4.1e-06	8
@@ -3405,6 +3502,7 @@ GO:0001731	formation of translation preinitiation complex	21	8	1.18	1.0e-05	8
 GO:1903902	positive regulation of viral life cycle	73	15	4.11	1.0e-05	8
 GO:0031047	gene silencing by RNA	130	21	7.31	1.1e-05	8
 GO:0032200	telomere organization	130	21	7.31	1.1e-05	8
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.39	1.1e-05	8
 GO:0045930	negative regulation of mitotic cell cycle	172	25	9.67	1.1e-05	8
 GO:0000054	ribosomal subunit export from nucleus	11	6	0.62	1.1e-05	8
 GO:0033750	ribosome localization	11	6	0.62	1.1e-05	8
@@ -3445,6 +3543,7 @@ GO:1902581	multi-organism cellular localization	56	12	3.15	5.1e-05	8
 GO:1902583	multi-organism intracellular transport	56	12	3.15	5.1e-05	8
 GO:0048524	positive regulation of viral process	83	15	4.67	5.1e-05	8
 GO:0002768	immune response-regulating cell surface receptor signaling pathway	212	27	11.92	5.4e-05	8
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.51	5.8e-05	8
 GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	57	12	3.21	6.1e-05	8
 GO:0031023	microtubule organizing center organization	94	16	5.29	6.1e-05	8
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	6	0.79	6.3e-05	8
@@ -3460,6 +3559,7 @@ GO:0006376	mRNA splice site selection	21	7	1.18	1.0e-04	8
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	10	2.42	0.00010	8
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	10	2.42	0.00010	8
 GO:0044344	cellular response to fibroblast growth factor stimulus	90	15	5.06	0.00013	8
+GO:0006384	transcription initiation from RNA polymerase III promoter	6	4	0.34	0.00014	8
 GO:0006271	DNA strand elongation involved in DNA replication	22	7	1.24	0.00014	8
 GO:0045088	regulation of innate immune response	224	27	12.6	0.00014	8
 GO:0033047	regulation of mitotic sister chromatid segregation	53	11	2.98	0.00014	8
@@ -3485,6 +3585,7 @@ GO:0033683	nucleotide-excision repair, DNA incision	39	9	2.19	0.00024	8
 GO:0045005	DNA-dependent DNA replication maintenance of fidelity	24	7	1.35	0.00026	8
 GO:0008033	tRNA processing	96	15	5.4	0.00028	8
 GO:0043902	positive regulation of multi-organism process	107	16	6.02	0.00029	8
+GO:0000022	mitotic spindle elongation	7	4	0.39	0.00030	8
 GO:0032481	positive regulation of type I interferon production	49	10	2.76	0.00033	8
 GO:0006888	ER to Golgi vesicle-mediated transport	130	18	7.31	0.00034	8
 GO:0032508	DNA duplex unwinding	68	12	3.82	0.00036	8
@@ -3500,6 +3601,7 @@ GO:0032392	DNA geometric change	70	12	3.94	0.00047	8
 GO:0051234	establishment of localization	2749	189	154.62	0.00050	8
 GO:0001824	blastocyst development	52	10	2.92	0.00054	8
 GO:0071824	protein-DNA complex subunit organization	207	24	11.64	0.00058	8
+GO:0051231	spindle elongation	8	4	0.45	0.00058	8
 GO:0051171	regulation of nitrogen compound metabolic process	2876	196	161.77	0.00059	8
 GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	20	6	1.12	0.00061	8
 GO:0015991	ATP hydrolysis coupled proton transport	20	6	1.12	0.00061	8
@@ -3768,6 +3870,7 @@ GO:0006297	nucleotide-excision repair, DNA gap filling	23	11	1.53	6.6e-08	9
 GO:0000460	maturation of 5.8S rRNA	33	13	2.19	7.2e-08	9
 GO:1904872	regulation of telomerase RNA localization to Cajal body	15	9	1	8.3e-08	9
 GO:1904874	positive regulation of telomerase RNA localization to Cajal body	15	9	1	8.3e-08	9
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.4	8.4e-08	9
 GO:0018130	heterocycle biosynthetic process	2912	253	193.4	9.6e-08	9
 GO:0031400	negative regulation of protein modification process	395	55	26.23	9.6e-08	9
 GO:0050851	antigen receptor-mediated signaling pathway	132	27	8.77	1.1e-07	9
@@ -3862,6 +3965,7 @@ GO:0006360	transcription from RNA polymerase I promoter	55	13	3.65	4.7e-05	9
 GO:0006361	transcription initiation from RNA polymerase I promoter	34	10	2.26	4.7e-05	9
 GO:0060249	anatomical structure homeostasis	242	33	16.07	5.8e-05	9
 GO:0043628	ncRNA 3'-end processing	17	7	1.13	6.0e-05	9
+GO:0051231	spindle elongation	8	5	0.53	6.0e-05	9
 GO:0006997	nucleus organization	106	19	7.04	6.0e-05	9
 GO:0030111	regulation of Wnt signaling pathway	223	31	14.81	6.7e-05	9
 GO:0033554	cellular response to stress	1223	114	81.22	6.8e-05	9
@@ -3873,6 +3977,8 @@ GO:0051338	regulation of transferase activity	623	66	41.38	8.3e-05	9
 GO:0000725	recombinational repair	74	15	4.91	8.4e-05	9
 GO:0051248	negative regulation of protein metabolic process	672	70	44.63	8.5e-05	9
 GO:0006446	regulation of translational initiation	66	14	4.38	8.6e-05	9
+GO:0000212	meiotic spindle organization	5	4	0.33	9.1e-05	9
+GO:0075525	viral translational termination-reinitiation	5	4	0.33	9.1e-05	9
 GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus	13	6	0.86	9.6e-05	9
 GO:0034502	protein localization to chromosome	59	13	3.92	0.00010	9
 GO:0033260	nuclear DNA replication	24	8	1.59	0.00010	9
@@ -3886,6 +3992,7 @@ GO:0044766	multi-organism transport	60	13	3.98	0.00012	9
 GO:1902579	multi-organism localization	60	13	3.98	0.00012	9
 GO:0006409	tRNA export from nucleus	31	9	2.06	0.00013	9
 GO:0071431	tRNA-containing ribonucleoprotein complex export from nucleus	31	9	2.06	0.00013	9
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.6	0.00013	9
 GO:0007091	metaphase/anaphase transition of mitotic cell cycle	45	11	2.99	0.00013	9
 GO:0010965	regulation of mitotic sister chromatid separation	45	11	2.99	0.00013	9
 GO:0044784	metaphase/anaphase transition of cell cycle	45	11	2.99	0.00013	9
@@ -3909,6 +4016,8 @@ GO:0010833	telomere maintenance via telomere lengthening	56	12	3.72	0.00025	9
 GO:1902581	multi-organism cellular localization	56	12	3.72	0.00025	9
 GO:1902583	multi-organism intracellular transport	56	12	3.72	0.00025	9
 GO:0006450	regulation of translational fidelity	15	6	1	0.00025	9
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.4	0.00026	9
+GO:0007021	tubulin complex assembly	6	4	0.4	0.00026	9
 GO:0032210	regulation of telomere maintenance via telomerase	41	10	2.72	0.00026	9
 GO:0032481	positive regulation of type I interferon production	49	11	3.25	0.00029	9
 GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	13	4.38	0.00033	9
@@ -3933,6 +4042,11 @@ GO:0001824	blastocyst development	52	11	3.45	0.00050	9
 GO:0033120	positive regulation of RNA splicing	23	7	1.53	0.00053	9
 GO:0000028	ribosomal small subunit assembly	17	6	1.13	0.00055	9
 GO:0001832	blastocyst growth	17	6	1.13	0.00055	9
+GO:0000022	mitotic spindle elongation	7	4	0.46	0.00057	9
+GO:0031126	snoRNA 3'-end processing	7	4	0.46	0.00057	9
+GO:0051292	nuclear pore complex assembly	7	4	0.46	0.00057	9
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.46	0.00057	9
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	4	0.46	0.00057	9
 GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	10	2.99	0.00059	9
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	10	2.99	0.00059	9
 GO:0006278	RNA-dependent DNA biosynthetic process	53	11	3.52	0.00059	9
@@ -4204,6 +4318,7 @@ GO:0051348	negative regulation of transferase activity	244	44	19.5	2.1e-07	10
 GO:0050684	regulation of mRNA processing	81	22	6.47	2.1e-07	10
 GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	57	18	4.56	2.3e-07	10
 GO:0050852	T cell receptor signaling pathway	115	27	9.19	2.4e-07	10
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.48	2.6e-07	10
 GO:0002181	cytoplasmic translation	47	16	3.76	3.4e-07	10
 GO:0051170	nuclear import	200	38	15.99	3.7e-07	10
 GO:0006363	termination of RNA polymerase I transcription	32	13	2.56	4.1e-07	10
@@ -4273,6 +4388,7 @@ GO:0006409	tRNA export from nucleus	31	11	2.48	1.5e-05	10
 GO:0071431	tRNA-containing ribonucleoprotein complex export from nucleus	31	11	2.48	1.5e-05	10
 GO:0006376	mRNA splice site selection	21	9	1.68	1.5e-05	10
 GO:0000731	DNA synthesis involved in DNA repair	61	16	4.88	1.6e-05	10
+GO:0043144	snoRNA processing	9	6	0.72	1.7e-05	10
 GO:0006378	mRNA polyadenylation	32	11	2.56	2.1e-05	10
 GO:0043631	RNA polyadenylation	32	11	2.56	2.1e-05	10
 GO:0007088	regulation of mitotic nuclear division	120	24	9.59	2.2e-05	10
@@ -4303,6 +4419,8 @@ GO:0010498	proteasomal protein catabolic process	300	44	23.98	5.5e-05	10
 GO:0042769	DNA damage response, detection of DNA damage	35	11	2.8	5.5e-05	10
 GO:0007077	mitotic nuclear envelope disassembly	41	12	3.28	5.6e-05	10
 GO:0071356	cellular response to tumor necrosis factor	168	29	13.43	5.8e-05	10
+GO:0031126	snoRNA 3'-end processing	7	5	0.56	5.9e-05	10
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.56	5.9e-05	10
 GO:0034612	response to tumor necrosis factor	177	30	14.15	6.2e-05	10
 GO:0043484	regulation of RNA splicing	82	18	6.55	6.4e-05	10
 GO:0006450	regulation of translational fidelity	15	7	1.2	7.4e-05	10
@@ -4323,6 +4441,8 @@ GO:0090307	mitotic spindle assembly	44	12	3.52	0.00012	10
 GO:0009408	response to heat	109	21	8.71	0.00012	10
 GO:0006448	regulation of translational elongation	21	8	1.68	0.00013	10
 GO:0030163	protein catabolic process	547	68	43.72	0.00014	10
+GO:0010388	cullin deneddylation	8	5	0.64	0.00015	10
+GO:0051231	spindle elongation	8	5	0.64	0.00015	10
 GO:0007091	metaphase/anaphase transition of mitotic cell cycle	45	12	3.6	0.00015	10
 GO:0010965	regulation of mitotic sister chromatid separation	45	12	3.6	0.00015	10
 GO:0044784	metaphase/anaphase transition of cell cycle	45	12	3.6	0.00015	10
@@ -4331,6 +4451,8 @@ GO:0006999	nuclear pore organization	12	6	0.96	0.00016	10
 GO:0000380	alternative mRNA splicing, via spliceosome	39	11	3.12	0.00017	10
 GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	15	5.28	0.00017	10
 GO:0071103	DNA conformation change	223	34	17.83	0.00018	10
+GO:0000056	ribosomal small subunit export from nucleus	5	4	0.4	0.00019	10
+GO:0075525	viral translational termination-reinitiation	5	4	0.4	0.00019	10
 GO:0000028	ribosomal small subunit assembly	17	7	1.36	0.00019	10
 GO:0007093	mitotic cell cycle checkpoint	129	23	10.31	0.00020	10
 GO:0016567	protein ubiquitination	535	66	42.77	0.00022	10
@@ -4341,6 +4463,10 @@ GO:0000469	cleavage involved in rRNA processing	23	8	1.84	0.00027	10
 GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	6	1.04	0.00027	10
 GO:0051338	regulation of transferase activity	623	74	49.8	0.00029	10
 GO:0051304	chromosome separation	62	14	4.96	0.00030	10
+GO:0000338	protein deneddylation	9	5	0.72	0.00031	10
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.72	0.00031	10
+GO:0045899	positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	9	5	0.72	0.00031	10
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.72	0.00031	10
 GO:0006810	transport	2659	254	212.55	0.00031	10
 GO:0002218	activation of innate immune response	167	27	13.35	0.00031	10
 GO:0044257	cellular protein catabolic process	473	59	37.81	0.00035	10
@@ -4358,6 +4484,8 @@ GO:0006379	mRNA cleavage	19	7	1.52	0.00043	10
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	6	1.12	0.00044	10
 GO:0016075	rRNA catabolic process	14	6	1.12	0.00044	10
 GO:0007080	mitotic metaphase plate congression	37	10	2.96	0.00048	10
+GO:0007000	nucleolus organization	6	4	0.48	0.00053	10
+GO:0007021	tubulin complex assembly	6	4	0.48	0.00053	10
 GO:0001682	tRNA 5'-leader removal	10	5	0.8	0.00058	10
 GO:0019081	viral translation	10	5	0.8	0.00058	10
 GO:0006888	ER to Golgi vesicle-mediated transport	130	22	10.39	0.00058	10
@@ -4584,6 +4712,7 @@ GO:0019985	translesion synthesis	33	13	2	2.3e-08	11
 GO:0010498	proteasomal protein catabolic process	300	44	18.14	3.1e-08	11
 GO:0016073	snRNA metabolic process	80	20	4.84	3.5e-08	11
 GO:0090305	nucleic acid phosphodiester bond hydrolysis	211	35	12.76	3.8e-08	11
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.36	4.8e-08	11
 GO:0006310	DNA recombination	194	33	11.73	5.0e-08	11
 GO:0070647	protein modification by small protein conjugation or removal	712	79	43.05	5.6e-08	11
 GO:0051348	negative regulation of transferase activity	244	38	14.75	5.6e-08	11
@@ -4701,6 +4830,7 @@ GO:0015682	ferric iron transport	29	9	1.75	3.4e-05	11
 GO:0072512	trivalent inorganic cation transport	29	9	1.75	3.4e-05	11
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	11	2.6	3.5e-05	11
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	11	2.6	3.5e-05	11
+GO:0051231	spindle elongation	8	5	0.48	3.8e-05	11
 GO:0051783	regulation of nuclear division	132	21	7.98	3.9e-05	11
 GO:0070925	organelle assembly	414	46	25.03	4.0e-05	11
 GO:0031023	microtubule organizing center organization	94	17	5.68	4.1e-05	11
@@ -4713,6 +4843,8 @@ GO:0006354	DNA-templated transcription, elongation	115	19	6.95	5.4e-05	11
 GO:0006369	termination of RNA polymerase II transcription	61	13	3.69	5.6e-05	11
 GO:0033047	regulation of mitotic sister chromatid segregation	53	12	3.2	5.8e-05	11
 GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	38	10	2.3	6.1e-05	11
+GO:0000212	meiotic spindle organization	5	4	0.3	6.3e-05	11
+GO:0075525	viral translational termination-reinitiation	5	4	0.3	6.3e-05	11
 GO:0031124	mRNA 3'-end processing	79	15	4.78	6.4e-05	11
 GO:0044257	cellular protein catabolic process	473	50	28.6	6.8e-05	11
 GO:0071897	DNA biosynthetic process	158	23	9.55	7.2e-05	11
@@ -4734,6 +4866,7 @@ GO:0034605	cellular response to heat	84	15	5.08	0.00013	11
 GO:0006361	transcription initiation from RNA polymerase I promoter	34	9	2.06	0.00014	11
 GO:0000076	DNA replication checkpoint	15	6	0.91	0.00015	11
 GO:0090662	ATP hydrolysis coupled transmembrane transport	21	7	1.27	0.00016	11
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.36	0.00018	11
 GO:0032508	DNA duplex unwinding	68	13	4.11	0.00018	11
 GO:0032269	negative regulation of cellular protein metabolic process	636	61	38.46	0.00018	11
 GO:1903311	regulation of mRNA metabolic process	107	17	6.47	0.00021	11
@@ -4766,6 +4899,7 @@ GO:1903902	positive regulation of viral life cycle	73	13	4.41	0.00038	11
 GO:0006409	tRNA export from nucleus	31	8	1.87	0.00039	11
 GO:0071431	tRNA-containing ribonucleoprotein complex export from nucleus	31	8	1.87	0.00039	11
 GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	24	7	1.45	0.00040	11
+GO:0000022	mitotic spindle elongation	7	4	0.42	0.00040	11
 GO:0000725	recombinational repair	74	13	4.47	0.00043	11
 GO:0006417	regulation of translation	271	31	16.39	0.00044	11
 GO:0002218	activation of innate immune response	167	22	10.1	0.00044	11
@@ -4784,6 +4918,8 @@ GO:0070979	protein K11-linked ubiquitination	26	7	1.57	0.00068	11
 GO:0034502	protein localization to chromosome	59	11	3.57	0.00070	11
 GO:0044092	negative regulation of molecular function	657	60	39.73	0.00074	11
 GO:0006891	intra-Golgi vesicle-mediated transport	34	8	2.06	0.00076	11
+GO:1904869	regulation of protein localization to Cajal body	8	4	0.48	0.00076	11
+GO:1904871	positive regulation of protein localization to Cajal body	8	4	0.48	0.00076	11
 GO:0031047	gene silencing by RNA	130	18	7.86	0.00079	11
 GO:0006457	protein folding	152	20	9.19	0.00081	11
 GO:0009408	response to heat	109	16	6.59	0.00081	11
@@ -5096,6 +5232,8 @@ GO:0033044	regulation of chromosome organization	127	25	9	2.3e-06	12
 GO:0006511	ubiquitin-dependent protein catabolic process	409	55	28.98	2.4e-06	12
 GO:0042769	DNA damage response, detection of DNA damage	35	12	2.48	2.7e-06	12
 GO:1905330	regulation of morphogenesis of an epithelium	120	24	8.5	2.8e-06	12
+GO:1904869	regulation of protein localization to Cajal body	8	6	0.57	3.1e-06	12
+GO:1904871	positive regulation of protein localization to Cajal body	8	6	0.57	3.1e-06	12
 GO:0032508	DNA duplex unwinding	68	17	4.82	3.4e-06	12
 GO:0000086	G2/M transition of mitotic cell cycle	147	27	10.41	3.8e-06	12
 GO:0006997	nucleus organization	106	22	7.51	3.8e-06	12
@@ -5105,8 +5243,12 @@ GO:0006376	mRNA splice site selection	21	9	1.49	5.8e-06	12
 GO:0071103	DNA conformation change	223	35	15.8	6.3e-06	12
 GO:0007052	mitotic spindle organization	44	13	3.12	6.7e-06	12
 GO:0031023	microtubule organizing center organization	94	20	6.66	7.0e-06	12
+GO:1903405	protein localization to nuclear body	9	6	0.64	8.6e-06	12
+GO:1904867	protein localization to Cajal body	9	6	0.64	8.6e-06	12
+GO:1990173	protein localization to nucleoplasm	9	6	0.64	8.6e-06	12
 GO:1903902	positive regulation of viral life cycle	73	17	5.17	9.6e-06	12
 GO:0051338	regulation of transferase activity	623	73	44.14	9.8e-06	12
+GO:0000389	mRNA 3'-splice site recognition	6	5	0.43	9.9e-06	12
 GO:0044839	cell cycle G2/M phase transition	155	27	10.98	1.1e-05	12
 GO:0038093	Fc receptor signaling pathway	147	26	10.41	1.2e-05	12
 GO:0000226	microtubule cytoskeleton organization	278	40	19.7	1.2e-05	12
@@ -5122,6 +5264,7 @@ GO:0018205	peptidyl-lysine modification	316	43	22.39	2.3e-05	12
 GO:0046782	regulation of viral transcription	56	14	3.97	2.5e-05	12
 GO:0045089	positive regulation of innate immune response	190	30	13.46	2.5e-05	12
 GO:1901998	toxin transport	25	9	1.77	3.1e-05	12
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.5	3.3e-05	12
 GO:0051297	centrosome organization	88	18	6.23	3.5e-05	12
 GO:0016567	protein ubiquitination	535	63	37.9	3.6e-05	12
 GO:0031047	gene silencing by RNA	130	23	9.21	3.6e-05	12
@@ -5146,6 +5289,8 @@ GO:0030178	negative regulation of Wnt signaling pathway	144	24	10.2	6.7e-05	12
 GO:0051170	nuclear import	200	30	14.17	6.8e-05	12
 GO:0016180	snRNA processing	22	8	1.56	8.0e-05	12
 GO:0002758	innate immune response-activating signal transduction	164	26	11.62	8.1e-05	12
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	5	0.57	8.2e-05	12
+GO:0010388	cullin deneddylation	8	5	0.57	8.2e-05	12
 GO:0000028	ribosomal small subunit assembly	17	7	1.2	9.0e-05	12
 GO:0075733	intracellular transport of virus	55	13	3.9	9.1e-05	12
 GO:0032210	regulation of telomere maintenance via telomerase	41	11	2.9	9.2e-05	12
@@ -5158,11 +5303,16 @@ GO:0033120	positive regulation of RNA splicing	23	8	1.63	0.00011	12
 GO:0032481	positive regulation of type I interferon production	49	12	3.47	0.00012	12
 GO:0034612	response to tumor necrosis factor	177	27	12.54	0.00012	12
 GO:1903312	negative regulation of mRNA metabolic process	29	9	2.05	0.00012	12
+GO:0000212	meiotic spindle organization	5	4	0.35	0.00012	12
+GO:0075525	viral translational termination-reinitiation	5	4	0.35	0.00012	12
 GO:0000075	cell cycle checkpoint	187	28	13.25	0.00012	12
 GO:0051783	regulation of nuclear division	132	22	9.35	0.00013	12
 GO:0030162	regulation of proteolysis	427	51	30.25	0.00014	12
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	24	10.77	0.00016	12
 GO:0046794	transport of virus	58	13	4.11	0.00016	12
+GO:0000338	protein deneddylation	9	5	0.64	0.00017	12
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.64	0.00017	12
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	5	0.64	0.00017	12
 GO:0007004	telomere maintenance via telomerase	51	12	3.61	0.00018	12
 GO:0034502	protein localization to chromosome	59	13	4.18	0.00019	12
 GO:0009408	response to heat	109	19	7.72	0.00021	12
@@ -5191,6 +5341,8 @@ GO:0051304	chromosome separation	62	13	4.39	0.00033	12
 GO:0019081	viral translation	10	5	0.71	0.00033	12
 GO:0070202	regulation of establishment of protein localization to chromosome	10	5	0.71	0.00033	12
 GO:0070203	regulation of establishment of protein localization to telomere	10	5	0.71	0.00033	12
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.43	0.00033	12
+GO:0007000	nucleolus organization	6	4	0.43	0.00033	12
 GO:0043086	negative regulation of catalytic activity	487	55	34.5	0.00033	12
 GO:0002183	cytoplasmic translational initiation	15	6	1.06	0.00036	12
 GO:0043968	histone H2A acetylation	15	6	1.06	0.00036	12
@@ -5206,6 +5358,7 @@ GO:0009263	deoxyribonucleotide biosynthetic process	11	5	0.78	0.00057	12
 GO:1904816	positive regulation of protein localization to chromosome, telomeric region	11	5	0.78	0.00057	12
 GO:0032268	regulation of cellular protein metabolic process	1472	135	104.29	0.00058	12
 GO:0072331	signal transduction by p53 class mediator	207	28	14.67	0.00068	12
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.5	0.00074	12
 GO:0001832	blastocyst growth	17	6	1.2	0.00078	12
 GO:0043628	ncRNA 3'-end processing	17	6	1.2	0.00078	12
 GO:0048025	negative regulation of mRNA splicing, via spliceosome	17	6	1.2	0.00078	12
@@ -5497,10 +5650,12 @@ GO:0019538	protein metabolic process	3286	363	290.04	2.2e-08	13
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	281	54	24.8	2.6e-08	13
 GO:0000027	ribosomal large subunit assembly	21	12	1.85	2.9e-08	13
 GO:0008334	histone mRNA metabolic process	21	12	1.85	2.9e-08	13
+GO:0043144	snoRNA processing	9	8	0.79	3.0e-08	13
 GO:1903902	positive regulation of viral life cycle	73	23	6.44	3.3e-08	13
 GO:0006383	transcription from RNA polymerase III promoter	47	18	4.15	3.4e-08	13
 GO:0050852	T cell receptor signaling pathway	115	30	10.15	3.7e-08	13
 GO:1901564	organonitrogen compound metabolic process	1439	183	127.01	4.0e-08	13
+GO:0031126	snoRNA 3'-end processing	7	7	0.62	4.1e-08	13
 GO:0000082	G1/S transition of mitotic cell cycle	189	41	16.68	4.1e-08	13
 GO:0019882	antigen processing and presentation	148	35	13.06	4.2e-08	13
 GO:0044843	cell cycle G1/S phase transition	197	42	17.39	4.8e-08	13
@@ -5528,12 +5683,15 @@ GO:0006362	transcription elongation from RNA polymerase I promoter	33	14	2.91	2.
 GO:0050684	regulation of mRNA processing	81	23	7.15	2.8e-07	13
 GO:0050851	antigen receptor-mediated signaling pathway	132	31	11.65	3.0e-07	13
 GO:0043628	ncRNA 3'-end processing	17	10	1.5	3.0e-07	13
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	7	0.71	3.0e-07	13
+GO:0034475	U4 snRNA 3'-end processing	8	7	0.71	3.0e-07	13
 GO:0031023	microtubule organizing center organization	94	25	8.3	3.4e-07	13
 GO:0034502	protein localization to chromosome	59	19	5.21	3.5e-07	13
 GO:0033044	regulation of chromosome organization	127	30	11.21	4.0e-07	13
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	9	1.24	4.2e-07	13
 GO:0016075	rRNA catabolic process	14	9	1.24	4.2e-07	13
 GO:0048524	positive regulation of viral process	83	23	7.33	4.5e-07	13
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.53	4.6e-07	13
 GO:0000288	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	66	20	5.83	5.3e-07	13
 GO:0008033	tRNA processing	96	25	8.47	5.3e-07	13
 GO:0051170	nuclear import	200	40	17.65	6.0e-07	13
@@ -5546,6 +5704,7 @@ GO:0006417	regulation of translation	271	49	23.92	8.1e-07	13
 GO:0000725	recombinational repair	74	21	6.53	9.3e-07	13
 GO:0071025	RNA surveillance	15	9	1.32	9.6e-07	13
 GO:0001824	blastocyst development	52	17	4.59	1.2e-06	13
+GO:0034472	snRNA 3'-end processing	9	7	0.79	1.3e-06	13
 GO:0051297	centrosome organization	88	23	7.77	1.4e-06	13
 GO:0032269	negative regulation of cellular protein metabolic process	636	91	56.14	1.6e-06	13
 GO:0000226	microtubule cytoskeleton organization	278	49	24.54	1.7e-06	13
@@ -5571,6 +5730,7 @@ GO:1903311	regulation of mRNA metabolic process	107	25	9.44	4.6e-06	13
 GO:0002758	innate immune response-activating signal transduction	164	33	14.48	5.0e-06	13
 GO:0019941	modification-dependent protein catabolic process	414	64	36.54	5.2e-06	13
 GO:0051248	negative regulation of protein metabolic process	672	93	59.31	5.3e-06	13
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	5	5	0.44	5.3e-06	13
 GO:0060249	anatomical structure homeostasis	242	43	21.36	6.1e-06	13
 GO:0032392	DNA geometric change	70	19	6.18	6.3e-06	13
 GO:0034504	protein localization to nucleus	251	44	22.15	6.8e-06	13
@@ -5607,6 +5767,12 @@ GO:0034661	ncRNA catabolic process	20	9	1.77	2.1e-05	13
 GO:0031570	DNA integrity checkpoint	132	27	11.65	2.6e-05	13
 GO:0051603	proteolysis involved in cellular protein catabolic process	453	66	39.98	2.7e-05	13
 GO:0030162	regulation of proteolysis	427	63	37.69	2.8e-05	13
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.53	2.9e-05	13
+GO:0007021	tubulin complex assembly	6	5	0.53	2.9e-05	13
+GO:0043634	polyadenylation-dependent ncRNA catabolic process	6	5	0.53	2.9e-05	13
+GO:0071029	nuclear ncRNA surveillance	6	5	0.53	2.9e-05	13
+GO:0071035	nuclear polyadenylation-dependent rRNA catabolic process	6	5	0.53	2.9e-05	13
+GO:0071046	nuclear polyadenylation-dependent ncRNA catabolic process	6	5	0.53	2.9e-05	13
 GO:0018205	peptidyl-lysine modification	316	50	27.89	3.0e-05	13
 GO:0032210	regulation of telomere maintenance via telomerase	41	13	3.62	3.1e-05	13
 GO:0006376	mRNA splice site selection	21	9	1.85	3.5e-05	13
@@ -5633,6 +5799,9 @@ GO:0033572	transferrin transport	28	10	2.47	8.2e-05	13
 GO:0033683	nucleotide-excision repair, DNA incision	39	12	3.44	8.6e-05	13
 GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	13	3.97	9.1e-05	13
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	13	3.97	9.1e-05	13
+GO:0043633	polyadenylation-dependent RNA catabolic process	7	5	0.62	9.6e-05	13
+GO:0075522	IRES-dependent viral translational initiation	7	5	0.62	9.6e-05	13
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.62	9.6e-05	13
 GO:0044257	cellular protein catabolic process	473	66	41.75	0.00010	13
 GO:0046794	transport of virus	58	15	5.12	0.00011	13
 GO:0015682	ferric iron transport	29	10	2.56	0.00011	13
@@ -5652,11 +5821,20 @@ GO:1901998	toxin transport	25	9	2.21	0.00017	13
 GO:0006366	transcription from RNA polymerase II promoter	1411	161	124.54	0.00019	13
 GO:1901992	positive regulation of mitotic cell cycle phase transition	42	12	3.71	0.00019	13
 GO:0051338	regulation of transferase activity	623	81	54.99	0.00020	13
+GO:0010388	cullin deneddylation	8	5	0.71	0.00024	13
+GO:0051231	spindle elongation	8	5	0.71	0.00024	13
+GO:1904869	regulation of protein localization to Cajal body	8	5	0.71	0.00024	13
+GO:1904871	positive regulation of protein localization to Cajal body	8	5	0.71	0.00024	13
 GO:0060070	canonical Wnt signaling pathway	214	35	18.89	0.00024	13
 GO:0030111	regulation of Wnt signaling pathway	223	36	19.68	0.00026	13
 GO:0044344	cellular response to fibroblast growth factor stimulus	90	19	7.94	0.00026	13
 GO:0007076	mitotic chromosome condensation	12	6	1.06	0.00027	13
 GO:0007017	microtubule-based process	398	56	35.13	0.00028	13
+GO:0000056	ribosomal small subunit export from nucleus	5	4	0.44	0.00028	13
+GO:0000212	meiotic spindle organization	5	4	0.44	0.00028	13
+GO:0010032	meiotic chromosome condensation	5	4	0.44	0.00028	13
+GO:0071038	nuclear polyadenylation-dependent tRNA catabolic process	5	4	0.44	0.00028	13
+GO:0075525	viral translational termination-reinitiation	5	4	0.44	0.00028	13
 GO:0071774	response to fibroblast growth factor	91	19	8.03	0.00031	13
 GO:0051054	positive regulation of DNA metabolic process	136	25	12	0.00031	13
 GO:0051171	regulation of nitrogen compound metabolic process	2876	298	253.85	0.00032	13
@@ -5680,6 +5858,13 @@ GO:0043248	proteasome assembly	13	6	1.15	0.00046	13
 GO:0000077	DNA damage checkpoint	124	23	10.94	0.00046	13
 GO:0009408	response to heat	109	21	9.62	0.00048	13
 GO:0045930	negative regulation of mitotic cell cycle	172	29	15.18	0.00049	13
+GO:0000338	protein deneddylation	9	5	0.79	0.00049	13
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.79	0.00049	13
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.79	0.00049	13
+GO:1903405	protein localization to nuclear body	9	5	0.79	0.00049	13
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	5	0.79	0.00049	13
+GO:1904867	protein localization to Cajal body	9	5	0.79	0.00049	13
+GO:1990173	protein localization to nucleoplasm	9	5	0.79	0.00049	13
 GO:0033120	positive regulation of RNA splicing	23	8	2.03	0.00052	13
 GO:0006302	double-strand break repair	157	27	13.86	0.00055	13
 GO:0072331	signal transduction by p53 class mediator	207	33	18.27	0.00058	13
@@ -5692,6 +5877,12 @@ GO:0000083	regulation of transcription involved in G1/S transition of mitotic ce
 GO:0070897	DNA-templated transcriptional preinitiation complex assembly	24	8	2.12	0.00073	13
 GO:0032268	regulation of cellular protein metabolic process	1472	163	129.92	0.00073	13
 GO:0006275	regulation of DNA replication	90	18	7.94	0.00075	13
+GO:0000459	exonucleolytic trimming involved in rRNA processing	6	4	0.53	0.00078	13
+GO:0000467	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	6	4	0.53	0.00078	13
+GO:0006384	transcription initiation from RNA polymerase III promoter	6	4	0.53	0.00078	13
+GO:0016078	tRNA catabolic process	6	4	0.53	0.00078	13
+GO:0051415	interphase microtubule nucleation by interphase microtubule organizing center	6	4	0.53	0.00078	13
+GO:0051418	microtubule nucleation by microtubule organizing center	6	4	0.53	0.00078	13
 GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	19	7	1.68	0.00079	13
 GO:0007126	meiotic nuclear division	114	21	10.06	0.00089	13
 GO:0001682	tRNA 5'-leader removal	10	5	0.88	0.00091	13
@@ -5965,6 +6156,7 @@ GO:0032446	protein modification by small protein conjugation	634	86	49.65	1.9e-0
 GO:0070987	error-free translesion synthesis	18	10	1.41	2.0e-07	14
 GO:0006270	DNA replication initiation	36	14	2.82	2.2e-07	14
 GO:0051170	nuclear import	200	38	15.66	2.2e-07	14
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.47	2.3e-07	14
 GO:0019538	protein metabolic process	3286	321	257.34	2.3e-07	14
 GO:0002181	cytoplasmic translation	47	16	3.68	2.5e-07	14
 GO:0048024	regulation of mRNA splicing, via spliceosome	53	17	4.15	2.9e-07	14
@@ -6001,6 +6193,7 @@ GO:0006297	nucleotide-excision repair, DNA gap filling	23	10	1.8	3.6e-06	14
 GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	9	1.49	4.8e-06	14
 GO:0006379	mRNA cleavage	19	9	1.49	4.8e-06	14
 GO:0071356	cellular response to tumor necrosis factor	168	31	13.16	5.4e-06	14
+GO:0010388	cullin deneddylation	8	6	0.63	5.5e-06	14
 GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	24	10	1.88	5.8e-06	14
 GO:0033260	nuclear DNA replication	24	10	1.88	5.8e-06	14
 GO:0006312	mitotic recombination	40	13	3.13	6.2e-06	14
@@ -6022,9 +6215,11 @@ GO:0006376	mRNA splice site selection	21	9	1.64	1.3e-05	14
 GO:0006417	regulation of translation	271	42	21.22	1.3e-05	14
 GO:0033044	regulation of chromosome organization	127	25	9.95	1.4e-05	14
 GO:0032481	positive regulation of type I interferon production	49	14	3.84	1.5e-05	14
+GO:0000338	protein deneddylation	9	6	0.7	1.5e-05	14
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	28	11.9	1.6e-05	14
 GO:0034612	response to tumor necrosis factor	177	31	13.86	1.6e-05	14
 GO:0048524	positive regulation of viral process	83	19	6.5	1.6e-05	14
+GO:0007021	tubulin complex assembly	6	5	0.47	1.6e-05	14
 GO:0046782	regulation of viral transcription	56	15	4.39	1.7e-05	14
 GO:0042276	error-prone translesion synthesis	17	8	1.33	1.7e-05	14
 GO:0090307	mitotic spindle assembly	44	13	3.45	2.0e-05	14
@@ -6054,6 +6249,9 @@ GO:0030178	negative regulation of Wnt signaling pathway	144	26	11.28	4.5e-05	14
 GO:0007088	regulation of mitotic nuclear division	120	23	9.4	4.7e-05	14
 GO:0000075	cell cycle checkpoint	187	31	14.64	4.9e-05	14
 GO:0034248	regulation of cellular amide metabolic process	287	42	22.48	5.3e-05	14
+GO:0000022	mitotic spindle elongation	7	5	0.55	5.3e-05	14
+GO:0042256	mature ribosome assembly	7	5	0.55	5.3e-05	14
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.55	5.3e-05	14
 GO:0018205	peptidyl-lysine modification	316	45	24.75	5.7e-05	14
 GO:0006997	nucleus organization	106	21	8.3	6.0e-05	14
 GO:0075733	intracellular transport of virus	55	14	4.31	6.1e-05	14
@@ -6072,6 +6270,7 @@ GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	38	11	2.98	0.0
 GO:0046794	transport of virus	58	14	4.54	0.00011	14
 GO:0071103	DNA conformation change	223	34	17.46	0.00012	14
 GO:0051248	negative regulation of protein metabolic process	672	79	52.63	0.00013	14
+GO:0051231	spindle elongation	8	5	0.63	0.00013	14
 GO:0008033	tRNA processing	96	19	7.52	0.00013	14
 GO:0006294	nucleotide-excision repair, preincision complex assembly	27	9	2.11	0.00014	14
 GO:0033683	nucleotide-excision repair, DNA incision	39	11	3.05	0.00014	14
@@ -6079,6 +6278,7 @@ GO:0016074	snoRNA metabolic process	12	6	0.94	0.00014	14
 GO:0043086	negative regulation of catalytic activity	487	61	38.14	0.00014	14
 GO:0006271	DNA strand elongation involved in DNA replication	22	8	1.72	0.00016	14
 GO:0016180	snRNA processing	22	8	1.72	0.00016	14
+GO:0075525	viral translational termination-reinitiation	5	4	0.39	0.00017	14
 GO:0051983	regulation of chromosome segregation	75	16	5.87	0.00018	14
 GO:0033572	transferrin transport	28	9	2.19	0.00019	14
 GO:0006891	intra-Golgi vesicle-mediated transport	34	10	2.66	0.00019	14
@@ -6093,6 +6293,8 @@ GO:0072512	trivalent inorganic cation transport	29	9	2.27	0.00025	14
 GO:0006810	transport	2659	250	208.23	0.00025	14
 GO:0051338	regulation of transferase activity	623	73	48.79	0.00026	14
 GO:0032392	DNA geometric change	70	15	5.48	0.00027	14
+GO:0043144	snoRNA processing	9	5	0.7	0.00028	14
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.7	0.00028	14
 GO:0071824	protein-DNA complex subunit organization	207	31	16.21	0.00033	14
 GO:0007093	mitotic cell cycle checkpoint	129	22	10.1	0.00040	14
 GO:0051297	centrosome organization	88	17	6.89	0.00040	14
@@ -6107,6 +6309,8 @@ GO:1902593	single-organism nuclear import	183	28	14.33	0.00044	14
 GO:0006626	protein targeting to mitochondrion	122	21	9.55	0.00047	14
 GO:1903900	regulation of viral life cycle	122	21	9.55	0.00047	14
 GO:0060828	regulation of canonical Wnt signaling pathway	175	27	13.7	0.00049	14
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.47	0.00049	14
+GO:0051256	mitotic spindle midzone assembly	6	4	0.47	0.00049	14
 GO:0034502	protein localization to chromosome	59	13	4.62	0.00052	14
 GO:0019081	viral translation	10	5	0.78	0.00052	14
 GO:0001824	blastocyst development	52	12	4.07	0.00054	14
@@ -6429,6 +6633,7 @@ GO:0043484	regulation of RNA splicing	82	18	5.52	6.2e-06	15
 GO:0051306	mitotic sister chromatid separation	46	13	3.09	6.6e-06	15
 GO:0050852	T cell receptor signaling pathway	115	22	7.74	6.7e-06	15
 GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	7	0.87	7.2e-06	15
+GO:0000389	mRNA 3'-splice site recognition	6	5	0.4	7.7e-06	15
 GO:0000731	DNA synthesis involved in DNA repair	61	15	4.1	8.5e-06	15
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	26	10.23	8.6e-06	15
 GO:0051170	nuclear import	200	31	13.46	9.8e-06	15
@@ -6451,6 +6656,8 @@ GO:0000288	nuclear-transcribed mRNA catabolic process, deadenylation-dependent d
 GO:0002183	cytoplasmic translational initiation	15	7	1.01	2.4e-05	15
 GO:1904872	regulation of telomerase RNA localization to Cajal body	15	7	1.01	2.4e-05	15
 GO:1904874	positive regulation of telomerase RNA localization to Cajal body	15	7	1.01	2.4e-05	15
+GO:0075522	IRES-dependent viral translational initiation	7	5	0.47	2.5e-05	15
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.47	2.5e-05	15
 GO:0043632	modification-dependent macromolecule catabolic process	421	51	28.32	2.5e-05	15
 GO:0007091	metaphase/anaphase transition of mitotic cell cycle	45	12	3.03	2.8e-05	15
 GO:0010965	regulation of mitotic sister chromatid separation	45	12	3.03	2.8e-05	15
@@ -6475,6 +6682,9 @@ GO:0010501	RNA secondary structure unwinding	40	11	2.69	4.5e-05	15
 GO:0051304	chromosome separation	62	14	4.17	4.8e-05	15
 GO:0033554	cellular response to stress	1223	116	82.28	4.8e-05	15
 GO:0031047	gene silencing by RNA	130	22	8.75	4.9e-05	15
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	5	0.54	6.4e-05	15
+GO:0034475	U4 snRNA 3'-end processing	8	5	0.54	6.4e-05	15
+GO:0051231	spindle elongation	8	5	0.54	6.4e-05	15
 GO:0000028	ribosomal small subunit assembly	17	7	1.14	6.5e-05	15
 GO:0043628	ncRNA 3'-end processing	17	7	1.14	6.5e-05	15
 GO:0046782	regulation of viral transcription	56	13	3.77	6.5e-05	15
@@ -6483,6 +6693,7 @@ GO:0000724	double-strand break repair via homologous recombination	73	15	4.91	8.
 GO:0065004	protein-DNA complex assembly	183	27	12.31	8.8e-05	15
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	11	2.89	9.3e-05	15
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	11	2.89	9.3e-05	15
+GO:0075525	viral translational termination-reinitiation	5	4	0.34	9.6e-05	15
 GO:0000725	recombinational repair	74	15	4.98	9.8e-05	15
 GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus	13	6	0.87	0.00010	15
 GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	24	8	1.61	0.00011	15
@@ -6491,6 +6702,9 @@ GO:0034502	protein localization to chromosome	59	13	3.97	0.00012	15
 GO:0038093	Fc receptor signaling pathway	147	23	9.89	0.00012	15
 GO:0000075	cell cycle checkpoint	187	27	12.58	0.00013	15
 GO:0019941	modification-dependent protein catabolic process	414	48	27.85	0.00013	15
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.61	0.00014	15
+GO:0034472	snRNA 3'-end processing	9	5	0.61	0.00014	15
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.61	0.00014	15
 GO:0051347	positive regulation of transferase activity	426	49	28.66	0.00014	15
 GO:0006998	nuclear envelope organization	68	14	4.58	0.00014	15
 GO:0031023	microtubule organizing center organization	94	17	6.32	0.00015	15
@@ -6510,6 +6724,8 @@ GO:0097421	liver regeneration	20	7	1.35	0.00022	15
 GO:0010948	negative regulation of cell cycle process	194	27	13.05	0.00024	15
 GO:0002758	innate immune response-activating signal transduction	164	24	11.03	0.00024	15
 GO:0071025	RNA surveillance	15	6	1.01	0.00027	15
+GO:0007000	nucleolus organization	6	4	0.4	0.00027	15
+GO:0009186	deoxyribonucleoside diphosphate metabolic process	6	4	0.4	0.00027	15
 GO:0051171	regulation of nitrogen compound metabolic process	2876	233	193.5	0.00028	15
 GO:0006294	nucleotide-excision repair, preincision complex assembly	27	8	1.82	0.00028	15
 GO:0042180	cellular ketone metabolic process	146	22	9.82	0.00029	15
@@ -6537,6 +6753,8 @@ GO:0000154	rRNA modification	23	7	1.55	0.00057	15
 GO:0033120	positive regulation of RNA splicing	23	7	1.55	0.00057	15
 GO:0051603	proteolysis involved in cellular protein catabolic process	453	49	30.48	0.00058	15
 GO:2000027	regulation of organ morphogenesis	164	23	11.03	0.00060	15
+GO:0000022	mitotic spindle elongation	7	4	0.47	0.00060	15
+GO:0031126	snoRNA 3'-end processing	7	4	0.47	0.00060	15
 GO:0030178	negative regulation of Wnt signaling pathway	144	21	9.69	0.00061	15
 GO:0032269	negative regulation of cellular protein metabolic process	636	64	42.79	0.00064	15
 GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	10	3.03	0.00066	15
@@ -6864,6 +7082,8 @@ GO:0000075	cell cycle checkpoint	187	40	17.17	2.6e-07	16
 GO:2000278	regulation of DNA biosynthetic process	73	22	6.7	3.2e-07	16
 GO:0006998	nuclear envelope organization	68	21	6.24	3.8e-07	16
 GO:0032508	DNA duplex unwinding	68	21	6.24	3.8e-07	16
+GO:1904869	regulation of protein localization to Cajal body	8	7	0.73	4.0e-07	16
+GO:1904871	positive regulation of protein localization to Cajal body	8	7	0.73	4.0e-07	16
 GO:0031400	negative regulation of protein modification process	395	67	36.27	4.3e-07	16
 GO:0043628	ncRNA 3'-end processing	17	10	1.56	4.3e-07	16
 GO:0009894	regulation of catabolic process	356	62	32.69	4.6e-07	16
@@ -6874,6 +7094,7 @@ GO:0034248	regulation of cellular amide metabolic process	287	53	26.36	5.0e-07	1
 GO:0050434	positive regulation of viral transcription	38	15	3.49	5.1e-07	16
 GO:0008334	histone mRNA metabolic process	21	11	1.93	5.5e-07	16
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	9	1.29	5.8e-07	16
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.55	5.9e-07	16
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	281	52	25.81	6.0e-07	16
 GO:0051170	nuclear import	200	41	18.37	6.2e-07	16
 GO:1904816	positive regulation of protein localization to chromosome, telomeric region	11	8	1.01	6.3e-07	16
@@ -6891,6 +7112,11 @@ GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	16	4.13	
 GO:0032479	regulation of type I interferon production	78	22	7.16	1.1e-06	16
 GO:0032606	type I interferon production	78	22	7.16	1.1e-06	16
 GO:0051052	regulation of DNA metabolic process	265	49	24.34	1.3e-06	16
+GO:0043144	snoRNA processing	9	7	0.83	1.6e-06	16
+GO:1903405	protein localization to nuclear body	9	7	0.83	1.6e-06	16
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	7	0.83	1.6e-06	16
+GO:1904867	protein localization to Cajal body	9	7	0.83	1.6e-06	16
+GO:1990173	protein localization to nucleoplasm	9	7	0.83	1.6e-06	16
 GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	10	1.74	1.7e-06	16
 GO:0016074	snoRNA metabolic process	12	8	1.1	1.7e-06	16
 GO:0090090	negative regulation of canonical Wnt signaling pathway	124	29	11.39	1.8e-06	16
@@ -6905,6 +7131,7 @@ GO:0065004	protein-DNA complex assembly	183	37	16.81	3.1e-06	16
 GO:0006296	nucleotide-excision repair, DNA incision, 5'-to lesion	38	14	3.49	3.2e-06	16
 GO:0033554	cellular response to stress	1223	157	112.31	3.3e-06	16
 GO:0034612	response to tumor necrosis factor	177	36	16.25	3.6e-06	16
+GO:0031126	snoRNA 3'-end processing	7	6	0.64	3.8e-06	16
 GO:0022616	DNA strand elongation	29	12	2.66	4.0e-06	16
 GO:0008033	tRNA processing	96	24	8.82	4.0e-06	16
 GO:0032481	positive regulation of type I interferon production	49	16	4.5	4.1e-06	16
@@ -6954,6 +7181,8 @@ GO:0010965	regulation of mitotic sister chromatid separation	45	14	4.13	3.0e-05	
 GO:0044784	metaphase/anaphase transition of cell cycle	45	14	4.13	3.0e-05	16
 GO:0031023	microtubule organizing center organization	94	22	8.63	3.0e-05	16
 GO:0045930	negative regulation of mitotic cell cycle	172	33	15.8	3.3e-05	16
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.55	3.6e-05	16
+GO:0007021	tubulin complex assembly	6	5	0.55	3.6e-05	16
 GO:2000573	positive regulation of DNA biosynthetic process	46	14	4.22	4.0e-05	16
 GO:0051171	regulation of nitrogen compound metabolic process	2876	316	264.11	4.0e-05	16
 GO:0006888	ER to Golgi vesicle-mediated transport	130	27	11.94	4.0e-05	16
@@ -6983,6 +7212,8 @@ GO:1901988	negative regulation of cell cycle phase transition	137	27	12.58	0.000
 GO:0051297	centrosome organization	88	20	8.08	0.00011	16
 GO:0044257	cellular protein catabolic process	473	68	43.44	0.00011	16
 GO:2001252	positive regulation of chromosome organization	56	15	5.14	0.00011	16
+GO:0075522	IRES-dependent viral translational initiation	7	5	0.64	0.00012	16
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.64	0.00012	16
 GO:0000380	alternative mRNA splicing, via spliceosome	39	12	3.58	0.00013	16
 GO:0006891	intra-Golgi vesicle-mediated transport	34	11	3.12	0.00015	16
 GO:0006275	regulation of DNA replication	90	20	8.27	0.00015	16
@@ -7003,9 +7234,18 @@ GO:0033047	regulation of mitotic sister chromatid segregation	53	14	4.87	0.00022
 GO:1900034	regulation of cellular response to heat	66	16	6.06	0.00023	16
 GO:0007017	microtubule-based process	398	58	36.55	0.00024	16
 GO:0000724	double-strand break repair via homologous recombination	73	17	6.7	0.00025	16
+GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	8	5	0.73	0.00029	16
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	5	0.73	0.00029	16
+GO:0034475	U4 snRNA 3'-end processing	8	5	0.73	0.00029	16
+GO:0051231	spindle elongation	8	5	0.73	0.00029	16
 GO:0045088	regulation of innate immune response	224	37	20.57	0.00030	16
 GO:0000725	recombinational repair	74	17	6.8	0.00030	16
 GO:0051248	negative regulation of protein metabolic process	672	88	61.71	0.00032	16
+GO:0000056	ribosomal small subunit export from nucleus	5	4	0.46	0.00033	16
+GO:0000212	meiotic spindle organization	5	4	0.46	0.00033	16
+GO:0010032	meiotic chromosome condensation	5	4	0.46	0.00033	16
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	5	4	0.46	0.00033	16
+GO:0075525	viral translational termination-reinitiation	5	4	0.46	0.00033	16
 GO:0043928	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	26	9	2.39	0.00033	16
 GO:0006448	regulation of translational elongation	21	8	1.93	0.00034	16
 GO:0090329	regulation of DNA-dependent DNA replication	37	11	3.4	0.00034	16
@@ -7024,6 +7264,9 @@ GO:0071028	nuclear mRNA surveillance	13	6	1.19	0.00057	16
 GO:0006606	protein import into nucleus	183	31	16.81	0.00058	16
 GO:0044744	protein targeting to nucleus	183	31	16.81	0.00058	16
 GO:1902593	single-organism nuclear import	183	31	16.81	0.00058	16
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.83	0.00059	16
+GO:0034472	snRNA 3'-end processing	9	5	0.83	0.00059	16
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.83	0.00059	16
 GO:0032212	positive regulation of telomere maintenance via telomerase	28	9	2.57	0.00062	16
 GO:0043902	positive regulation of multi-organism process	107	21	9.83	0.00063	16
 GO:0008543	fibroblast growth factor receptor signaling pathway	72	16	6.61	0.00067	16
@@ -7032,6 +7275,9 @@ GO:0051321	meiotic cell cycle	146	26	13.41	0.00073	16
 GO:1904358	positive regulation of telomere maintenance via telomere lengthening	29	9	2.66	0.00082	16
 GO:0060255	regulation of macromolecule metabolic process	3635	377	333.81	0.00087	16
 GO:0016458	gene silencing	196	32	18	0.00091	16
+GO:0007000	nucleolus organization	6	4	0.55	0.00091	16
+GO:0051415	interphase microtubule nucleation by interphase microtubule organizing center	6	4	0.55	0.00091	16
+GO:0051418	microtubule nucleation by microtubule organizing center	6	4	0.55	0.00091	16
 GO:0016075	rRNA catabolic process	14	6	1.29	0.00093	16
 GO:0070897	DNA-templated transcriptional preinitiation complex assembly	24	8	2.2	0.00095	16
 GO:0006396	RNA processing	782	252	58.62	< 1e-30	17
@@ -7294,6 +7540,7 @@ GO:0006270	DNA replication initiation	36	14	2.7	1.2e-07	17
 GO:0002181	cytoplasmic translation	47	16	3.52	1.4e-07	17
 GO:0000082	G1/S transition of mitotic cell cycle	189	36	14.17	1.5e-07	17
 GO:0033044	regulation of chromosome organization	127	28	9.52	1.6e-07	17
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.45	1.7e-07	17
 GO:0071702	organic substance transport	1631	174	122.26	1.8e-07	17
 GO:0006352	DNA-templated transcription, initiation	199	37	14.92	1.9e-07	17
 GO:1904872	regulation of telomerase RNA localization to Cajal body	15	9	1.12	2.4e-07	17
@@ -7340,6 +7587,7 @@ GO:0033260	nuclear DNA replication	24	10	1.8	3.9e-06	17
 GO:0071824	protein-DNA complex subunit organization	207	35	15.52	3.9e-06	17
 GO:0090090	negative regulation of canonical Wnt signaling pathway	124	25	9.29	4.1e-06	17
 GO:0050851	antigen receptor-mediated signaling pathway	132	26	9.89	4.1e-06	17
+GO:0010388	cullin deneddylation	8	6	0.6	4.3e-06	17
 GO:0006446	regulation of translational initiation	66	17	4.95	4.7e-06	17
 GO:0051170	nuclear import	200	34	14.99	4.8e-06	17
 GO:0010498	proteasomal protein catabolic process	300	45	22.49	5.0e-06	17
@@ -7351,8 +7599,10 @@ GO:0000226	microtubule cytoskeleton organization	278	42	20.84	8.6e-06	17
 GO:0070925	organelle assembly	414	56	31.03	9.1e-06	17
 GO:0045930	negative regulation of mitotic cell cycle	172	30	12.89	1.0e-05	17
 GO:1903311	regulation of mRNA metabolic process	107	22	8.02	1.1e-05	17
+GO:0000338	protein deneddylation	9	6	0.67	1.2e-05	17
 GO:0090307	mitotic spindle assembly	44	13	3.3	1.2e-05	17
 GO:0031570	DNA integrity checkpoint	132	25	9.89	1.3e-05	17
+GO:0007021	tubulin complex assembly	6	5	0.45	1.3e-05	17
 GO:0032479	regulation of type I interferon production	78	18	5.85	1.3e-05	17
 GO:0032606	type I interferon production	78	18	5.85	1.3e-05	17
 GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	7	0.97	1.5e-05	17
@@ -7407,6 +7657,7 @@ GO:0044766	multi-organism transport	60	14	4.5	0.00011	17
 GO:1902579	multi-organism localization	60	14	4.5	0.00011	17
 GO:0033047	regulation of mitotic sister chromatid segregation	53	13	3.97	0.00011	17
 GO:0006271	DNA strand elongation involved in DNA replication	22	8	1.65	0.00012	17
+GO:0075525	viral translational termination-reinitiation	5	4	0.37	0.00015	17
 GO:0006457	protein folding	152	25	11.39	0.00015	17
 GO:0032210	regulation of telomere maintenance via telomerase	41	11	3.07	0.00015	17
 GO:0075733	intracellular transport of virus	55	13	4.12	0.00016	17
@@ -7432,6 +7683,9 @@ GO:0032269	negative regulation of cellular protein metabolic process	636	71	47.6
 GO:0017038	protein import	227	32	17.02	0.00037	17
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	11	3.37	0.00037	17
 GO:0051603	proteolysis involved in cellular protein catabolic process	453	54	33.96	0.00040	17
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.45	0.00042	17
+GO:0007000	nucleolus organization	6	4	0.45	0.00042	17
+GO:0009186	deoxyribonucleoside diphosphate metabolic process	6	4	0.45	0.00042	17
 GO:0009408	response to heat	109	19	8.17	0.00043	17
 GO:0019081	viral translation	10	5	0.75	0.00043	17
 GO:0006278	RNA-dependent DNA biosynthetic process	53	12	3.97	0.00044	17
@@ -7453,6 +7707,11 @@ GO:0010833	telomere maintenance via telomere lengthening	56	12	4.2	0.00074	17
 GO:0000724	double-strand break repair via homologous recombination	73	14	5.47	0.00090	17
 GO:0051338	regulation of transferase activity	623	68	46.7	0.00090	17
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	23	11.39	0.00091	17
+GO:0000022	mitotic spindle elongation	7	4	0.52	0.00091	17
+GO:0031126	snoRNA 3'-end processing	7	4	0.52	0.00091	17
+GO:0042256	mature ribosome assembly	7	4	0.52	0.00091	17
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.52	0.00091	17
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	4	0.52	0.00091	17
 GO:0006275	regulation of DNA replication	90	16	6.75	0.00095	17
 GO:0022616	DNA strand elongation	29	8	2.17	0.00100	17
 GO:0006396	RNA processing	782	274	67.5	< 1e-30	18
@@ -7798,6 +8057,7 @@ GO:0000075	cell cycle checkpoint	187	35	16.14	8.7e-06	18
 GO:2000278	regulation of DNA biosynthetic process	73	19	6.3	8.9e-06	18
 GO:0051171	regulation of nitrogen compound metabolic process	2876	303	248.25	9.5e-06	18
 GO:0075733	intracellular transport of virus	55	16	4.75	9.8e-06	18
+GO:0051231	spindle elongation	8	6	0.69	9.8e-06	18
 GO:0043902	positive regulation of multi-organism process	107	24	9.24	1.0e-05	18
 GO:1902581	multi-organism cellular localization	56	16	4.83	1.3e-05	18
 GO:1902583	multi-organism intracellular transport	56	16	4.83	1.3e-05	18
@@ -7816,6 +8076,7 @@ GO:1901998	toxin transport	25	10	2.16	2.1e-05	18
 GO:0030261	chromosome condensation	30	11	2.59	2.2e-05	18
 GO:0017038	protein import	227	39	19.59	2.2e-05	18
 GO:0048193	Golgi vesicle transport	220	38	18.99	2.5e-05	18
+GO:0000389	mRNA 3'-splice site recognition	6	5	0.52	2.6e-05	18
 GO:0008543	fibroblast growth factor receptor signaling pathway	72	18	6.21	2.8e-05	18
 GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	17	5.7	3.0e-05	18
 GO:0030178	negative regulation of Wnt signaling pathway	144	28	12.43	3.3e-05	18
@@ -7837,6 +8098,9 @@ GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	13	3.88	
 GO:0019941	modification-dependent protein catabolic process	414	59	35.74	7.2e-05	18
 GO:0045089	positive regulation of innate immune response	190	33	16.4	7.4e-05	18
 GO:0071774	response to fibroblast growth factor	91	20	7.85	7.5e-05	18
+GO:0000022	mitotic spindle elongation	7	5	0.6	8.6e-05	18
+GO:0031126	snoRNA 3'-end processing	7	5	0.6	8.6e-05	18
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.6	8.6e-05	18
 GO:0010604	positive regulation of macromolecule metabolic process	1897	206	163.74	9.2e-05	18
 GO:0051338	regulation of transferase activity	623	81	53.78	9.3e-05	18
 GO:0051248	negative regulation of protein metabolic process	672	86	58	9.9e-05	18
@@ -7859,6 +8123,8 @@ GO:0051304	chromosome separation	62	15	5.35	0.00019	18
 GO:0090329	regulation of DNA-dependent DNA replication	37	11	3.19	0.00019	18
 GO:0045292	mRNA cis splicing, via spliceosome	16	7	1.38	0.00020	18
 GO:0002218	activation of innate immune response	167	29	14.41	0.00020	18
+GO:1904869	regulation of protein localization to Cajal body	8	5	0.69	0.00021	18
+GO:1904871	positive regulation of protein localization to Cajal body	8	5	0.69	0.00021	18
 GO:0010833	telomere maintenance via telomere lengthening	56	14	4.83	0.00021	18
 GO:0043967	histone H4 acetylation	56	14	4.83	0.00021	18
 GO:0006376	mRNA splice site selection	21	8	1.81	0.00022	18
@@ -7868,6 +8134,9 @@ GO:0032968	positive regulation of transcription elongation from RNA polymerase I
 GO:0007093	mitotic cell cycle checkpoint	129	24	11.13	0.00024	18
 GO:0030397	membrane disassembly	44	12	3.8	0.00025	18
 GO:0051081	nuclear envelope disassembly	44	12	3.8	0.00025	18
+GO:0000212	meiotic spindle organization	5	4	0.43	0.00026	18
+GO:0010032	meiotic chromosome condensation	5	4	0.43	0.00026	18
+GO:0075525	viral translational termination-reinitiation	5	4	0.43	0.00026	18
 GO:0030163	protein catabolic process	547	71	47.22	0.00027	18
 GO:0032204	regulation of telomere maintenance	64	15	5.52	0.00028	18
 GO:0000291	nuclear-transcribed mRNA catabolic process, exonucleolytic	27	9	2.33	0.00029	18
@@ -7889,6 +8158,13 @@ GO:0071806	protein transmembrane transport	53	13	4.57	0.00043	18
 GO:0006606	protein import into nucleus	183	30	15.8	0.00044	18
 GO:0044744	protein targeting to nucleus	183	30	15.8	0.00044	18
 GO:1902593	single-organism nuclear import	183	30	15.8	0.00044	18
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.78	0.00044	18
+GO:0043144	snoRNA processing	9	5	0.78	0.00044	18
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.78	0.00044	18
+GO:1903405	protein localization to nuclear body	9	5	0.78	0.00044	18
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	5	0.78	0.00044	18
+GO:1904867	protein localization to Cajal body	9	5	0.78	0.00044	18
+GO:1990173	protein localization to nucleoplasm	9	5	0.78	0.00044	18
 GO:0033120	positive regulation of RNA splicing	23	8	1.99	0.00045	18
 GO:0033045	regulation of sister chromatid segregation	60	14	5.18	0.00046	18
 GO:0051603	proteolysis involved in cellular protein catabolic process	453	60	39.1	0.00048	18
@@ -7906,6 +8182,10 @@ GO:0016226	iron-sulfur cluster assembly	14	6	1.21	0.00067	18
 GO:0031163	metallo-sulfur cluster assembly	14	6	1.21	0.00067	18
 GO:0031325	positive regulation of cellular metabolic process	1857	196	160.29	0.00071	18
 GO:0045786	negative regulation of cell cycle	348	48	30.04	0.00071	18
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.52	0.00072	18
+GO:0007000	nucleolus organization	6	4	0.52	0.00072	18
+GO:0031442	positive regulation of mRNA 3'-end processing	6	4	0.52	0.00072	18
+GO:0051256	mitotic spindle midzone assembly	6	4	0.52	0.00072	18
 GO:2000027	regulation of organ morphogenesis	164	27	14.16	0.00078	18
 GO:0045088	regulation of innate immune response	224	34	19.33	0.00080	18
 GO:0009893	positive regulation of metabolic process	1991	208	171.86	0.00081	18
@@ -8198,6 +8478,7 @@ GO:0071702	organic substance transport	1631	189	135.67	2.5e-07	19
 GO:1903902	positive regulation of viral life cycle	73	21	6.07	2.7e-07	19
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	16	3.74	2.9e-07	19
 GO:0030177	positive regulation of Wnt signaling pathway	112	27	9.32	3.1e-07	19
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.5	3.3e-07	19
 GO:0007004	telomere maintenance via telomerase	51	17	4.24	3.6e-07	19
 GO:0006271	DNA strand elongation involved in DNA replication	22	11	1.83	3.7e-07	19
 GO:0031329	regulation of cellular catabolic process	264	47	21.96	3.9e-07	19
@@ -8228,6 +8509,7 @@ GO:0030178	negative regulation of Wnt signaling pathway	144	30	11.98	1.9e-06	19
 GO:0043248	proteasome assembly	13	8	1.08	2.0e-06	19
 GO:0051297	centrosome organization	88	22	7.32	2.0e-06	19
 GO:0010501	RNA secondary structure unwinding	40	14	3.33	2.0e-06	19
+GO:0031126	snoRNA 3'-end processing	7	6	0.58	2.1e-06	19
 GO:0006367	transcription initiation from RNA polymerase II promoter	152	31	12.64	2.1e-06	19
 GO:0031047	gene silencing by RNA	130	28	10.81	2.1e-06	19
 GO:0008334	histone mRNA metabolic process	21	10	1.75	2.3e-06	19
@@ -8261,6 +8543,10 @@ GO:0042180	cellular ketone metabolic process	146	29	12.14	7.8e-06	19
 GO:0006379	mRNA cleavage	19	9	1.58	7.8e-06	19
 GO:0060249	anatomical structure homeostasis	242	41	20.13	7.8e-06	19
 GO:0046782	regulation of viral transcription	56	16	4.66	7.9e-06	19
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	6	0.67	7.9e-06	19
+GO:0034475	U4 snRNA 3'-end processing	8	6	0.67	7.9e-06	19
+GO:1904869	regulation of protein localization to Cajal body	8	6	0.67	7.9e-06	19
+GO:1904871	positive regulation of protein localization to Cajal body	8	6	0.67	7.9e-06	19
 GO:0071025	RNA surveillance	15	8	1.25	8.4e-06	19
 GO:0022616	DNA strand elongation	29	11	2.41	1.1e-05	19
 GO:2000027	regulation of organ morphogenesis	164	31	13.64	1.1e-05	19
@@ -8278,6 +8564,13 @@ GO:0071356	cellular response to tumor necrosis factor	168	31	13.97	1.8e-05	19
 GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	17	5.49	1.9e-05	19
 GO:0034612	response to tumor necrosis factor	177	32	14.72	2.1e-05	19
 GO:0006448	regulation of translational elongation	21	9	1.75	2.1e-05	19
+GO:0034472	snRNA 3'-end processing	9	6	0.75	2.2e-05	19
+GO:0043144	snoRNA processing	9	6	0.75	2.2e-05	19
+GO:1903405	protein localization to nuclear body	9	6	0.75	2.2e-05	19
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	6	0.75	2.2e-05	19
+GO:1904867	protein localization to Cajal body	9	6	0.75	2.2e-05	19
+GO:1990173	protein localization to nucleoplasm	9	6	0.75	2.2e-05	19
+GO:0007000	nucleolus organization	6	5	0.5	2.2e-05	19
 GO:0043928	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	26	10	2.16	2.3e-05	19
 GO:0016925	protein sumoylation	109	23	9.07	2.4e-05	19
 GO:0019941	modification-dependent protein catabolic process	414	59	34.44	2.5e-05	19
@@ -8341,6 +8634,8 @@ GO:0031570	DNA integrity checkpoint	132	24	10.98	0.00020	19
 GO:0034504	protein localization to nucleus	251	38	20.88	0.00020	19
 GO:0051248	negative regulation of protein metabolic process	672	82	55.9	0.00021	19
 GO:0007094	mitotic spindle assembly checkpoint	27	9	2.25	0.00022	19
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	5	4	0.42	0.00022	19
+GO:0075525	viral translational termination-reinitiation	5	4	0.42	0.00022	19
 GO:0070199	establishment of protein localization to chromosome	22	8	1.83	0.00025	19
 GO:0001824	blastocyst development	52	13	4.33	0.00025	19
 GO:0030163	protein catabolic process	547	69	45.5	0.00026	19
@@ -8379,6 +8674,7 @@ GO:0009408	response to heat	109	20	9.07	0.00058	19
 GO:0033043	regulation of organelle organization	684	81	56.9	0.00059	19
 GO:0032206	positive regulation of telomere maintenance	43	11	3.58	0.00059	19
 GO:0051310	metaphase plate congression	43	11	3.58	0.00059	19
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.5	0.00062	19
 GO:0006409	tRNA export from nucleus	31	9	2.58	0.00069	19
 GO:0071431	tRNA-containing ribonucleoprotein complex export from nucleus	31	9	2.58	0.00069	19
 GO:0019081	viral translation	10	5	0.83	0.00069	19
@@ -8657,6 +8953,7 @@ GO:0002181	cytoplasmic translation	47	16	3.38	7.8e-08	20
 GO:0051348	negative regulation of transferase activity	244	42	17.55	8.2e-08	20
 GO:0010498	proteasomal protein catabolic process	300	48	21.58	1.0e-07	20
 GO:0006310	DNA recombination	194	36	13.95	1.0e-07	20
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.43	1.4e-07	20
 GO:0000731	DNA synthesis involved in DNA repair	61	18	4.39	1.5e-07	20
 GO:0090090	negative regulation of canonical Wnt signaling pathway	124	27	8.92	1.5e-07	20
 GO:0044843	cell cycle G1/S phase transition	197	36	14.17	1.5e-07	20
@@ -8718,6 +9015,7 @@ GO:0016925	protein sumoylation	109	22	7.84	7.8e-06	20
 GO:0007052	mitotic spindle organization	44	13	3.16	7.9e-06	20
 GO:0090307	mitotic spindle assembly	44	13	3.16	7.9e-06	20
 GO:0034612	response to tumor necrosis factor	177	30	12.73	8.2e-06	20
+GO:0006268	DNA unwinding involved in DNA replication	9	6	0.65	9.4e-06	20
 GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	13	3.24	1.0e-05	20
 GO:0044786	cell cycle DNA replication	33	11	2.37	1.1e-05	20
 GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus	13	7	0.94	1.1e-05	20
@@ -8739,6 +9037,7 @@ GO:0000075	cell cycle checkpoint	187	30	13.45	2.5e-05	20
 GO:0030162	regulation of proteolysis	427	54	30.71	2.8e-05	20
 GO:0033044	regulation of chromosome organization	127	23	9.14	3.1e-05	20
 GO:0031023	microtubule organizing center organization	94	19	6.76	3.2e-05	20
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.5	3.5e-05	20
 GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	57	14	4.1	3.7e-05	20
 GO:0000076	DNA replication checkpoint	15	7	1.08	3.7e-05	20
 GO:0045786	negative regulation of cell cycle	348	46	25.03	3.8e-05	20
@@ -8773,6 +9072,8 @@ GO:0032392	DNA geometric change	70	15	5.04	0.00011	20
 GO:0065004	protein-DNA complex assembly	183	28	13.16	0.00011	20
 GO:0007088	regulation of mitotic nuclear division	120	21	8.63	0.00011	20
 GO:0007093	mitotic cell cycle checkpoint	129	22	9.28	0.00012	20
+GO:0010032	meiotic chromosome condensation	5	4	0.36	0.00013	20
+GO:0075525	viral translational termination-reinitiation	5	4	0.36	0.00013	20
 GO:0030111	regulation of Wnt signaling pathway	223	32	16.04	0.00013	20
 GO:0045815	positive regulation of gene expression, epigenetic	71	15	5.11	0.00013	20
 GO:0000469	cleavage involved in rRNA processing	23	8	1.65	0.00013	20
@@ -8790,6 +9091,7 @@ GO:0051783	regulation of nuclear division	132	22	9.49	0.00017	20
 GO:0071824	protein-DNA complex subunit organization	207	30	14.89	0.00017	20
 GO:0051171	regulation of nitrogen compound metabolic process	2876	249	206.87	0.00018	20
 GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	24	8	1.73	0.00018	20
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.65	0.00019	20
 GO:0046794	transport of virus	58	13	4.17	0.00019	20
 GO:0044344	cellular response to fibroblast growth factor stimulus	90	17	6.47	0.00020	20
 GO:0043902	positive regulation of multi-organism process	107	19	7.7	0.00020	20
@@ -8812,6 +9114,10 @@ GO:0015991	ATP hydrolysis coupled proton transport	20	7	1.44	0.00033	20
 GO:0050685	positive regulation of mRNA processing	20	7	1.44	0.00033	20
 GO:0016458	gene silencing	196	28	14.1	0.00035	20
 GO:0019081	viral translation	10	5	0.72	0.00035	20
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.43	0.00035	20
+GO:0007000	nucleolus organization	6	4	0.43	0.00035	20
+GO:0007021	tubulin complex assembly	6	4	0.43	0.00035	20
+GO:0009186	deoxyribonucleoside diphosphate metabolic process	6	4	0.43	0.00035	20
 GO:1903046	meiotic cell cycle process	121	20	8.7	0.00037	20
 GO:0006450	regulation of translational fidelity	15	6	1.08	0.00039	20
 GO:0043968	histone H2A acetylation	15	6	1.08	0.00039	20
@@ -8834,6 +9140,8 @@ GO:0006826	iron ion transport	43	10	3.09	0.00075	20
 GO:0030071	regulation of mitotic metaphase/anaphase transition	43	10	3.09	0.00075	20
 GO:1902099	regulation of metaphase/anaphase transition of cell cycle	43	10	3.09	0.00075	20
 GO:0022616	DNA strand elongation	29	8	2.09	0.00076	20
+GO:0000022	mitotic spindle elongation	7	4	0.5	0.00078	20
+GO:0075522	IRES-dependent viral translational initiation	7	4	0.5	0.00078	20
 GO:0000028	ribosomal small subunit assembly	17	6	1.22	0.00084	20
 GO:0000154	rRNA modification	23	7	1.65	0.00085	20
 GO:0051248	negative regulation of protein metabolic process	672	70	48.34	0.00088	20
@@ -9146,6 +9454,7 @@ GO:0045930	negative regulation of mitotic cell cycle	172	37	15.59	4.6e-07	21
 GO:0008334	histone mRNA metabolic process	21	11	1.9	4.8e-07	21
 GO:0050851	antigen receptor-mediated signaling pathway	132	31	11.96	5.3e-07	21
 GO:0051783	regulation of nuclear division	132	31	11.96	5.3e-07	21
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.54	5.5e-07	21
 GO:0051297	centrosome organization	88	24	7.98	5.8e-07	21
 GO:0043632	modification-dependent macromolecule catabolic process	421	69	38.16	6.6e-07	21
 GO:0007052	mitotic spindle organization	44	16	3.99	6.6e-07	21
@@ -9161,6 +9470,7 @@ GO:0000076	DNA replication checkpoint	15	9	1.36	1.2e-06	21
 GO:0032200	telomere organization	130	30	11.78	1.2e-06	21
 GO:0051306	mitotic sister chromatid separation	46	16	4.17	1.3e-06	21
 GO:0032508	DNA duplex unwinding	68	20	6.16	1.4e-06	21
+GO:0043144	snoRNA processing	9	7	0.82	1.5e-06	21
 GO:0006297	nucleotide-excision repair, DNA gap filling	23	11	2.08	1.6e-06	21
 GO:0016074	snoRNA metabolic process	12	8	1.09	1.6e-06	21
 GO:0006378	mRNA polyadenylation	32	13	2.9	1.7e-06	21
@@ -9181,6 +9491,7 @@ GO:0033045	regulation of sister chromatid segregation	60	18	5.44	3.4e-06	21
 GO:0032481	positive regulation of type I interferon production	49	16	4.44	3.4e-06	21
 GO:0015682	ferric iron transport	29	12	2.63	3.5e-06	21
 GO:0072512	trivalent inorganic cation transport	29	12	2.63	3.5e-06	21
+GO:0031126	snoRNA 3'-end processing	7	6	0.63	3.5e-06	21
 GO:0031047	gene silencing by RNA	130	29	11.78	3.8e-06	21
 GO:0030397	membrane disassembly	44	15	3.99	3.8e-06	21
 GO:0051081	nuclear envelope disassembly	44	15	3.99	3.8e-06	21
@@ -9229,6 +9540,7 @@ GO:0006891	intra-Golgi vesicle-mediated transport	34	12	3.08	2.4e-05	21
 GO:1902850	microtubule cytoskeleton organization involved in mitosis	45	14	4.08	2.6e-05	21
 GO:0034504	protein localization to nucleus	251	43	22.75	3.0e-05	21
 GO:0010501	RNA secondary structure unwinding	40	13	3.63	3.0e-05	21
+GO:0007021	tubulin complex assembly	6	5	0.54	3.4e-05	21
 GO:0034248	regulation of cellular amide metabolic process	287	47	26.01	4.2e-05	21
 GO:0006448	regulation of translational elongation	21	9	1.9	4.3e-05	21
 GO:0034605	cellular response to heat	84	20	7.61	4.4e-05	21
@@ -9286,11 +9598,19 @@ GO:0006626	protein targeting to mitochondrion	122	24	11.06	0.00021	21
 GO:1901998	toxin transport	25	9	2.27	0.00021	21
 GO:0006888	ER to Golgi vesicle-mediated transport	130	25	11.78	0.00023	21
 GO:1901992	positive regulation of mitotic cell cycle phase transition	42	12	3.81	0.00024	21
+GO:0010388	cullin deneddylation	8	5	0.73	0.00027	21
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	5	0.73	0.00027	21
+GO:0034475	U4 snRNA 3'-end processing	8	5	0.73	0.00027	21
+GO:0051231	spindle elongation	8	5	0.73	0.00027	21
 GO:0006810	transport	2659	285	241.02	0.00030	21
 GO:0090329	regulation of DNA-dependent DNA replication	37	11	3.35	0.00030	21
 GO:0090662	ATP hydrolysis coupled transmembrane transport	21	8	1.9	0.00031	21
 GO:0006826	iron ion transport	43	12	3.9	0.00031	21
 GO:0051310	metaphase plate congression	43	12	3.9	0.00031	21
+GO:0000056	ribosomal small subunit export from nucleus	5	4	0.45	0.00031	21
+GO:0000212	meiotic spindle organization	5	4	0.45	0.00031	21
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	5	4	0.45	0.00031	21
+GO:0075525	viral translational termination-reinitiation	5	4	0.45	0.00031	21
 GO:0002429	immune response-activating cell surface receptor signaling pathway	195	33	17.68	0.00031	21
 GO:0006388	tRNA splicing, via endonucleolytic cleavage and ligation	12	6	1.09	0.00031	21
 GO:0006999	nuclear pore organization	12	6	1.09	0.00031	21
@@ -9312,6 +9632,9 @@ GO:0043248	proteasome assembly	13	6	1.18	0.00054	21
 GO:0071027	nuclear RNA surveillance	13	6	1.18	0.00054	21
 GO:0071028	nuclear mRNA surveillance	13	6	1.18	0.00054	21
 GO:0007098	centrosome cycle	65	15	5.89	0.00056	21
+GO:0000338	protein deneddylation	9	5	0.82	0.00056	21
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.82	0.00056	21
+GO:0034472	snRNA 3'-end processing	9	5	0.82	0.00056	21
 GO:0071173	spindle assembly checkpoint	28	9	2.54	0.00056	21
 GO:0044774	mitotic DNA integrity checkpoint	86	18	7.8	0.00058	21
 GO:0034080	CENP-A containing nucleosome assembly	34	10	3.08	0.00062	21
@@ -9331,6 +9654,10 @@ GO:0000394	RNA splicing, via endonucleolytic cleavage and ligation	14	6	1.27	0.0
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	6	1.27	0.00087	21
 GO:0016075	rRNA catabolic process	14	6	1.27	0.00087	21
 GO:0071459	protein localization to chromosome, centromeric region	14	6	1.27	0.00087	21
+GO:0000055	ribosomal large subunit export from nucleus	6	4	0.54	0.00087	21
+GO:0006384	transcription initiation from RNA polymerase III promoter	6	4	0.54	0.00087	21
+GO:0007000	nucleolus organization	6	4	0.54	0.00087	21
+GO:0009186	deoxyribonucleoside diphosphate metabolic process	6	4	0.54	0.00087	21
 GO:0006734	NADH metabolic process	24	8	2.18	0.00087	21
 GO:0045005	DNA-dependent DNA replication maintenance of fidelity	24	8	2.18	0.00087	21
 GO:1902749	regulation of cell cycle G2/M phase transition	48	12	4.35	0.00092	21
@@ -9581,12 +9908,14 @@ GO:0019882	antigen processing and presentation	148	34	11.72	9.6e-09	22
 GO:0018130	heterocycle biosynthetic process	2912	300	230.57	1.0e-08	22
 GO:0006406	mRNA export from nucleus	101	27	8	1.1e-08	22
 GO:0071427	mRNA-containing ribonucleoprotein complex export from nucleus	101	27	8	1.1e-08	22
+GO:0043144	snoRNA processing	9	8	0.71	1.2e-08	22
 GO:0006310	DNA recombination	194	40	15.36	1.3e-08	22
 GO:0006415	translational termination	102	27	8.08	1.3e-08	22
 GO:0000722	telomere maintenance via recombination	30	14	2.38	1.5e-08	22
 GO:0016180	snRNA processing	22	12	1.74	1.7e-08	22
 GO:0006360	transcription from RNA polymerase I promoter	55	19	4.35	1.7e-08	22
 GO:0042769	DNA damage response, detection of DNA damage	35	15	2.77	1.9e-08	22
+GO:0031126	snoRNA 3'-end processing	7	7	0.55	1.9e-08	22
 GO:0009987	cellular process	8548	711	676.81	2.0e-08	22
 GO:0016074	snoRNA metabolic process	12	9	0.95	2.1e-08	22
 GO:0019438	aromatic compound biosynthetic process	2918	299	231.04	2.1e-08	22
@@ -9652,6 +9981,7 @@ GO:0070925	organelle assembly	414	60	32.78	2.6e-06	22
 GO:0034248	regulation of cellular amide metabolic process	287	46	22.72	2.7e-06	22
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	8	1.11	2.9e-06	22
 GO:0006301	postreplication repair	43	14	3.4	3.0e-06	22
+GO:0071051	polyadenylation-dependent snoRNA 3'-end processing	5	5	0.4	3.1e-06	22
 GO:0032481	positive regulation of type I interferon production	49	15	3.88	3.2e-06	22
 GO:0044839	cell cycle G2/M phase transition	155	30	12.27	3.5e-06	22
 GO:0032508	DNA duplex unwinding	68	18	5.38	3.5e-06	22
@@ -9666,6 +9996,8 @@ GO:0032392	DNA geometric change	70	18	5.54	5.5e-06	22
 GO:0071025	RNA surveillance	15	8	1.19	5.8e-06	22
 GO:1904872	regulation of telomerase RNA localization to Cajal body	15	8	1.19	5.8e-06	22
 GO:1904874	positive regulation of telomerase RNA localization to Cajal body	15	8	1.19	5.8e-06	22
+GO:0034427	nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	8	6	0.63	5.9e-06	22
+GO:0034475	U4 snRNA 3'-end processing	8	6	0.63	5.9e-06	22
 GO:0022616	DNA strand elongation	29	11	2.3	6.5e-06	22
 GO:0071356	cellular response to tumor necrosis factor	168	31	13.3	6.8e-06	22
 GO:0010501	RNA secondary structure unwinding	40	13	3.17	7.0e-06	22
@@ -9679,6 +10011,8 @@ GO:0090672	telomerase RNA localization	16	8	1.27	1.1e-05	22
 GO:0016925	protein sumoylation	109	23	8.63	1.1e-05	22
 GO:0001731	formation of translation preinitiation complex	21	9	1.66	1.4e-05	22
 GO:0008334	histone mRNA metabolic process	21	9	1.66	1.4e-05	22
+GO:0034472	snRNA 3'-end processing	9	6	0.71	1.6e-05	22
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.48	1.7e-05	22
 GO:0000028	ribosomal small subunit assembly	17	8	1.35	1.9e-05	22
 GO:1903900	regulation of viral life cycle	122	24	9.66	2.5e-05	22
 GO:0006888	ER to Golgi vesicle-mediated transport	130	25	10.29	2.5e-05	22
@@ -9698,6 +10032,7 @@ GO:0000083	regulation of transcription involved in G1/S transition of mitotic ce
 GO:0070897	DNA-templated transcriptional preinitiation complex assembly	24	9	1.9	5.1e-05	22
 GO:0030178	negative regulation of Wnt signaling pathway	144	26	11.4	5.4e-05	22
 GO:0030162	regulation of proteolysis	427	57	33.81	5.5e-05	22
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.55	5.6e-05	22
 GO:0000731	DNA synthesis involved in DNA repair	61	15	4.83	5.9e-05	22
 GO:0030261	chromosome condensation	30	10	2.38	6.3e-05	22
 GO:0006450	regulation of translational fidelity	15	7	1.19	6.9e-05	22
@@ -9716,6 +10051,8 @@ GO:0002218	activation of innate immune response	167	28	13.22	0.00011	22
 GO:0006511	ubiquitin-dependent protein catabolic process	409	54	32.38	0.00012	22
 GO:0006448	regulation of translational elongation	21	8	1.66	0.00012	22
 GO:0033044	regulation of chromosome organization	127	23	10.06	0.00014	22
+GO:0010388	cullin deneddylation	8	5	0.63	0.00014	22
+GO:0051231	spindle elongation	8	5	0.63	0.00014	22
 GO:0000075	cell cycle checkpoint	187	30	14.81	0.00015	22
 GO:0006294	nucleotide-excision repair, preincision complex assembly	27	9	2.14	0.00015	22
 GO:0001824	blastocyst development	52	13	4.12	0.00015	22
@@ -9723,6 +10060,10 @@ GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	66	15	5.23	0.00015
 GO:0022411	cellular component disassembly	385	51	30.48	0.00017	22
 GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly	22	8	1.74	0.00017	22
 GO:0001832	blastocyst growth	17	7	1.35	0.00018	22
+GO:0000056	ribosomal small subunit export from nucleus	5	4	0.4	0.00018	22
+GO:0000212	meiotic spindle organization	5	4	0.4	0.00018	22
+GO:0010032	meiotic chromosome condensation	5	4	0.4	0.00018	22
+GO:0075525	viral translational termination-reinitiation	5	4	0.4	0.00018	22
 GO:0051248	negative regulation of protein metabolic process	672	79	53.21	0.00019	22
 GO:0048024	regulation of mRNA splicing, via spliceosome	53	13	4.2	0.00019	22
 GO:0044766	multi-organism transport	60	14	4.75	0.00019	22
@@ -9737,6 +10078,8 @@ GO:0044257	cellular protein catabolic process	473	59	37.45	0.00027	22
 GO:0051603	proteolysis involved in cellular protein catabolic process	453	57	35.87	0.00028	22
 GO:0075733	intracellular transport of virus	55	13	4.35	0.00028	22
 GO:0016567	protein ubiquitination	535	65	42.36	0.00028	22
+GO:0000338	protein deneddylation	9	5	0.71	0.00030	22
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.71	0.00030	22
 GO:0000226	microtubule cytoskeleton organization	278	39	22.01	0.00030	22
 GO:0030163	protein catabolic process	547	66	43.31	0.00031	22
 GO:1902581	multi-organism cellular localization	56	13	4.43	0.00033	22
@@ -9747,6 +10090,9 @@ GO:0008033	tRNA processing	96	18	7.6	0.00046	22
 GO:0046794	transport of virus	58	13	4.59	0.00048	22
 GO:0000724	double-strand break repair via homologous recombination	73	15	5.78	0.00049	22
 GO:2000278	regulation of DNA biosynthetic process	73	15	5.78	0.00049	22
+GO:0000389	mRNA 3'-splice site recognition	6	4	0.48	0.00051	22
+GO:0006384	transcription initiation from RNA polymerase III promoter	6	4	0.48	0.00051	22
+GO:0007000	nucleolus organization	6	4	0.48	0.00051	22
 GO:1901796	regulation of signal transduction by p53 class mediator	139	23	11.01	0.00054	22
 GO:0006626	protein targeting to mitochondrion	122	21	9.66	0.00054	22
 GO:0033554	cellular response to stress	1223	127	96.83	0.00055	22
@@ -10074,6 +10420,8 @@ GO:0051052	regulation of DNA metabolic process	265	49	23.22	3.2e-07	23
 GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	281	51	24.62	3.4e-07	23
 GO:0006361	transcription initiation from RNA polymerase I promoter	34	14	2.98	3.7e-07	23
 GO:0006399	tRNA metabolic process	155	34	13.58	3.8e-07	23
+GO:0000389	mRNA 3'-splice site recognition	6	6	0.53	4.4e-07	23
+GO:0007021	tubulin complex assembly	6	6	0.53	4.4e-07	23
 GO:0019941	modification-dependent protein catabolic process	414	67	36.27	4.5e-07	23
 GO:0000722	telomere maintenance via recombination	30	13	2.63	4.8e-07	23
 GO:1904356	regulation of telomere maintenance via telomere lengthening	45	16	3.94	5.9e-07	23
@@ -10128,6 +10476,10 @@ GO:0042180	cellular ketone metabolic process	146	30	12.79	7.5e-06	23
 GO:0032479	regulation of type I interferon production	78	20	6.83	8.3e-06	23
 GO:0032606	type I interferon production	78	20	6.83	8.3e-06	23
 GO:1904816	positive regulation of protein localization to chromosome, telomeric region	11	7	0.96	9.3e-06	23
+GO:0010388	cullin deneddylation	8	6	0.7	1.1e-05	23
+GO:0051231	spindle elongation	8	6	0.7	1.1e-05	23
+GO:1904869	regulation of protein localization to Cajal body	8	6	0.7	1.1e-05	23
+GO:1904871	positive regulation of protein localization to Cajal body	8	6	0.7	1.1e-05	23
 GO:0044786	cell cycle DNA replication	33	12	2.89	1.2e-05	23
 GO:0018205	peptidyl-lysine modification	316	51	27.69	1.2e-05	23
 GO:0051248	negative regulation of protein metabolic process	672	91	58.88	1.2e-05	23
@@ -10146,7 +10498,14 @@ GO:1901796	regulation of signal transduction by p53 class mediator	139	28	12.18	
 GO:0045292	mRNA cis splicing, via spliceosome	16	8	1.4	2.3e-05	23
 GO:0032204	regulation of telomere maintenance	64	17	5.61	2.4e-05	23
 GO:0060249	anatomical structure homeostasis	242	41	21.2	2.7e-05	23
+GO:0007000	nucleolus organization	6	5	0.53	2.8e-05	23
 GO:0034504	protein localization to nucleus	251	42	21.99	2.9e-05	23
+GO:0000338	protein deneddylation	9	6	0.79	3.0e-05	23
+GO:0043144	snoRNA processing	9	6	0.79	3.0e-05	23
+GO:1903405	protein localization to nuclear body	9	6	0.79	3.0e-05	23
+GO:1904851	positive regulation of establishment of protein localization to telomere	9	6	0.79	3.0e-05	23
+GO:1904867	protein localization to Cajal body	9	6	0.79	3.0e-05	23
+GO:1990173	protein localization to nucleoplasm	9	6	0.79	3.0e-05	23
 GO:0002429	immune response-activating cell surface receptor signaling pathway	195	35	17.08	3.0e-05	23
 GO:0006409	tRNA export from nucleus	31	11	2.72	3.6e-05	23
 GO:0071431	tRNA-containing ribonucleoprotein complex export from nucleus	31	11	2.72	3.6e-05	23
@@ -10172,6 +10531,9 @@ GO:0000469	cleavage involved in rRNA processing	23	9	2.02	7.7e-05	23
 GO:0033683	nucleotide-excision repair, DNA incision	39	12	3.42	8.0e-05	23
 GO:0034605	cellular response to heat	84	19	7.36	9.1e-05	23
 GO:0070507	regulation of microtubule cytoskeleton organization	91	20	7.97	9.2e-05	23
+GO:0000022	mitotic spindle elongation	7	5	0.61	9.2e-05	23
+GO:0031126	snoRNA 3'-end processing	7	5	0.61	9.2e-05	23
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.61	9.2e-05	23
 GO:0001824	blastocyst development	52	14	4.56	0.00011	23
 GO:0015682	ferric iron transport	29	10	2.54	0.00011	23
 GO:0022616	DNA strand elongation	29	10	2.54	0.00011	23
@@ -10204,6 +10566,7 @@ GO:0006376	mRNA splice site selection	21	8	1.84	0.00024	23
 GO:0090662	ATP hydrolysis coupled transmembrane transport	21	8	1.84	0.00024	23
 GO:0032886	regulation of microtubule-based process	105	21	9.2	0.00025	23
 GO:0032211	negative regulation of telomere maintenance via telomerase	12	6	1.05	0.00026	23
+GO:0075525	viral translational termination-reinitiation	5	4	0.44	0.00027	23
 GO:0006457	protein folding	152	27	13.32	0.00029	23
 GO:1901988	negative regulation of cell cycle phase transition	137	25	12	0.00031	23
 GO:0006294	nucleotide-excision repair, preincision complex assembly	27	9	2.37	0.00032	23
@@ -10221,6 +10584,8 @@ GO:0043248	proteasome assembly	13	6	1.14	0.00044	23
 GO:0060070	canonical Wnt signaling pathway	214	34	18.75	0.00045	23
 GO:1900034	regulation of cellular response to heat	66	15	5.78	0.00046	23
 GO:0030111	regulation of Wnt signaling pathway	223	35	19.54	0.00047	23
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.79	0.00048	23
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.79	0.00048	23
 GO:0006606	protein import into nucleus	183	30	16.03	0.00056	23
 GO:0044744	protein targeting to nucleus	183	30	16.03	0.00056	23
 GO:1902593	single-organism nuclear import	183	30	16.03	0.00056	23
@@ -10233,6 +10598,7 @@ GO:0051054	positive regulation of DNA metabolic process	136	24	11.92	0.00067	23
 GO:0006275	regulation of DNA replication	90	18	7.89	0.00069	23
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	6	1.23	0.00072	23
 GO:1903046	meiotic cell cycle process	121	22	10.6	0.00073	23
+GO:0051256	mitotic spindle midzone assembly	6	4	0.53	0.00076	23
 GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	7	1.66	0.00076	23
 GO:0044818	mitotic G2/M transition checkpoint	19	7	1.66	0.00076	23
 GO:0051246	regulation of protein metabolic process	1568	171	137.38	0.00076	23
@@ -10569,6 +10935,7 @@ GO:0001833	inner cell mass cell proliferation	11	7	0.96	9.4e-06	24
 GO:0044766	multi-organism transport	60	17	5.26	9.5e-06	24
 GO:1902579	multi-organism localization	60	17	5.26	9.5e-06	24
 GO:0006297	nucleotide-excision repair, DNA gap filling	23	10	2.02	1.0e-05	24
+GO:0010388	cullin deneddylation	8	6	0.7	1.1e-05	24
 GO:2000027	regulation of organ morphogenesis	164	32	14.39	1.2e-05	24
 GO:0075733	intracellular transport of virus	55	16	4.82	1.2e-05	24
 GO:0044786	cell cycle DNA replication	33	12	2.89	1.2e-05	24
@@ -10596,7 +10963,11 @@ GO:0034612	response to tumor necrosis factor	177	33	15.53	2.4e-05	24
 GO:0031570	DNA integrity checkpoint	132	27	11.58	2.4e-05	24
 GO:0001824	blastocyst development	52	15	4.56	2.5e-05	24
 GO:0046794	transport of virus	58	16	5.09	2.5e-05	24
+GO:0000055	ribosomal large subunit export from nucleus	6	5	0.53	2.9e-05	24
+GO:0000389	mRNA 3'-splice site recognition	6	5	0.53	2.9e-05	24
 GO:0030163	protein catabolic process	547	76	47.98	2.9e-05	24
+GO:0000338	protein deneddylation	9	6	0.79	3.0e-05	24
+GO:0043144	snoRNA processing	9	6	0.79	3.0e-05	24
 GO:0006409	tRNA export from nucleus	31	11	2.72	3.6e-05	24
 GO:0071431	tRNA-containing ribonucleoprotein complex export from nucleus	31	11	2.72	3.6e-05	24
 GO:0033045	regulation of sister chromatid segregation	60	16	5.26	4.0e-05	24
@@ -10624,6 +10995,9 @@ GO:0007091	metaphase/anaphase transition of mitotic cell cycle	45	13	3.95	8.5e-0
 GO:0010965	regulation of mitotic sister chromatid separation	45	13	3.95	8.5e-05	24
 GO:0044784	metaphase/anaphase transition of cell cycle	45	13	3.95	8.5e-05	24
 GO:0045786	negative regulation of cell cycle	348	52	30.53	8.6e-05	24
+GO:0031126	snoRNA 3'-end processing	7	5	0.61	9.3e-05	24
+GO:0075522	IRES-dependent viral translational initiation	7	5	0.61	9.3e-05	24
+GO:0098789	pre-mRNA cleavage required for polyadenylation	7	5	0.61	9.3e-05	24
 GO:0045815	positive regulation of gene expression, epigenetic	71	17	6.23	0.00010	24
 GO:0006379	mRNA cleavage	19	8	1.67	0.00011	24
 GO:0015682	ferric iron transport	29	10	2.54	0.00011	24
@@ -10664,6 +11038,9 @@ GO:0032984	macromolecular complex disassembly	207	34	18.16	0.00024	24
 GO:0072331	signal transduction by p53 class mediator	207	34	18.16	0.00024	24
 GO:0043967	histone H4 acetylation	56	14	4.91	0.00025	24
 GO:0016074	snoRNA metabolic process	12	6	1.05	0.00026	24
+GO:0070127	tRNA aminoacylation for mitochondrial protein translation	5	4	0.44	0.00027	24
+GO:0075525	viral translational termination-reinitiation	5	4	0.44	0.00027	24
+GO:0090646	mitochondrial tRNA processing	5	4	0.44	0.00027	24
 GO:0042775	mitochondrial ATP synthesis coupled electron transport	70	16	6.14	0.00029	24
 GO:0034605	cellular response to heat	84	18	7.37	0.00029	24
 GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	57	14	5	0.00031	24
@@ -10678,6 +11055,8 @@ GO:0000380	alternative mRNA splicing, via spliceosome	39	11	3.42	0.00037	24
 GO:0006323	DNA packaging	155	27	13.6	0.00040	24
 GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	6	1.14	0.00045	24
 GO:0071428	rRNA-containing ribonucleoprotein complex export from nucleus	13	6	1.14	0.00045	24
+GO:0006268	DNA unwinding involved in DNA replication	9	5	0.79	0.00048	24
+GO:0098787	mRNA cleavage involved in mRNA processing	9	5	0.79	0.00048	24
 GO:0000469	cleavage involved in rRNA processing	23	8	2.02	0.00050	24
 GO:0033120	positive regulation of RNA splicing	23	8	2.02	0.00050	24
 GO:0032269	negative regulation of cellular protein metabolic process	636	80	55.79	0.00051	24
@@ -10690,6 +11069,9 @@ GO:0000083	regulation of transcription involved in G1/S transition of mitotic ce
 GO:0045005	DNA-dependent DNA replication maintenance of fidelity	24	8	2.11	0.00070	24
 GO:0006275	regulation of DNA replication	90	18	7.9	0.00070	24
 GO:0000478	endonucleolytic cleavage involved in rRNA processing	14	6	1.23	0.00073	24
+GO:0006384	transcription initiation from RNA polymerase III promoter	6	4	0.53	0.00076	24
+GO:0007000	nucleolus organization	6	4	0.53	0.00076	24
+GO:0007021	tubulin complex assembly	6	4	0.53	0.00076	24
 GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	7	1.67	0.00077	24
 GO:0044818	mitotic G2/M transition checkpoint	19	7	1.67	0.00077	24
 GO:0006626	protein targeting to mitochondrion	122	22	10.7	0.00084	24

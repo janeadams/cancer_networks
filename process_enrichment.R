@@ -14,7 +14,7 @@ all_enrichments <- lapply(1:nrow(gene_sets), function(n){
                 description = "GO analysis of genes in community",
                 ontology = "BP",
                 allGenes = geneList,
-                nodeSize = 50,
+                nodeSize = 5,
                 annot = annFUN.org,
                 ID = "alias", 
                 mapping = "org.Hs.eg")
@@ -33,9 +33,9 @@ bps_in_all_comm <- all_enrichments %>%
 bps_not_in_all_comm <- all_enrichments %>% 
   group_by(GO.ID, Term) %>% tally() %>% filter(n != 24)
 
-write.table(all_enrichments, file = "data/all_enrichment_scores_bp_above_50_genes.tsv",
+write.table(all_enrichments, file = "data/all_enrichment_scores_bp_above_5_genes.tsv",
             quote = F, row.names = F, sep = "\t")
-write.table(bps_in_all_comm, file = "data/bps_in_all_comm_bp_above_50_genes.tsv",
+write.table(bps_in_all_comm, file = "data/bps_in_all_comm_bp_above_5_genes.tsv",
             quote = F, row.names = F, sep = "\t")
-write.table(bps_not_in_all_comm, file = "data/bps_not_in_all_comm_bp_above_50_genes.tsv",
+write.table(bps_not_in_all_comm, file = "data/bps_not_in_all_comm_bp_above_5_genes.tsv",
             quote = F, row.names = F, sep = "\t")

@@ -13,6 +13,7 @@ GO:0000280	nuclear division	24
 GO:0000375	RNA splicing, via transesterification reactions	24
 GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	24
 GO:0000387	spliceosomal snRNP assembly	24
+GO:0000389	mRNA 3'-splice site recognition	24
 GO:0000398	mRNA splicing, via spliceosome	24
 GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	24
 GO:0000470	maturation of LSU-rRNA	24
