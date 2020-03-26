@@ -4,48 +4,48 @@ Lung Cancer	Pancreatic Cancer	35
 Leukemia	Leukemia	15
 Lung Cancer	Lung Cancer	12
 Neuroblastoma	Neuroblastoma	8
-Neuroblastoma	Pancreatic Cancer	7
+Pancreatic Cancer	Neuroblastoma	7
 Ovarian Cancer	Ovarian Cancer	5
 Ovarian Cancer	Brain Cancer	5
 Lung Cancer	Ovarian Cancer	4
-Lung Cancer	Colon/Colorectal Cancer	3
-Head and Neck Cancer	Head and Neck Cancer	3
-Kidney Cancer	Kidney Cancer	3
+Colon/Colorectal Cancer	Lung Cancer	3
 Colon/Colorectal Cancer	Pancreatic Cancer	3
+Kidney Cancer	Kidney Cancer	3
+Head and Neck Cancer	Head and Neck Cancer	3
 Lung Cancer	Neuroblastoma	2
-Sarcoma	Pancreatic Cancer	2
-Eye Cancer	Ovarian Cancer	2
-Rhabdoid	Esophageal Cancer	2
 Ovarian Cancer	Pancreatic Cancer	2
 Ovarian Cancer	Endometrial/Uterine Cancer	2
-Lymphoma	Lymphoma	2
-Esophageal Cancer	Esophageal Cancer	2
+Ovarian Cancer	Eye Cancer	2
 Breast Cancer	Breast Cancer	2
-Lung Cancer	Eye Cancer	1
+Pancreatic Cancer	Sarcoma	2
+Lymphoma	Lymphoma	2
+Rhabdoid	Esophageal Cancer	2
+Esophageal Cancer	Esophageal Cancer	2
+Leukemia	Lymphoma	1
+Colon/Colorectal Cancer	Breast Cancer	1
+Bladder Cancer	Pancreatic Cancer	1
+Bladder Cancer	Head and Neck Cancer	1
+Bladder Cancer	Eye Cancer	1
 Lung Cancer	Breast Cancer	1
+Lung Cancer	Eye Cancer	1
+Ovarian Cancer	Breast Cancer	1
+Ovarian Cancer	Sarcoma	1
+Ovarian Cancer	Bone Cancer	1
+Ovarian Cancer	Neuroblastoma	1
+Ovarian Cancer	Rhabdoid	1
+Ovarian Cancer	Liver Cancer	1
+Skin Cancer	Skin Cancer	1
+Skin Cancer	Pancreatic Cancer	1
+Skin Cancer	Sarcoma	1
+Skin Cancer	Lymphoma	1
+Skin Cancer	Rhabdoid	1
+Skin Cancer	Esophageal Cancer	1
+Skin Cancer	Eye Cancer	1
+Breast Cancer	Pancreatic Cancer	1
+Pancreatic Cancer	Endometrial/Uterine Cancer	1
+Pancreatic Cancer	Esophageal Cancer	1
+Brain Cancer	Neuroblastoma	1
+Brain Cancer	Eye Cancer	1
 Sarcoma	Sarcoma	1
-Sarcoma	Ovarian Cancer	1
 Sarcoma	Head and Neck Cancer	1
 Sarcoma	Esophageal Cancer	1
-Sarcoma	Skin Cancer	1
-Eye Cancer	Brain Cancer	1
-Eye Cancer	Skin Cancer	1
-Eye Cancer	Bladder Cancer	1
-Rhabdoid	Ovarian Cancer	1
-Rhabdoid	Skin Cancer	1
-Neuroblastoma	Ovarian Cancer	1
-Neuroblastoma	Brain Cancer	1
-Ovarian Cancer	Liver Cancer	1
-Ovarian Cancer	Bone Cancer	1
-Ovarian Cancer	Breast Cancer	1
-Head and Neck Cancer	Bladder Cancer	1
-Colon/Colorectal Cancer	Breast Cancer	1
-Pancreatic Cancer	Esophageal Cancer	1
-Pancreatic Cancer	Skin Cancer	1
-Pancreatic Cancer	Bladder Cancer	1
-Pancreatic Cancer	Endometrial/Uterine Cancer	1
-Pancreatic Cancer	Breast Cancer	1
-Lymphoma	Skin Cancer	1
-Lymphoma	Leukemia	1
-Esophageal Cancer	Skin Cancer	1
-Skin Cancer	Skin Cancer	1
