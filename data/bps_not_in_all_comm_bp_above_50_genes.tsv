@@ -1,0 +1,155 @@
+GO.ID	Term	n
+GO:0000077	DNA damage checkpoint	6
+GO:0000288	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	16
+GO:0000724	double-strand break repair via homologous recombination	16
+GO:0000725	recombinational repair	15
+GO:0001824	blastocyst development	21
+GO:0002429	immune response-activating cell surface receptor signaling pathway	18
+GO:0002768	immune response-regulating cell surface receptor signaling pathway	9
+GO:0006119	oxidative phosphorylation	1
+GO:0006275	regulation of DNA replication	8
+GO:0006278	RNA-dependent DNA biosynthetic process	13
+GO:0006302	double-strand break repair	1
+GO:0006323	DNA packaging	6
+GO:0006360	transcription from RNA polymerase I promoter	23
+GO:0006366	transcription from RNA polymerase II promoter	5
+GO:0006367	transcription initiation from RNA polymerase II promoter	22
+GO:0006368	transcription elongation from RNA polymerase II promoter	23
+GO:0006414	translational elongation	3
+GO:0006415	translational termination	3
+GO:0006417	regulation of translation	23
+GO:0006457	protein folding	8
+GO:0006511	ubiquitin-dependent protein catabolic process	23
+GO:0006606	protein import into nucleus	10
+GO:0006626	protein targeting to mitochondrion	9
+GO:0006810	transport	10
+GO:0006888	ER to Golgi vesicle-mediated transport	16
+GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	12
+GO:0006900	membrane budding	1
+GO:0006997	nucleus organization	23
+GO:0006998	nuclear envelope organization	18
+GO:0007004	telomere maintenance via telomerase	13
+GO:0007005	mitochondrion organization	2
+GO:0007017	microtubule-based process	12
+GO:0007088	regulation of mitotic nuclear division	23
+GO:0007093	mitotic cell cycle checkpoint	19
+GO:0007098	centrosome cycle	5
+GO:0007126	meiotic nuclear division	2
+GO:0008033	tRNA processing	16
+GO:0008543	fibroblast growth factor receptor signaling pathway	10
+GO:0009123	nucleoside monophosphate metabolic process	1
+GO:0009266	response to temperature stimulus	3
+GO:0009408	response to heat	19
+GO:0009451	RNA modification	4
+GO:0009893	positive regulation of metabolic process	1
+GO:0010468	regulation of gene expression	7
+GO:0010604	positive regulation of macromolecule metabolic process	2
+GO:0010833	telomere maintenance via telomere lengthening	13
+GO:0010948	negative regulation of cell cycle process	21
+GO:0016055	Wnt signaling pathway	1
+GO:0016458	gene silencing	7
+GO:0017038	protein import	14
+GO:0017148	negative regulation of translation	1
+GO:0018205	peptidyl-lysine modification	18
+GO:0022411	cellular component disassembly	3
+GO:0022900	electron transport chain	1
+GO:0022904	respiratory electron transport chain	2
+GO:0030111	regulation of Wnt signaling pathway	11
+GO:0030163	protein catabolic process	23
+GO:0031023	microtubule organizing center organization	23
+GO:0031325	positive regulation of cellular metabolic process	1
+GO:0031349	positive regulation of defense response	7
+GO:0031570	DNA integrity checkpoint	18
+GO:0032204	regulation of telomere maintenance	9
+GO:0032268	regulation of cellular protein metabolic process	5
+GO:0032269	negative regulation of cellular protein metabolic process	23
+GO:0032392	DNA geometric change	23
+GO:0032479	regulation of type I interferon production	22
+GO:0032543	mitochondrial translation	3
+GO:0032606	type I interferon production	22
+GO:0032886	regulation of microtubule-based process	2
+GO:0032984	macromolecular complex disassembly	2
+GO:0033043	regulation of organelle organization	2
+GO:0033045	regulation of sister chromatid segregation	23
+GO:0033047	regulation of mitotic sister chromatid segregation	16
+GO:0034248	regulation of cellular amide metabolic process	22
+GO:0034249	negative regulation of cellular amide metabolic process	1
+GO:0034502	protein localization to chromosome	22
+GO:0034504	protein localization to nucleus	23
+GO:0034605	cellular response to heat	13
+GO:0042773	ATP synthesis coupled electron transport	2
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	2
+GO:0043086	negative regulation of catalytic activity	18
+GO:0043241	protein complex disassembly	2
+GO:0043624	cellular protein complex disassembly	3
+GO:0043902	positive regulation of multi-organism process	20
+GO:0043967	histone H4 acetylation	6
+GO:0044092	negative regulation of molecular function	2
+GO:0044257	cellular protein catabolic process	21
+GO:0044344	cellular response to fibroblast growth factor stimulus	11
+GO:0044744	protein targeting to nucleus	10
+GO:0044774	mitotic DNA integrity checkpoint	2
+GO:0044839	cell cycle G2/M phase transition	23
+GO:0045088	regulation of innate immune response	17
+GO:0045786	negative regulation of cell cycle	17
+GO:0045787	positive regulation of cell cycle	1
+GO:0045815	positive regulation of gene expression, epigenetic	9
+GO:0045930	negative regulation of mitotic cell cycle	19
+GO:0045931	positive regulation of mitotic cell cycle	1
+GO:0046782	regulation of viral transcription	21
+GO:0046794	transport of virus	23
+GO:0048193	Golgi vesicle transport	5
+GO:0048524	positive regulation of viral process	21
+GO:0050000	chromosome localization	1
+GO:0050792	regulation of viral process	1
+GO:0051052	regulation of DNA metabolic process	21
+GO:0051054	positive regulation of DNA metabolic process	4
+GO:0051171	regulation of nitrogen compound metabolic process	14
+GO:0051234	establishment of localization	11
+GO:0051246	regulation of protein metabolic process	1
+GO:0051248	negative regulation of protein metabolic process	19
+GO:0051297	centrosome organization	20
+GO:0051303	establishment of chromosome localization	1
+GO:0051304	chromosome separation	23
+GO:0051321	meiotic cell cycle	3
+GO:0051338	regulation of transferase activity	20
+GO:0051603	proteolysis involved in cellular protein catabolic process	23
+GO:0051656	establishment of organelle localization	1
+GO:0051783	regulation of nuclear division	23
+GO:0051784	negative regulation of nuclear division	1
+GO:0051983	regulation of chromosome segregation	23
+GO:0060070	canonical Wnt signaling pathway	11
+GO:0060249	anatomical structure homeostasis	10
+GO:0060255	regulation of macromolecule metabolic process	2
+GO:0060828	regulation of canonical Wnt signaling pathway	19
+GO:0065004	protein-DNA complex assembly	18
+GO:0070125	mitochondrial translational elongation	3
+GO:0070126	mitochondrial translational termination	3
+GO:0070507	regulation of microtubule cytoskeleton organization	2
+GO:0071103	DNA conformation change	23
+GO:0071345	cellular response to cytokine stimulus	1
+GO:0071478	cellular response to radiation	1
+GO:0071774	response to fibroblast growth factor	10
+GO:0071806	protein transmembrane transport	2
+GO:0071822	protein complex subunit organization	2
+GO:0071824	protein-DNA complex subunit organization	18
+GO:0072331	signal transduction by p53 class mediator	8
+GO:0090068	positive regulation of cell cycle process	2
+GO:0090501	RNA phosphodiester bond hydrolysis	23
+GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	22
+GO:0198738	cell-cell signaling by wnt	1
+GO:1900034	regulation of cellular response to heat	5
+GO:1900182	positive regulation of protein localization to nucleus	2
+GO:1901796	regulation of signal transduction by p53 class mediator	15
+GO:1901988	negative regulation of cell cycle phase transition	12
+GO:1901991	negative regulation of mitotic cell cycle phase transition	8
+GO:1902581	multi-organism cellular localization	23
+GO:1902583	multi-organism intracellular transport	23
+GO:1902589	single-organism organelle organization	3
+GO:1902593	single-organism nuclear import	10
+GO:1903046	meiotic cell cycle process	8
+GO:1903829	positive regulation of cellular protein localization	3
+GO:1903900	regulation of viral life cycle	16
+GO:2000278	regulation of DNA biosynthetic process	13
+GO:2001251	negative regulation of chromosome organization	6
+GO:2001252	positive regulation of chromosome organization	6

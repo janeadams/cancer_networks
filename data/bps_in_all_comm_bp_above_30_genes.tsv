@@ -1,0 +1,302 @@
+GO.ID	Term	n
+GO:0000070	mitotic sister chromatid segregation	24
+GO:0000075	cell cycle checkpoint	24
+GO:0000082	G1/S transition of mitotic cell cycle	24
+GO:0000086	G2/M transition of mitotic cell cycle	24
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	24
+GO:0000209	protein polyubiquitination	24
+GO:0000226	microtubule cytoskeleton organization	24
+GO:0000245	spliceosomal complex assembly	24
+GO:0000278	mitotic cell cycle	24
+GO:0000280	nuclear division	24
+GO:0000375	RNA splicing, via transesterification reactions	24
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	24
+GO:0000387	spliceosomal snRNP assembly	24
+GO:0000398	mRNA splicing, via spliceosome	24
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	24
+GO:0000722	telomere maintenance via recombination	24
+GO:0000723	telomere maintenance	24
+GO:0000731	DNA synthesis involved in DNA repair	24
+GO:0000819	sister chromatid segregation	24
+GO:0000956	nuclear-transcribed mRNA catabolic process	24
+GO:0001736	establishment of planar polarity	24
+GO:0001738	morphogenesis of a polarized epithelium	24
+GO:0002181	cytoplasmic translation	24
+GO:0002218	activation of innate immune response	24
+GO:0002220	innate immune response activating cell surface receptor signaling pathway	24
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	24
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	24
+GO:0002478	antigen processing and presentation of exogenous peptide antigen	24
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	24
+GO:0002758	innate immune response-activating signal transduction	24
+GO:0006139	nucleobase-containing compound metabolic process	24
+GO:0006259	DNA metabolic process	24
+GO:0006260	DNA replication	24
+GO:0006261	DNA-dependent DNA replication	24
+GO:0006270	DNA replication initiation	24
+GO:0006281	DNA repair	24
+GO:0006283	transcription-coupled nucleotide-excision repair	24
+GO:0006289	nucleotide-excision repair	24
+GO:0006301	postreplication repair	24
+GO:0006310	DNA recombination	24
+GO:0006312	mitotic recombination	24
+GO:0006352	DNA-templated transcription, initiation	24
+GO:0006353	DNA-templated transcription, termination	24
+GO:0006354	DNA-templated transcription, elongation	24
+GO:0006361	transcription initiation from RNA polymerase I promoter	24
+GO:0006362	transcription elongation from RNA polymerase I promoter	24
+GO:0006363	termination of RNA polymerase I transcription	24
+GO:0006364	rRNA processing	24
+GO:0006369	termination of RNA polymerase II transcription	24
+GO:0006370	7-methylguanosine mRNA capping	24
+GO:0006383	transcription from RNA polymerase III promoter	24
+GO:0006396	RNA processing	24
+GO:0006397	mRNA processing	24
+GO:0006399	tRNA metabolic process	24
+GO:0006401	RNA catabolic process	24
+GO:0006402	mRNA catabolic process	24
+GO:0006403	RNA localization	24
+GO:0006405	RNA export from nucleus	24
+GO:0006406	mRNA export from nucleus	24
+GO:0006412	translation	24
+GO:0006413	translational initiation	24
+GO:0006418	tRNA aminoacylation for protein translation	24
+GO:0006446	regulation of translational initiation	24
+GO:0006518	peptide metabolic process	24
+GO:0006520	cellular amino acid metabolic process	24
+GO:0006521	regulation of cellular amino acid metabolic process	24
+GO:0006605	protein targeting	24
+GO:0006612	protein targeting to membrane	24
+GO:0006613	cotranslational protein targeting to membrane	24
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	24
+GO:0006725	cellular aromatic compound metabolic process	24
+GO:0006807	nitrogen compound metabolic process	24
+GO:0006886	intracellular protein transport	24
+GO:0006913	nucleocytoplasmic transport	24
+GO:0006974	cellular response to DNA damage stimulus	24
+GO:0006996	organelle organization	24
+GO:0007049	cell cycle	24
+GO:0007051	spindle organization	24
+GO:0007052	mitotic spindle organization	24
+GO:0007059	chromosome segregation	24
+GO:0007062	sister chromatid cohesion	24
+GO:0007067	mitotic nuclear division	24
+GO:0007164	establishment of tissue polarity	24
+GO:0007346	regulation of mitotic cell cycle	24
+GO:0008104	protein localization	24
+GO:0008152	metabolic process	24
+GO:0008380	RNA splicing	24
+GO:0009056	catabolic process	24
+GO:0009057	macromolecule catabolic process	24
+GO:0009058	biosynthetic process	24
+GO:0009059	macromolecule biosynthetic process	24
+GO:0009301	snRNA transcription	24
+GO:0009308	amine metabolic process	24
+GO:0009452	7-methylguanosine RNA capping	24
+GO:0009894	regulation of catabolic process	24
+GO:0009896	positive regulation of catabolic process	24
+GO:0009987	cellular process	24
+GO:0010467	gene expression	24
+GO:0010498	proteasomal protein catabolic process	24
+GO:0010564	regulation of cell cycle process	24
+GO:0010565	regulation of cellular ketone metabolic process	24
+GO:0010608	posttranscriptional regulation of gene expression	24
+GO:0015031	protein transport	24
+GO:0015931	nucleobase-containing compound transport	24
+GO:0016032	viral process	24
+GO:0016043	cellular component organization	24
+GO:0016070	RNA metabolic process	24
+GO:0016071	mRNA metabolic process	24
+GO:0016072	rRNA metabolic process	24
+GO:0016073	snRNA metabolic process	24
+GO:0016567	protein ubiquitination	24
+GO:0016925	protein sumoylation	24
+GO:0018130	heterocycle biosynthetic process	24
+GO:0019058	viral life cycle	24
+GO:0019080	viral gene expression	24
+GO:0019083	viral transcription	24
+GO:0019438	aromatic compound biosynthetic process	24
+GO:0019439	aromatic compound catabolic process	24
+GO:0019538	protein metabolic process	24
+GO:0019882	antigen processing and presentation	24
+GO:0019884	antigen processing and presentation of exogenous antigen	24
+GO:0019941	modification-dependent protein catabolic process	24
+GO:0019985	translesion synthesis	24
+GO:0022402	cell cycle process	24
+GO:0022607	cellular component assembly	24
+GO:0022613	ribonucleoprotein complex biogenesis	24
+GO:0022618	ribonucleoprotein complex assembly	24
+GO:0030162	regulation of proteolysis	24
+GO:0030177	positive regulation of Wnt signaling pathway	24
+GO:0030178	negative regulation of Wnt signaling pathway	24
+GO:0030490	maturation of SSU-rRNA	24
+GO:0031047	gene silencing by RNA	24
+GO:0031123	RNA 3'-end processing	24
+GO:0031124	mRNA 3'-end processing	24
+GO:0031145	anaphase-promoting complex-dependent catabolic process	24
+GO:0031329	regulation of cellular catabolic process	24
+GO:0031331	positive regulation of cellular catabolic process	24
+GO:0031396	regulation of protein ubiquitination	24
+GO:0031397	negative regulation of protein ubiquitination	24
+GO:0031398	positive regulation of protein ubiquitination	24
+GO:0031400	negative regulation of protein modification process	24
+GO:0032200	telomere organization	24
+GO:0032446	protein modification by small protein conjugation	24
+GO:0032508	DNA duplex unwinding	24
+GO:0032774	RNA biosynthetic process	24
+GO:0033036	macromolecule localization	24
+GO:0033044	regulation of chromosome organization	24
+GO:0033209	tumor necrosis factor-mediated signaling pathway	24
+GO:0033238	regulation of cellular amine metabolic process	24
+GO:0033365	protein localization to organelle	24
+GO:0033554	cellular response to stress	24
+GO:0034470	ncRNA processing	24
+GO:0034612	response to tumor necrosis factor	24
+GO:0034613	cellular protein localization	24
+GO:0034622	cellular macromolecular complex assembly	24
+GO:0034641	cellular nitrogen compound metabolic process	24
+GO:0034645	cellular macromolecule biosynthetic process	24
+GO:0034654	nucleobase-containing compound biosynthetic process	24
+GO:0034655	nucleobase-containing compound catabolic process	24
+GO:0034660	ncRNA metabolic process	24
+GO:0035567	non-canonical Wnt signaling pathway	24
+GO:0036260	RNA capping	24
+GO:0038061	NIK/NF-kappaB signaling	24
+GO:0038093	Fc receptor signaling pathway	24
+GO:0038095	Fc-epsilon receptor signaling pathway	24
+GO:0042176	regulation of protein catabolic process	24
+GO:0042180	cellular ketone metabolic process	24
+GO:0042254	ribosome biogenesis	24
+GO:0042255	ribosome assembly	24
+GO:0042273	ribosomal large subunit biogenesis	24
+GO:0042274	ribosomal small subunit biogenesis	24
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	24
+GO:0042769	DNA damage response, detection of DNA damage	24
+GO:0042787	protein ubiquitination involved in ubiquitin-dependent protein catabolic process	24
+GO:0042795	snRNA transcription from RNA polymerase II promoter	24
+GO:0043038	amino acid activation	24
+GO:0043039	tRNA aminoacylation	24
+GO:0043043	peptide biosynthetic process	24
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	24
+GO:0043170	macromolecule metabolic process	24
+GO:0043484	regulation of RNA splicing	24
+GO:0043487	regulation of RNA stability	24
+GO:0043488	regulation of mRNA stability	24
+GO:0043603	cellular amide metabolic process	24
+GO:0043604	amide biosynthetic process	24
+GO:0043632	modification-dependent macromolecule catabolic process	24
+GO:0043933	macromolecular complex subunit organization	24
+GO:0044033	multi-organism metabolic process	24
+GO:0044085	cellular component biogenesis	24
+GO:0044106	cellular amine metabolic process	24
+GO:0044237	cellular metabolic process	24
+GO:0044238	primary metabolic process	24
+GO:0044248	cellular catabolic process	24
+GO:0044249	cellular biosynthetic process	24
+GO:0044260	cellular macromolecule metabolic process	24
+GO:0044265	cellular macromolecule catabolic process	24
+GO:0044267	cellular protein metabolic process	24
+GO:0044270	cellular nitrogen compound catabolic process	24
+GO:0044271	cellular nitrogen compound biosynthetic process	24
+GO:0044403	symbiosis, encompassing mutualism through parasitism	24
+GO:0044419	interspecies interaction between organisms	24
+GO:0044764	multi-organism cellular process	24
+GO:0044766	multi-organism transport	24
+GO:0044770	cell cycle phase transition	24
+GO:0044772	mitotic cell cycle phase transition	24
+GO:0044802	single-organism membrane organization	24
+GO:0044843	cell cycle G1/S phase transition	24
+GO:0045047	protein targeting to ER	24
+GO:0045089	positive regulation of innate immune response	24
+GO:0045184	establishment of protein localization	24
+GO:0045732	positive regulation of protein catabolic process	24
+GO:0045862	positive regulation of proteolysis	24
+GO:0046483	heterocycle metabolic process	24
+GO:0046700	heterocycle catabolic process	24
+GO:0046907	intracellular transport	24
+GO:0048002	antigen processing and presentation of peptide antigen	24
+GO:0048024	regulation of mRNA splicing, via spliceosome	24
+GO:0048285	organelle fission	24
+GO:0050434	positive regulation of viral transcription	24
+GO:0050657	nucleic acid transport	24
+GO:0050658	RNA transport	24
+GO:0050684	regulation of mRNA processing	24
+GO:0050851	antigen receptor-mediated signaling pathway	24
+GO:0050852	T cell receptor signaling pathway	24
+GO:0051028	mRNA transport	24
+GO:0051168	nuclear export	24
+GO:0051169	nuclear transport	24
+GO:0051170	nuclear import	24
+GO:0051225	spindle assembly	24
+GO:0051236	establishment of RNA localization	24
+GO:0051276	chromosome organization	24
+GO:0051301	cell division	24
+GO:0051347	positive regulation of transferase activity	24
+GO:0051348	negative regulation of transferase activity	24
+GO:0051436	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	24
+GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	24
+GO:0051438	regulation of ubiquitin-protein transferase activity	24
+GO:0051439	regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	24
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	24
+GO:0051444	negative regulation of ubiquitin-protein transferase activity	24
+GO:0051641	cellular localization	24
+GO:0051649	establishment of localization in cell	24
+GO:0051704	multi-organism process	24
+GO:0051726	regulation of cell cycle	24
+GO:0060071	Wnt signaling pathway, planar cell polarity pathway	24
+GO:0061024	membrane organization	24
+GO:0065003	macromolecular complex assembly	24
+GO:0070647	protein modification by small protein conjugation or removal	24
+GO:0070727	cellular macromolecule localization	24
+GO:0070925	organelle assembly	24
+GO:0070972	protein localization to endoplasmic reticulum	24
+GO:0071166	ribonucleoprotein complex localization	24
+GO:0071356	cellular response to tumor necrosis factor	24
+GO:0071426	ribonucleoprotein complex export from nucleus	24
+GO:0071427	mRNA-containing ribonucleoprotein complex export from nucleus	24
+GO:0071702	organic substance transport	24
+GO:0071704	organic substance metabolic process	24
+GO:0071826	ribonucleoprotein complex subunit organization	24
+GO:0071840	cellular component organization or biogenesis	24
+GO:0071897	DNA biosynthetic process	24
+GO:0072594	establishment of protein localization to organelle	24
+GO:0072599	establishment of protein localization to endoplasmic reticulum	24
+GO:0072657	protein localization to membrane	24
+GO:0075733	intracellular transport of virus	24
+GO:0090090	negative regulation of canonical Wnt signaling pathway	24
+GO:0090150	establishment of protein localization to membrane	24
+GO:0090175	regulation of establishment of planar polarity	24
+GO:0090263	positive regulation of canonical Wnt signaling pathway	24
+GO:0090304	nucleic acid metabolic process	24
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	24
+GO:0098781	ncRNA transcription	24
+GO:0098813	nuclear chromosome segregation	24
+GO:1901360	organic cyclic compound metabolic process	24
+GO:1901361	organic cyclic compound catabolic process	24
+GO:1901362	organic cyclic compound biosynthetic process	24
+GO:1901564	organonitrogen compound metabolic process	24
+GO:1901566	organonitrogen compound biosynthetic process	24
+GO:1901575	organic substance catabolic process	24
+GO:1901576	organic substance biosynthetic process	24
+GO:1901987	regulation of cell cycle phase transition	24
+GO:1901990	regulation of mitotic cell cycle phase transition	24
+GO:1902579	multi-organism localization	24
+GO:1902580	single-organism cellular localization	24
+GO:1902582	single-organism intracellular transport	24
+GO:1903047	mitotic cell cycle process	24
+GO:1903050	regulation of proteolysis involved in cellular protein catabolic process	24
+GO:1903052	positive regulation of proteolysis involved in cellular protein catabolic process	24
+GO:1903311	regulation of mRNA metabolic process	24
+GO:1903320	regulation of protein modification by small protein conjugation or removal	24
+GO:1903321	negative regulation of protein modification by small protein conjugation or removal	24
+GO:1903322	positive regulation of protein modification by small protein conjugation or removal	24
+GO:1903362	regulation of cellular protein catabolic process	24
+GO:1903364	positive regulation of cellular protein catabolic process	24
+GO:1903902	positive regulation of viral life cycle	24
+GO:1904666	regulation of ubiquitin protein ligase activity	24
+GO:1904667	negative regulation of ubiquitin protein ligase activity	24
+GO:1904668	positive regulation of ubiquitin protein ligase activity	24
+GO:1905330	regulation of morphogenesis of an epithelium	24
+GO:2000027	regulation of organ morphogenesis	24
+GO:2000058	regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	24
+GO:2000060	positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process	24
