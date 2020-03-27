@@ -1,0 +1,93 @@
+Node_ID	DepMap_ID	#HOMOPHILINESS
+ACH-000019	Breast Cancer1.0
+ACH-000028	Breast Cancer1.0
+ACH-000042	Pancreatic Cancer1.0
+ACH-000045	Leukemia1.0
+ACH-000053	Lymphoma0.0
+ACH-000078	Neuroblastoma1.0
+ACH-000095	Brain Cancer-1.0
+ACH-000099	Neuroblastoma1.0
+ACH-000108	Pancreatic Cancer1.0
+ACH-000138	Pancreatic Cancer1.0
+ACH-000146	Leukemia1.0
+ACH-000148	Breast Cancer-1.0
+ACH-000160	Rhabdoid-1.0
+ACH-000190	Lymphoma-1.0
+ACH-000202	Colon/Colorectal Cancer-1.0
+ACH-000222	Pancreatic Cancer0.6
+ACH-000227	Neuroblastoma-1.0
+ACH-000235	Pancreatic Cancer0.45454545454545453
+ACH-000243	Pancreatic Cancer-0.1111111111111111
+ACH-000259	Neuroblastoma1.0
+ACH-000265	Pancreatic Cancer0.0
+ACH-000266	Pancreatic Cancer0.7777777777777778
+ACH-000278	Ovarian Cancer1.0
+ACH-000280	Ovarian Cancer1.0
+ACH-000281	Pancreatic Cancer1.0
+ACH-000294	Leukemia1.0
+ACH-000310	Neuroblastoma0.3333333333333333
+ACH-000311	Lung Cancer-0.2
+ACH-000312	Neuroblastoma0.2
+ACH-000320	Pancreatic Cancer0.0
+ACH-000331	Lung Cancer-1.0
+ACH-000332	Pancreatic Cancer0.6
+ACH-000339	Lung Cancer-1.0
+ACH-000362	Leukemia1.0
+ACH-000365	Lymphoma1.0
+ACH-000383	Esophageal Cancer-1.0
+ACH-000406	Leukemia0.3333333333333333
+ACH-000414	Lung Cancer0.0
+ACH-000495	Kidney Cancer1.0
+ACH-000502	Pancreatic Cancer1.0
+ACH-000557	Leukemia1.0
+ACH-000573	Breast Cancer-1.0
+ACH-000601	Pancreatic Cancer-0.09090909090909091
+ACH-000606	Head and Neck Cancer1.0
+ACH-000632	Skin Cancer1.0
+ACH-000638	Lung Cancer1.0
+ACH-000649	Kidney Cancer1.0
+ACH-000657	Ovarian Cancer-0.5
+ACH-000681	Lung Cancer1.0
+ACH-000684	Kidney Cancer1.0
+ACH-000693	Esophageal Cancer1.0
+ACH-000694	Esophageal Cancer-0.3333333333333333
+ACH-000696	Ovarian Cancer-0.5
+ACH-000757	Lung Cancer-1.0
+ACH-000768	Breast Cancer-1.0
+ACH-000770	Leukemia1.0
+ACH-000773	Lymphoma1.0
+ACH-000781	Lung Cancer0.5
+ACH-000782	Leukemia1.0
+ACH-000788	Skin Cancer1.0
+ACH-000791	Lung Cancer-0.14285714285714285
+ACH-000794	Head and Neck Cancer-1.0
+ACH-000804	Neuroblastoma1.0
+ACH-000820	Colon/Colorectal Cancer-1.0
+ACH-000832	Head and Neck Cancer1.0
+ACH-000836	Head and Neck Cancer-1.0
+ACH-000837	Lung Cancer-0.6
+ACH-000839	Bladder Cancer-1.0
+ACH-000841	Lung Cancer0.0
+ACH-000853	Lung Cancer-1.0
+ACH-000900	Lung Cancer-1.0
+ACH-000901	Lung Cancer-1.0
+ACH-000906	Ovarian Cancer-1.0
+ACH-000914	Lymphoma1.0
+ACH-000937	Leukemia1.0
+ACH-000938	Leukemia1.0
+ACH-000939	Sarcoma-1.0
+ACH-000947	Ovarian Cancer-1.0
+ACH-000953	Leukemia1.0
+ACH-000960	Leukemia1.0
+ACH-000965	Endometrial/Uterine Cancer-1.0
+ACH-001067	Brain Cancer-1.0
+ACH-001295	Eye Cancer-1.0
+ACH-001346	Head and Neck Cancer1.0
+ACH-001407	Bladder Cancer-1.0
+ACH-001413	Bladder Cancer-1.0
+ACH-001532	Rhabdoid-1.0
+ACH-001550	Skin Cancer-1.0
+ACH-001554	Eye Cancer-1.0
+ACH-001735	Leukemia1.0
+ACH-001740	Sarcoma1.0
+ACH-001745	Sarcoma1.0

@@ -3,8 +3,8 @@ Kidney Cancer	1.0	3
 Leukemia	0.8	13
 Neuroblastoma	0.23076923076923078	7
 Pancreatic Cancer	0.058823529411764705	13
-Head and Neck Cancer	0.0	5
 Lymphoma	0.0	5
+Head and Neck Cancer	0.0	5
 Sarcoma	-0.3333333333333333	3
 Lung Cancer	-0.4857142857142857	14
 Breast Cancer	-0.5	5
@@ -12,8 +12,8 @@ Esophageal Cancer	-0.5	3
 Ovarian Cancer	-0.6	6
 Skin Cancer	-0.6	3
 Colon/Colorectal Cancer	-1.0	2
+Bladder Cancer	-1.0	3
 Eye Cancer	-1.0	2
 Brain Cancer	-1.0	2
-Bladder Cancer	-1.0	3
 Rhabdoid	-1.0	2
 Endometrial/Uterine Cancer	-1.0	1
