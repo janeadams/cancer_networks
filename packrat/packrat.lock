@@ -206,8 +206,9 @@ Hash: cd78381a9d3fea966ac39bd0daaf5554
 
 Package: igraph
 Source: CRAN
-Version: 0.7.1
-Hash: 20420f6d00c71e83f97703dcac26c385
+Version: 1.2.5
+Hash: 56cd6b00fa9864975f6678b4d1a46b50
+Requires: magrittr, pkgconfig
 
 Package: isoband
 Source: CRAN
@@ -247,6 +248,12 @@ Source: CRAN
 Version: 0.5.0
 Hash: 247d1c1d72f3072563912ef860758624
 Requires: colorspace
+
+Package: org.Hs.eg.db
+Source: Bioconductor
+Version: 3.4.0
+Hash: 6383d10d6622e25938222206a80df533
+Requires: AnnotationDbi
 
 Package: packrat
 Source: CRAN
