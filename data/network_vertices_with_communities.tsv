@@ -1,9 +1,9 @@
 name	depmapId	primary_disease	subtype_disease	cell_name	pathology	primary_site	subtype_syte	histology	subtype_histology	gender	color	commun
-6	ACH-000012	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	HCC827	primary	lung	NS	carcinoma	adenocarcinoma	Female	#29AF7FFF	13
-12	ACH-000019	Breast Cancer	Carcinoma	MCF7	metastasis	breast	NS	carcinoma	NS	Female	#453781FF	21
+6	ACH-000012	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	HCC827	primary	lung	NS	carcinoma	adenocarcinoma	Female	#29AF7FFF	21
+12	ACH-000019	Breast Cancer	Carcinoma	MCF7	metastasis	breast	NS	carcinoma	NS	Female	#453781FF	13
 13	ACH-000021	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NCI-H1693	metastasis	lung	NS	carcinoma	adenocarcinoma	Female	#29AF7FFF	1
-16	ACH-000028	Breast Cancer	Carcinoma	KPL-1	metastasis	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	21
-17	ACH-000029	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	HCC827 GR5		lung	NS	carcinoma	non_small_cell_carcinoma	-1	#29AF7FFF	13
+16	ACH-000028	Breast Cancer	Carcinoma	KPL-1	metastasis	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	13
+17	ACH-000029	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	HCC827 GR5		lung	NS	carcinoma	non_small_cell_carcinoma	-1	#29AF7FFF	21
 25	ACH-000042	Pancreatic Cancer	Ductal Adenocarcinoma, exocrine	Panc 02.03	primary	pancreas	NS	carcinoma	NS	Female	#94D840FF	1
 26	ACH-000045	Leukemia	Acute Myelogenous Leukemia (AML)	MV-4-11	primary	haematopoietic_and_lymphoid_tissue	lymph_node	haematopoietic_neoplasm	acute_myeloid_leukaemia	Male	#1F968BFF	4
 29	ACH-000053	Lymphoma	T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)	KARPAS-299	primary	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	anaplastic_large_cell_lymphoma	Male	#3CBC75FF	4
@@ -41,7 +41,7 @@ name	depmapId	primary_disease	subtype_disease	cell_name	pathology	primary_site	s
 160	ACH-000332	Pancreatic Cancer	Ductal Adenocarcinoma, exocrine	YAPC	metastasis	pancreas	NS	carcinoma	NS	Male	#94D840FF	1
 165	ACH-000339	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NA	NA	NA	NA	NA	NA		#29AF7FFF	22
 173	ACH-000362	Leukemia	Acute Myelogenous Leukemia (AML)	MOLM-13	primary	haematopoietic_and_lymphoid_tissue	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	Male	#1F968BFF	4
-176	ACH-000365	Lymphoma	Diffuse Large B-cell Lymphoma (DLBCL)	SU-DHL-4	metastasis	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	Male	#3CBC75FF	14
+176	ACH-000365	Lymphoma	Diffuse Large B-cell Lymphoma (DLBCL)	SU-DHL-4	metastasis	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	Male	#3CBC75FF	18
 184	ACH-000383	Esophageal Cancer	Adenocarcinoma	OE33	primary	oesophagus	lower_third	other	metaplasia	Female	#32648EFF	1
 185	ACH-000387	Leukemia	Acute Myelogenous Leukemia (AML)	TF-1	primary	haematopoietic_and_lymphoid_tissue	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	Male	#1F968BFF	4
 195	ACH-000406	Leukemia	Acute Myelogenous Leukemia (AML)	U-937	metastasis	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	diffuse_large_B_cell_lymphoma	Male	#1F968BFF	4
@@ -49,14 +49,14 @@ name	depmapId	primary_disease	subtype_disease	cell_name	pathology	primary_site	s
 249	ACH-000495	Kidney Cancer	Renal Cell Carcinoma	TUHR4TKB	primary	kidney	NS	carcinoma	NS		#238A8DFF	9
 250	ACH-000496	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NCI-H1792	metastasis	lung	NS	carcinoma	adenocarcinoma	Male	#29AF7FFF	1
 254	ACH-000502	Pancreatic Cancer	Ductal Adenocarcinoma, exocrine	TCC-PAN2	primary	pancreas	NS	carcinoma	NS	Female	#94D840FF	1
-263	ACH-000517	Pancreatic Cancer	Ductal Adenocarcinoma, exocrine	SNU-410	primary	pancreas	NS	carcinoma	NS	Male	#94D840FF	15
-268	ACH-000524	Ovarian Cancer	Adenocarcinoma, high grade serous	KURAMOCHI	metastasis	ovary	NS	carcinoma	undifferentiated_carcinoma	Female	#74D055FF	15
+263	ACH-000517	Pancreatic Cancer	Ductal Adenocarcinoma, exocrine	SNU-410	primary	pancreas	NS	carcinoma	NS	Male	#94D840FF	14
+268	ACH-000524	Ovarian Cancer	Adenocarcinoma, high grade serous	KURAMOCHI	metastasis	ovary	NS	carcinoma	undifferentiated_carcinoma	Female	#74D055FF	14
 269	ACH-000527	Ovarian Cancer	Adenocarcinoma, clear cell	OVISE	metastasis	ovary	NS	carcinoma	clear_cell_carcinoma	Female	#74D055FF	23
 282	ACH-000557	Leukemia	Acute Myelogenous Leukemia (AML), M5 (Monocytic)	AML-193	primary	haematopoietic_and_lymphoid_tissue	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	Female	#1F968BFF	10
-285	ACH-000573	Breast Cancer	Carcinoma	MDA-MB-436	metastasis	breast	NS	carcinoma	NS	Female	#453781FF	16
+285	ACH-000573	Breast Cancer	Carcinoma	MDA-MB-436	metastasis	breast	NS	carcinoma	NS	Female	#453781FF	15
 298	ACH-000601	Pancreatic Cancer	Ductal Adenocarcinoma, exocrine	MIA PaCa-2	primary	pancreas	NS	carcinoma	ductal_carcinoma	Male	#94D840FF	1
 301	ACH-000606	Head and Neck Cancer	Squamous Cell Carcinoma, basaloid	PE/CA-PJ34 (clone C12)	primary	upper_aerodigestive_tract	mouth	carcinoma	squamous_cell_carcinoma	Male	#287D8EFF	11
-311	ACH-000624	Breast Cancer	Breast Ductal Carcinoma	HCC1806	primary	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	17
+311	ACH-000624	Breast Cancer	Breast Ductal Carcinoma	HCC1806	primary	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	16
 314	ACH-000632	Skin Cancer	Melanoma	Hs 944.T	metastasis	skin	NS	malignant_melanoma	NS	Male	#FDE725FF	7
 317	ACH-000638	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NCI-H441	metastasis	lung	NS	carcinoma	adenocarcinoma		#29AF7FFF	1
 319	ACH-000646	Ovarian Cancer	Adenocarcinoma, clear cell	OVMANA	primary	ovary	NS	carcinoma	clear_cell_carcinoma	Female	#74D055FF	23
@@ -69,7 +69,7 @@ name	depmapId	primary_disease	subtype_disease	cell_name	pathology	primary_site	s
 344	ACH-000694	Esophageal Cancer	Squamous Cell Carcinoma	TE-9	primary	oesophagus	NS	carcinoma	squamous_cell_carcinoma	Male	#32648EFF	3
 346	ACH-000696	Ovarian Cancer	Adenocarcinoma, high grade serous	OVCAR-8	primary	ovary	NS	carcinoma	NS	Female	#74D055FF	5
 348	ACH-000699	Breast Cancer	Breast Ductal Carcinoma	HCC1395	primary	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	1
-353	ACH-000711	Breast Cancer	Breast Ductal Carcinoma	JIMT-1	metastasis	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	17
+353	ACH-000711	Breast Cancer	Breast Ductal Carcinoma	JIMT-1	metastasis	breast	NS	carcinoma	ductal_carcinoma	Female	#453781FF	16
 363	ACH-000735	Head and Neck Cancer	Squamous Cell Carcinoma, oral	PE/CA-PJ49	primary	upper_aerodigestive_tract	mouth	carcinoma	squamous_cell_carcinoma	Male	#287D8EFF	3
 373	ACH-000757	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NA	NA	NA	NA	NA	NA		#29AF7FFF	1
 382	ACH-000768	Breast Cancer	Carcinoma	MDA-MB-231	metastasis	breast	NS	carcinoma	NS	Female	#453781FF	22
@@ -79,16 +79,16 @@ name	depmapId	primary_disease	subtype_disease	cell_name	pathology	primary_site	s
 391	ACH-000782	Leukemia	Acute Lymphoblastic Leukemia (ALL), B-cell	SEM	primary	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	Female	#1F968BFF	10
 396	ACH-000788	Skin Cancer	Melanoma	A2058	metastasis	skin	NS	malignant_melanoma	NS	Male	#FDE725FF	7
 398	ACH-000791	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	RERF-LC-Ad1	primary	lung	NS	carcinoma	adenocarcinoma	Male	#29AF7FFF	1
-401	ACH-000794	Head and Neck Cancer	Squamous Cell Carcinoma, oral	BICR 22	metastasis	upper_aerodigestive_tract	mouth	carcinoma	squamous_cell_carcinoma	Male	#287D8EFF	18
+401	ACH-000794	Head and Neck Cancer	Squamous Cell Carcinoma, oral	BICR 22	metastasis	upper_aerodigestive_tract	mouth	carcinoma	squamous_cell_carcinoma	Male	#287D8EFF	17
 403	ACH-000799	Skin Cancer	Melanoma, amelanotic	Hs 695T	metastasis	skin	NS	malignant_melanoma	NS	Male	#FDE725FF	1
 407	ACH-000804	Neuroblastoma	Unknown	NB-1	metastasis	autonomic_ganglia	NS	neuroblastoma	NS	Male	#56C667FF	6
-414	ACH-000820	Colon/Colorectal Cancer	Colon Adenocarcinoma	SW403	primary	large_intestine	colon	carcinoma	adenocarcinoma	Female	#3F4788FF	16
+414	ACH-000820	Colon/Colorectal Cancer	Colon Adenocarcinoma	SW403	primary	large_intestine	colon	carcinoma	adenocarcinoma	Female	#3F4788FF	15
 417	ACH-000823	Esophageal Cancer	Squamous Cell Carcinoma	KYSE-140	primary	oesophagus	middle_third	carcinoma	squamous_cell_carcinoma	Male	#32648EFF	3
 421	ACH-000831	Endometrial/Uterine Cancer	Uterine/Endometrial Adenocarcinoma	HEC-50B	primary	endometrium	NS	carcinoma	adenocarcinoma	Female	#39558CFF	5
 422	ACH-000832	Head and Neck Cancer	Squamous Cell Carcinoma	CAL 27	primary	upper_aerodigestive_tract	mouth	carcinoma	squamous_cell_carcinoma	Male	#287D8EFF	11
 426	ACH-000836	Head and Neck Cancer	Carcinoma, mucoepidermoid	YD-15	primary	salivary_gland	tongue	carcinoma	mucoepidermoid_carcinoma	Male	#287D8EFF	3
 427	ACH-000837	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma	NCI-H322	primary	lung	NS	carcinoma	adenocarcinoma	Male	#29AF7FFF	1
-429	ACH-000839	Bladder Cancer	Squamous Cell Carcinoma	SCaBER	primary	urinary_tract	bladder	carcinoma	transitional_cell_carcinoma	Male	#440154FF	18
+429	ACH-000839	Bladder Cancer	Squamous Cell Carcinoma	SCaBER	primary	urinary_tract	bladder	carcinoma	transitional_cell_carcinoma	Male	#440154FF	17
 431	ACH-000841	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NCI-H2087	metastasis	lung	NS	carcinoma	adenocarcinoma	Male	#29AF7FFF	1
 438	ACH-000853	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma	NCI-H661	metastasis	lung	NS	carcinoma	large_cell_carcinoma	Male	#29AF7FFF	5
 447	ACH-000867	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma	ChaGo-K-1	primary	lung	NS	carcinoma	NS	Male	#29AF7FFF	7
@@ -96,7 +96,7 @@ name	depmapId	primary_disease	subtype_disease	cell_name	pathology	primary_site	s
 465	ACH-000900	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma	NCI-H23	primary	lung	NS	carcinoma	non_small_cell_carcinoma	Male	#29AF7FFF	1
 466	ACH-000901	Lung Cancer	Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma	HCC-1359	primary	lung	NS	carcinoma	large_cell_carcinoma	Female	#29AF7FFF	12
 468	ACH-000906	Ovarian Cancer	Carcinoma, clear cell	ES-2	primary	ovary	NS	carcinoma	clear_cell_carcinoma	Female	#74D055FF	12
-474	ACH-000914	Lymphoma	B-cell, Non-Hodgkins	HT	metastasis	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	Male	#3CBC75FF	14
+474	ACH-000914	Lymphoma	B-cell, Non-Hodgkins	HT	metastasis	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	Male	#3CBC75FF	18
 486	ACH-000937	Leukemia	Acute Lymphoblastic Leukemia (ALL), T-cell	PF-382	metastasis	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	acute_lymphoblastic_T_cell_leukaemia	Female	#1F968BFF	8
 487	ACH-000938	Leukemia	Acute Lymphoblastic Leukemia (ALL), B-cell	NALM-6	primary	haematopoietic_and_lymphoid_tissue	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	Male	#1F968BFF	8
 488	ACH-000939	Sarcoma	Leiomyosarcoma	SK-UT-1	primary	soft_tissue	smooth_muscle	leiomyosarcoma	NS	Female	#DCE318FF	3
