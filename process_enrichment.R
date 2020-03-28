@@ -19,21 +19,22 @@ all_enrichments <- lapply(1:nrow(gene_sets), function(n){
                   annot = annFUN.org,
                   ID = "alias", 
                   mapping = "org.Hs.eg")
-    resultFisher <- runTest(GOdata, "classic","fisher")
+    
+    resultFisher <- runTest(GOdata, "elim","fisher")
     ss <- score(resultFisher)
-    cat("Community ", n, " has ", sum(ss < 0.001), " significant processes")
+    cat("Community ", gene_sets[n, 1], " has ", sum(ss < 0.001), " significant processes")
     resultsTable <- GenTable(GOdata, classicFisher = resultFisher, numChar = 200,
                              topNodes = sum(ss < 0.001))
-    resultsTable$commun <- n
+    resultsTable$commun <- gene_sets[n, 1]
     return(resultsTable)
   }
 })
 all_enrichments <- bind_rows(all_enrichments)
 bps_in_all_comm <- all_enrichments %>% 
-  group_by(GO.ID, Term) %>% tally() %>% filter(n == 24)
+  group_by(GO.ID, Term) %>% tally() %>% filter(n == 23)
 
 bps_not_in_all_comm <- all_enrichments %>% 
-  group_by(GO.ID, Term) %>% tally() %>% filter(n != 24)
+  group_by(GO.ID, Term) %>% tally() %>% filter(n != 23)
 
 write.table(all_enrichments, file = "data/all_enrichment_scores_bp_above_10_genes_5_per.tsv",
             quote = F, row.names = F, sep = "\t")
