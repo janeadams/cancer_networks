@@ -37,8 +37,11 @@ no_info <- vertices[!vertices$id %in% from_to, ]
 
 g <- graph_from_data_frame(links, vertices = vertices, directed = F)
 
-node_colors <- viridis(length(table(V(g)$primary_disease)))
-V(g)$color <- node_colors[as.numeric(as.factor(V(g)$primary_disease))]
+cancer_types <- names(table(V(g)$primary_disease))
+node_colors <- viridis(length(cancer_types))
+names(node_colors) <- cancer_types
+
+V(g)$color <- node_colors[V(g)$primary_disease]
 
 l = layout_with_fr(g)
 png("figures/network_cell_type.png", 1200, 1200)
@@ -47,13 +50,22 @@ plot(g, vertex.label=NA, vertex.color=V(g)$color,
      edge.color="grey50", layout = l)
 dev.off()
 
-commun <- cluster_infomap(g, nb.trials = 10)
-V(g)$commun <- commun$membership
+#commun <- cluster_infomap(g, nb.trials = 10)
+#V(g)$commun <- commun$membership
+load("data/network_communities.RData")
 
 png("figures/network_cell_type_communities_big.png", 3200, 3200)
 plot(g, vertex.label=NA, vertex.color=V(g)$color, 
         vertex.size=degree(g),  edge.width=E(g)$weight, 
         edge.color="grey50", layout = l, mark.groups= commun, mark.border=NA)
+dev.off()
+
+png("figures/network_legend.png", 1000, 2200)
+plot.new()
+legend("bottomleft",bty = "n",
+       legend = names(node_colors),
+       fill = node_colors, border=NA, cex = 4)
+
 dev.off()
 
 save(commun, file = "data/network_communities.RData")
