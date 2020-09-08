@@ -1,0 +1,127 @@
+Node_ID	DepMap_ID	Primary Disease	Subtype Disease
+6	ACH-000012	Lung Cancer	NSCLC-Adenocarcinoma
+12	ACH-000019	Breast Cancer	Carcinoma
+13	ACH-000021	Lung Cancer	NSCLC-Adenocarcinoma
+16	ACH-000028	Breast Cancer	Carcinoma
+17	ACH-000029	Lung Cancer	NSCLC-Adenocarcinoma
+25	ACH-000042	Pancreatic Cancer	Adenocarcinoma
+26	ACH-000045	Leukemia	AML
+29	ACH-000053	Lymphoma	Non-Hodgkins, T-cell
+36	ACH-000078	Neuroblastoma	Neuroblastoma
+42	ACH-000095	Brain Cancer	Medulloblastoma
+46	ACH-000099	Neuroblastoma	Neuroblastoma
+47	ACH-000108	Pancreatic Cancer	Adenosquamous Carcinoma
+51	ACH-000118	Pancreatic Cancer	Adenocarcinoma
+59	ACH-000138	Pancreatic Cancer	Adenocarcinoma
+63	ACH-000146	Leukemia	AML
+64	ACH-000148	Breast Cancer	Carcinoma
+65	ACH-000150	Lung Cancer	NSCLC-Adenocarcinoma
+70	ACH-000160	Rhabdoid	Atypical Teratoid Rhabdoid Tumor (ATRT)
+81	ACH-000190	Lymphoma	Hodgkins
+84	ACH-000202	Colon/Colorectal Cancer	Adenocarcinoma
+92	ACH-000221	Liver Cancer	Hepatocellular Carcinoma
+93	ACH-000222	Pancreatic Cancer	Adenocarcinoma
+96	ACH-000227	Neuroblastoma	Neuroblastoma
+102	ACH-000235	Pancreatic Cancer	Adenocarcinoma
+105	ACH-000243	Pancreatic Cancer	Adenocarcinoma
+109	ACH-000250	Kidney Cancer	Renal Cell Carcinoma
+116	ACH-000259	Neuroblastoma	Neuroblastoma
+122	ACH-000265	Pancreatic Cancer	Adenocarcinoma
+123	ACH-000266	Pancreatic Cancer	Adenocarcinoma
+128	ACH-000278	Ovarian Cancer	Adenocarcinoma
+130	ACH-000280	Ovarian Cancer	Carcinoma, brenner
+131	ACH-000281	Pancreatic Cancer	Adenocarcinoma
+135	ACH-000292	Lung Cancer	SCLC
+137	ACH-000294	Leukemia	AML
+144	ACH-000310	Neuroblastoma	Neuroblastoma
+145	ACH-000311	Lung Cancer	NSCLC-Adenocarcinoma
+146	ACH-000312	Neuroblastoma	Neuroblastoma
+152	ACH-000320	Pancreatic Cancer	Adenocarcinoma
+159	ACH-000331	Lung Cancer	Mesothelioma
+160	ACH-000332	Pancreatic Cancer	Adenocarcinoma
+165	ACH-000339	Lung Cancer	NSCLC-Adenocarcinoma
+173	ACH-000362	Leukemia	AML
+176	ACH-000365	Lymphoma	Non-Hodgkins, B-cell
+184	ACH-000383	Esophageal Cancer	Adenocarcinoma
+185	ACH-000387	Leukemia	AML
+195	ACH-000406	Leukemia	AML
+200	ACH-000414	Lung Cancer	NSCLC-Adenocarcinoma
+249	ACH-000495	Kidney Cancer	Renal Cell Carcinoma
+250	ACH-000496	Lung Cancer	NSCLC-Adenocarcinoma
+254	ACH-000502	Pancreatic Cancer	Adenocarcinoma
+263	ACH-000517	Pancreatic Cancer	Adenocarcinoma
+268	ACH-000524	Ovarian Cancer	Adenocarcinoma
+269	ACH-000527	Ovarian Cancer	Adenocarcinoma
+282	ACH-000557	Leukemia	AML
+285	ACH-000573	Breast Cancer	Carcinoma
+298	ACH-000601	Pancreatic Cancer	Adenocarcinoma
+301	ACH-000606	Head and Neck Cancer	Squamous Cell Carcinoma
+311	ACH-000624	Breast Cancer	Carcinoma
+314	ACH-000632	Skin Cancer	Melanoma
+317	ACH-000638	Lung Cancer	NSCLC-Adenocarcinoma
+319	ACH-000646	Ovarian Cancer	Adenocarcinoma
+322	ACH-000649	Kidney Cancer	Renal Carcinoma, clear cell
+327	ACH-000655	Brain Cancer	Glioma
+328	ACH-000657	Ovarian Cancer	Adenocarcinoma
+338	ACH-000681	Lung Cancer	NSCLC-Adenocarcinoma
+341	ACH-000684	Kidney Cancer	Renal Carcinoma, clear cell
+343	ACH-000693	Esophageal Cancer	Squamous Cell Carcinoma
+344	ACH-000694	Esophageal Cancer	Squamous Cell Carcinoma
+346	ACH-000696	Ovarian Cancer	Adenocarcinoma
+348	ACH-000699	Breast Cancer	Carcinoma
+353	ACH-000711	Breast Cancer	Carcinoma
+363	ACH-000735	Head and Neck Cancer	Squamous Cell Carcinoma
+373	ACH-000757	Lung Cancer	NSCLC-Adenocarcinoma
+382	ACH-000768	Breast Cancer	Carcinoma
+384	ACH-000770	Leukemia	AML
+386	ACH-000773	Lymphoma	Non-Hodgkins, T-cell
+390	ACH-000781	Lung Cancer	NSCLC-Adenocarcinoma
+391	ACH-000782	Leukemia	ALL
+396	ACH-000788	Skin Cancer	Melanoma
+398	ACH-000791	Lung Cancer	NSCLC-Adenocarcinoma
+401	ACH-000794	Head and Neck Cancer	Squamous Cell Carcinoma
+403	ACH-000799	Skin Cancer	Melanoma
+407	ACH-000804	Neuroblastoma	Neuroblastoma
+414	ACH-000820	Colon/Colorectal Cancer	Adenocarcinoma
+417	ACH-000823	Esophageal Cancer	Squamous Cell Carcinoma
+421	ACH-000831	Endometrial/Uterine Cancer	Adenocarcinoma
+422	ACH-000832	Head and Neck Cancer	Squamous Cell Carcinoma
+426	ACH-000836	Head and Neck Cancer	Carcinoma, mucoepidermoid
+427	ACH-000837	Lung Cancer	NSCLC-Adenocarcinoma
+429	ACH-000839	Bladder Cancer	Squamous Cell Carcinoma
+431	ACH-000841	Lung Cancer	NSCLC-Adenocarcinoma
+438	ACH-000853	Lung Cancer	NSCLC-Large Cell
+447	ACH-000867	Lung Cancer	NSCLC-Adenocarcinoma
+457	ACH-000885	Ovarian Cancer	Adenocarcinoma
+465	ACH-000900	Lung Cancer	NSCLC-Adenocarcinoma
+466	ACH-000901	Lung Cancer	NSCLC-Large Cell
+468	ACH-000906	Ovarian Cancer	Adenocarcinoma
+474	ACH-000914	Lymphoma	Non-Hodgkins, B-cell
+486	ACH-000937	Leukemia	ALL
+487	ACH-000938	Leukemia	ALL
+488	ACH-000939	Sarcoma	Leiomyosarcoma
+492	ACH-000947	Ovarian Cancer	Adenocarcinoma
+495	ACH-000953	Leukemia	ALL
+498	ACH-000960	Leukemia	ALL
+500	ACH-000965	Endometrial/Uterine Cancer	Adenosquamous Carcinoma
+510	ACH-000984	Endometrial/Uterine Cancer	Adenocarcinoma
+516	ACH-001001	Bone Cancer	Osteosarcoma
+527	ACH-001067	Brain Cancer	Meningioma
+534	ACH-001173	Brain Cancer	Medulloblastoma
+536	ACH-001184	Sarcoma	Rhabdomyosarcoma
+552	ACH-001280	Sarcoma	Synovial
+555	ACH-001295	Eye Cancer	Retinoblastoma
+564	ACH-001329	Brain Cancer	Glioblastoma
+569	ACH-001346	Head and Neck Cancer	Squamous Cell Carcinoma
+570	ACH-001353	Pancreatic Cancer	Adenocarcinoma
+581	ACH-001407	Bladder Cancer	Transitional Cell Carcinoma
+585	ACH-001413	Bladder Cancer	Transitional Cell Carcinoma
+594	ACH-001496	Esophageal Cancer	Adenocarcinoma
+601	ACH-001532	Rhabdoid	Malignant Rhabdoid Tumor
+603	ACH-001550	Skin Cancer	Merkel Cell Carcinoma
+605	ACH-001554	Eye Cancer	Uveal Melanoma
+615	ACH-001735	Leukemia	ALL
+616	ACH-001736	Leukemia	ALL
+618	ACH-001740	Sarcoma	Rhabdomyosarcoma
+619	ACH-001745	Sarcoma	Rhabdomyosarcoma
+620	ACH-001750	Sarcoma	Rhabdomyosarcoma
