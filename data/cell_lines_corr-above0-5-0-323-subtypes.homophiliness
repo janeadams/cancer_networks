@@ -1,0 +1,35 @@
+#CANCER_Subtype	#HOMOPHILINESS	#NODE_OCCURANCE
+Non-Hodgkins, B-cell	1.0	2
+ALL	0.6666666666666666	7
+AML	0.6363636363636364	8
+Squamous Cell Carcinoma	0.25	9
+Non-Hodgkins, T-cell	0.0	2
+Neuroblastoma	-0.15789473684210525	7
+Adenocarcinoma	-0.26666666666666666	30
+Carcinoma	-0.3333333333333333	8
+Rhabdomyosarcoma	-0.3333333333333333	4
+Renal Carcinoma, clear cell	-0.3333333333333333	2
+Melanoma	-0.3333333333333333	3
+NSCLC-Adenocarcinoma	-0.5925925925925926	17
+Adenosquamous Carcinoma	-1.0	2
+Medulloblastoma	-1.0	2
+NSCLC-Large Cell	-1.0	2
+Retinoblastoma	-1.0	1
+Renal Cell Carcinoma	-1.0	2
+Atypical Teratoid Rhabdoid Tumor (ATRT)	-1.0	1
+Hepatocellular Carcinoma	-1.0	1
+Carcinoma, brenner	-1.0	1
+SCLC	-1.0	1
+Mesothelioma	-1.0	1
+Glioma	-1.0	1
+Leiomyosarcoma	-1.0	1
+Osteosarcoma	-1.0	1
+Meningioma	-1.0	1
+Synovial	-1.0	1
+Glioblastoma	-1.0	1
+Transitional Cell Carcinoma	-1.0	2
+Malignant Rhabdoid Tumor	-1.0	1
+Merkel Cell Carcinoma	-1.0	1
+Hodgkins	-1.0	1
+Carcinoma, mucoepidermoid	-1.0	1
+Uveal Melanoma	-1.0	1
