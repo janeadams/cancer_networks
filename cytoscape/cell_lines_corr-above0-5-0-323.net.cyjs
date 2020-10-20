@@ -1,0 +1,4636 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "cell_lines_corr-above0-5-0-323.net",
+    "name" : "cell_lines_corr-above0-5-0-323.net",
+    "SUID" : 61,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "381",
+        "shared_name" : "619",
+        "DepMap_ID" : "ACH-001745",
+        "Primary_Disease" : "Sarcoma",
+        "name" : "619",
+        "Subtype_Disease" : "Rhabdomyosarcoma",
+        "SUID" : 381,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 13.021352991760807,
+        "y" : 2496.379713306339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "380",
+        "shared_name" : "618",
+        "DepMap_ID" : "ACH-001740",
+        "Primary_Disease" : "Sarcoma",
+        "name" : "618",
+        "Subtype_Disease" : "Rhabdomyosarcoma",
+        "SUID" : 380,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 10.747767673396822,
+        "y" : 2593.6920680246103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "378",
+        "shared_name" : "605",
+        "DepMap_ID" : "ACH-001554",
+        "Primary_Disease" : "Eye Cancer",
+        "name" : "605",
+        "Subtype_Disease" : "Uveal Melanoma",
+        "SUID" : 378,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -158.90668046747234,
+        "y" : 2449.6545986574083
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "377",
+        "shared_name" : "581",
+        "DepMap_ID" : "ACH-001407",
+        "Primary_Disease" : "Bladder Cancer",
+        "name" : "581",
+        "Subtype_Disease" : "Transitional Cell Carcinoma",
+        "SUID" : 377,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -167.12742340815407,
+        "y" : 2495.663707906037
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "375",
+        "shared_name" : "447",
+        "DepMap_ID" : "ACH-000867",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "447",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 375,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -848.1314011599959,
+        "y" : -1346.3827622275787
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "373",
+        "shared_name" : "487",
+        "DepMap_ID" : "ACH-000938",
+        "Primary_Disease" : "Leukemia",
+        "name" : "487",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 373,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -846.6307147034895,
+        "y" : 2396.379713306339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "371",
+        "shared_name" : "498",
+        "DepMap_ID" : "ACH-000960",
+        "Primary_Disease" : "Leukemia",
+        "name" : "498",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 371,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -922.2036022114662,
+        "y" : 2286.8792950551206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "369",
+        "shared_name" : "495",
+        "DepMap_ID" : "ACH-000953",
+        "Primary_Disease" : "Leukemia",
+        "name" : "495",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 369,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1053.6032871312025,
+        "y" : 2096.4893161718765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "368",
+        "shared_name" : "486",
+        "DepMap_ID" : "ACH-000937",
+        "Primary_Disease" : "Leukemia",
+        "name" : "486",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 368,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -991.6075081574206,
+        "y" : 2186.3173477754417
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "366",
+        "shared_name" : "401",
+        "DepMap_ID" : "ACH-000794",
+        "Primary_Disease" : "Head and Neck Cancer",
+        "name" : "401",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 366,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -350.6263499635212,
+        "y" : 2556.8074325355296
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "365",
+        "shared_name" : "429",
+        "DepMap_ID" : "ACH-000839",
+        "Primary_Disease" : "Bladder Cancer",
+        "name" : "429",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 365,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -403.74370107306953,
+        "y" : 2496.379713306339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "362",
+        "shared_name" : "363",
+        "DepMap_ID" : "ACH-000735",
+        "Primary_Disease" : "Head and Neck Cancer",
+        "name" : "363",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 362,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 63.973090172284344,
+        "y" : 1962.3944522977001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "361",
+        "shared_name" : "426",
+        "DepMap_ID" : "ACH-000836",
+        "Primary_Disease" : "Head and Neck Cancer",
+        "name" : "426",
+        "Subtype_Disease" : "Carcinoma, mucoepidermoid",
+        "SUID" : 361,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -106.24588115467878,
+        "y" : 1923.3955133892948
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "359",
+        "shared_name" : "569",
+        "DepMap_ID" : "ACH-001346",
+        "Primary_Disease" : "Head and Neck Cancer",
+        "name" : "569",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 359,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -746.6307147034895,
+        "y" : 2096.4893161718765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "shared_name" : "301",
+        "DepMap_ID" : "ACH-000606",
+        "Primary_Disease" : "Head and Neck Cancer",
+        "name" : "301",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 357,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -558.5938608495023,
+        "y" : 2095.9686259079676
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "shared_name" : "422",
+        "DepMap_ID" : "ACH-000832",
+        "Primary_Disease" : "Head and Neck Cancer",
+        "name" : "422",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 356,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -691.4056114162396,
+        "y" : 2150.5673496162976
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "shared_name" : "285",
+        "DepMap_ID" : "ACH-000573",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "285",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 354,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -503.74370107306953,
+        "y" : 2751.2502172650356
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "shared_name" : "414",
+        "DepMap_ID" : "ACH-000820",
+        "Primary_Disease" : "Colon/Colorectal Cancer",
+        "name" : "414",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 353,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -644.4444792573903,
+        "y" : 2593.291062207825
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "shared_name" : "417",
+        "DepMap_ID" : "ACH-000823",
+        "Primary_Disease" : "Esophageal Cancer",
+        "name" : "417",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 351,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1018.326108006082,
+        "y" : 1769.988621822762
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "shared_name" : "396",
+        "DepMap_ID" : "ACH-000788",
+        "Primary_Disease" : "Skin Cancer",
+        "name" : "396",
+        "Subtype_Disease" : "Melanoma",
+        "SUID" : 348,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -923.4754187682786,
+        "y" : -1323.0843828188792
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "shared_name" : "314",
+        "DepMap_ID" : "ACH-000632",
+        "Primary_Disease" : "Skin Cancer",
+        "name" : "314",
+        "Subtype_Disease" : "Melanoma",
+        "SUID" : 347,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1053.6032871312025,
+        "y" : -1356.968587700528
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "shared_name" : "353",
+        "DepMap_ID" : "ACH-000711",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "353",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 345,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1100.9397984307122,
+        "y" : 2496.379713306339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "shared_name" : "311",
+        "DepMap_ID" : "ACH-000624",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "311",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 344,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1072.6394449511372,
+        "y" : 2566.7748166037914
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "shared_name" : "616",
+        "DepMap_ID" : "ACH-001736",
+        "Primary_Disease" : "Leukemia",
+        "name" : "616",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 342,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 459.25470906865525,
+        "y" : 1300.343295717998
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "shared_name" : "391",
+        "DepMap_ID" : "ACH-000782",
+        "Primary_Disease" : "Leukemia",
+        "name" : "391",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 340,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 410.2583320306092,
+        "y" : 1390.2625464303696
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "shared_name" : "615",
+        "DepMap_ID" : "ACH-001735",
+        "Primary_Disease" : "Leukemia",
+        "name" : "615",
+        "Subtype_Disease" : "ALL",
+        "SUID" : 338,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 284.83482271225336,
+        "y" : 1283.2960928900006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "shared_name" : "319",
+        "DepMap_ID" : "ACH-000646",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "319",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 336,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1308.421495300046,
+        "y" : -567.2068639400513
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "shared_name" : "263",
+        "DepMap_ID" : "ACH-000517",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "263",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 334,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 132.08471402451204,
+        "y" : 2096.4893161718765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "shared_name" : "268",
+        "DepMap_ID" : "ACH-000524",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "268",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 333,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 106.69942332594309,
+        "y" : 2146.344610574604
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "shared_name" : "474",
+        "DepMap_ID" : "ACH-000914",
+        "Primary_Disease" : "Lymphoma",
+        "name" : "474",
+        "Subtype_Disease" : "Non-Hodgkins, B-cell",
+        "SUID" : 331,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -254.62843292443569,
+        "y" : 2195.245175090613
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "shared_name" : "176",
+        "DepMap_ID" : "ACH-000365",
+        "Primary_Disease" : "Lymphoma",
+        "name" : "176",
+        "Subtype_Disease" : "Non-Hodgkins, B-cell",
+        "SUID" : 330,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -254.48097463543826,
+        "y" : 2096.4893161718765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "shared_name" : "382",
+        "DepMap_ID" : "ACH-000768",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "382",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 328,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 214.1292749247147,
+        "y" : -591.446808990845
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "shared_name" : "373",
+        "DepMap_ID" : "ACH-000757",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "373",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 325,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1431.4896977530948,
+        "y" : -1492.1022282796212
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "shared_name" : "341",
+        "DepMap_ID" : "ACH-000684",
+        "Primary_Disease" : "Kidney Cancer",
+        "name" : "341",
+        "Subtype_Disease" : "Renal Carcinoma, clear cell",
+        "SUID" : 321,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 201.79094056770185,
+        "y" : 1642.3547275290339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "shared_name" : "249",
+        "DepMap_ID" : "ACH-000495",
+        "Primary_Disease" : "Kidney Cancer",
+        "name" : "249",
+        "Subtype_Disease" : "Renal Cell Carcinoma",
+        "SUID" : 319,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 132.40929832349238,
+        "y" : 1694.3498901332894
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "shared_name" : "322",
+        "DepMap_ID" : "ACH-000649",
+        "Primary_Disease" : "Kidney Cancer",
+        "name" : "322",
+        "Subtype_Disease" : "Renal Carcinoma, clear cell",
+        "SUID" : 317,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 372.6834922150934,
+        "y" : 1541.6386858798248
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "shared_name" : "109",
+        "DepMap_ID" : "ACH-000250",
+        "Primary_Disease" : "Kidney Cancer",
+        "name" : "109",
+        "Subtype_Disease" : "Renal Cell Carcinoma",
+        "SUID" : 316,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 459.8572871790512,
+        "y" : 1490.2625464303696
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "shared_name" : "534",
+        "DepMap_ID" : "ACH-001173",
+        "Primary_Disease" : "Brain Cancer",
+        "name" : "534",
+        "Subtype_Disease" : "Medulloblastoma",
+        "SUID" : 313,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -945.5457309807919,
+        "y" : -1919.4590507566058
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "shared_name" : "516",
+        "DepMap_ID" : "ACH-001001",
+        "Primary_Disease" : "Bone Cancer",
+        "name" : "516",
+        "Subtype_Disease" : "Osteosarcoma",
+        "SUID" : 311,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -824.2111015985004,
+        "y" : -1953.691793363506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "shared_name" : "421",
+        "DepMap_ID" : "ACH-000831",
+        "Primary_Disease" : "Endometrial/Uterine Cancer",
+        "name" : "421",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 309,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -987.0731367658179,
+        "y" : -1928.397056341821
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "shared_name" : "438",
+        "DepMap_ID" : "ACH-000853",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "438",
+        "Subtype_Disease" : "NSCLC-Large Cell",
+        "SUID" : 307,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -958.8050316760475,
+        "y" : -1868.096251924575
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "shared_name" : "327",
+        "DepMap_ID" : "ACH-000655",
+        "Primary_Disease" : "Brain Cancer",
+        "name" : "327",
+        "Subtype_Disease" : "Glioma",
+        "SUID" : 305,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -849.8636598239793,
+        "y" : -1979.1357719820594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "shared_name" : "159",
+        "DepMap_ID" : "ACH-000331",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "159",
+        "Subtype_Disease" : "Mesothelioma",
+        "SUID" : 303,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -921.7537537851642,
+        "y" : -1957.51220204037
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "shared_name" : "128",
+        "DepMap_ID" : "ACH-000278",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "128",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 301,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -895.6209580888283,
+        "y" : -1989.5203553493084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "shared_name" : "346",
+        "DepMap_ID" : "ACH-000696",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "346",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 299,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -872.8543271490482,
+        "y" : -1820.7488578712087
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "shared_name" : "96",
+        "DepMap_ID" : "ACH-000227",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "96",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 298,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -864.2245328367374,
+        "y" : -2088.6741318815307
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "shared_name" : "81",
+        "DepMap_ID" : "ACH-000190",
+        "Primary_Disease" : "Lymphoma",
+        "name" : "81",
+        "Subtype_Disease" : "Hodgkins",
+        "SUID" : 276,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -637.9176698363297,
+        "y" : 1490.2625464303696
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "shared_name" : "488",
+        "DepMap_ID" : "ACH-000939",
+        "Primary_Disease" : "Sarcoma",
+        "name" : "488",
+        "Subtype_Disease" : "Leiomyosarcoma",
+        "SUID" : 274,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -373.0741837693676,
+        "y" : 1862.5485988808123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "shared_name" : "343",
+        "DepMap_ID" : "ACH-000693",
+        "Primary_Disease" : "Esophageal Cancer",
+        "name" : "343",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 271,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -862.3654440905703,
+        "y" : 1703.297735048073
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "shared_name" : "603",
+        "DepMap_ID" : "ACH-001550",
+        "Primary_Disease" : "Skin Cancer",
+        "name" : "603",
+        "Subtype_Disease" : "Merkel Cell Carcinoma",
+        "SUID" : 269,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -654.0228638570077,
+        "y" : 1765.3241488144688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "shared_name" : "594",
+        "DepMap_ID" : "ACH-001496",
+        "Primary_Disease" : "Esophageal Cancer",
+        "name" : "594",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 267,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -574.6466911590733,
+        "y" : 1996.4893161718762
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "shared_name" : "344",
+        "DepMap_ID" : "ACH-000694",
+        "Primary_Disease" : "Esophageal Cancer",
+        "name" : "344",
+        "Subtype_Disease" : "Squamous Cell Carcinoma",
+        "SUID" : 265,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -835.4127991080317,
+        "y" : 1768.2629505255509
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "shared_name" : "70",
+        "DepMap_ID" : "ACH-000160",
+        "Primary_Disease" : "Rhabdoid",
+        "name" : "70",
+        "Subtype_Disease" : "Atypical Teratoid Rhabdoid Tumor (ATRT)",
+        "SUID" : 264,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -695.8244398799659,
+        "y" : 1816.7874958942637
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "shared_name" : "468",
+        "DepMap_ID" : "ACH-000906",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "468",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 262,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1010.1035250316913,
+        "y" : -184.25873701174163
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "shared_name" : "466",
+        "DepMap_ID" : "ACH-000901",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "466",
+        "Subtype_Disease" : "NSCLC-Large Cell",
+        "SUID" : 260,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1007.8774182419006,
+        "y" : -371.9137334759634
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "shared_name" : "64",
+        "DepMap_ID" : "ACH-000148",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "64",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 258,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -762.7182849653402,
+        "y" : -399.28173295286473
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "shared_name" : "282",
+        "DepMap_ID" : "ACH-000557",
+        "Primary_Disease" : "Leukemia",
+        "name" : "282",
+        "Subtype_Disease" : "AML",
+        "SUID" : 256,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -70.00022186228188,
+        "y" : 1115.3697974225418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "shared_name" : "585",
+        "DepMap_ID" : "ACH-001413",
+        "Primary_Disease" : "Bladder Cancer",
+        "name" : "585",
+        "Subtype_Disease" : "Transitional Cell Carcinoma",
+        "SUID" : 248,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1113.532320787575,
+        "y" : -1098.2570909496658
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "shared_name" : "552",
+        "DepMap_ID" : "ACH-001280",
+        "Primary_Disease" : "Sarcoma",
+        "name" : "552",
+        "Subtype_Disease" : "Synovial",
+        "SUID" : 246,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1288.976324797633,
+        "y" : -953.319248438662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "shared_name" : "536",
+        "DepMap_ID" : "ACH-001184",
+        "Primary_Disease" : "Sarcoma",
+        "name" : "536",
+        "Subtype_Disease" : "Rhabdomyosarcoma",
+        "SUID" : 244,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1028.085336890345,
+        "y" : -954.1511734000071
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "shared_name" : "510",
+        "DepMap_ID" : "ACH-000984",
+        "Primary_Disease" : "Endometrial/Uterine Cancer",
+        "name" : "510",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 242,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1008.1769769543648,
+        "y" : -1048.9443747807436
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "shared_name" : "465",
+        "DepMap_ID" : "ACH-000900",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "465",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 240,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1167.2193175953676,
+        "y" : -1289.3997415109034
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "shared_name" : "403",
+        "DepMap_ID" : "ACH-000799",
+        "Primary_Disease" : "Skin Cancer",
+        "name" : "403",
+        "Subtype_Disease" : "Melanoma",
+        "SUID" : 238,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1188.395472830612,
+        "y" : -1105.6952162638704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "shared_name" : "348",
+        "DepMap_ID" : "ACH-000699",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "348",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 235,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1042.1945036596248,
+        "y" : -1104.2902644129192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "shared_name" : "269",
+        "DepMap_ID" : "ACH-000527",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "269",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 233,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1111.2479872598192,
+        "y" : -967.74192412364
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "shared_name" : "254",
+        "DepMap_ID" : "ACH-000502",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "254",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 231,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 891.6037395729688,
+        "y" : -1299.8991951454364
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "shared_name" : "122",
+        "DepMap_ID" : "ACH-000265",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "122",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 226,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1170.707979739133,
+        "y" : -1433.8288933471733
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "shared_name" : "65",
+        "DepMap_ID" : "ACH-000150",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "65",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 221,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 992.2204523684818,
+        "y" : -748.6755590348703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "shared_name" : "51",
+        "DepMap_ID" : "ACH-000118",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "51",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 219,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1089.8780616324598,
+        "y" : -1261.927376753403
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "shared_name" : "620",
+        "DepMap_ID" : "ACH-001750",
+        "Primary_Disease" : "Sarcoma",
+        "name" : "620",
+        "Subtype_Disease" : "Rhabdomyosarcoma",
+        "SUID" : 216,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -894.1668936868471,
+        "y" : -766.5256854898037
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "shared_name" : "601",
+        "DepMap_ID" : "ACH-001532",
+        "Primary_Disease" : "Rhabdoid",
+        "name" : "601",
+        "Subtype_Disease" : "Malignant Rhabdoid Tumor",
+        "SUID" : 214,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -775.3585025611408,
+        "y" : -698.5149862531287
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "shared_name" : "564",
+        "DepMap_ID" : "ACH-001329",
+        "Primary_Disease" : "Brain Cancer",
+        "name" : "564",
+        "Subtype_Disease" : "Glioblastoma",
+        "SUID" : 212,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -839.1931943753445,
+        "y" : -749.9900448537937
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "shared_name" : "527",
+        "DepMap_ID" : "ACH-001067",
+        "Primary_Disease" : "Brain Cancer",
+        "name" : "527",
+        "Subtype_Disease" : "Meningioma",
+        "SUID" : 209,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -687.4389982461969,
+        "y" : -648.7951307659628
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "shared_name" : "500",
+        "DepMap_ID" : "ACH-000965",
+        "Primary_Disease" : "Endometrial/Uterine Cancer",
+        "name" : "500",
+        "Subtype_Disease" : "Adenosquamous Carcinoma",
+        "SUID" : 207,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -858.1118918077789,
+        "y" : -818.8851828198021
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "shared_name" : "492",
+        "DepMap_ID" : "ACH-000947",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "492",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 205,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -752.2027497628967,
+        "y" : -546.8028602810832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "shared_name" : "457",
+        "DepMap_ID" : "ACH-000885",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "457",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 203,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -853.098190253693,
+        "y" : -702.3403982222108
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "shared_name" : "135",
+        "DepMap_ID" : "ACH-000292",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "135",
+        "Subtype_Disease" : "SCLC",
+        "SUID" : 201,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -866.4134211402704,
+        "y" : -627.0284652904024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "shared_name" : "130",
+        "DepMap_ID" : "ACH-000280",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "130",
+        "Subtype_Disease" : "Carcinoma, brenner",
+        "SUID" : 199,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -717.2421045762301,
+        "y" : -676.9448326034633
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "shared_name" : "92",
+        "DepMap_ID" : "ACH-000221",
+        "Primary_Disease" : "Liver Cancer",
+        "name" : "92",
+        "Subtype_Disease" : "Hepatocellular Carcinoma",
+        "SUID" : 197,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -770.223765125176,
+        "y" : -616.6692951935679
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "shared_name" : "555",
+        "DepMap_ID" : "ACH-001295",
+        "Primary_Disease" : "Eye Cancer",
+        "name" : "555",
+        "Subtype_Disease" : "Retinoblastoma",
+        "SUID" : 195,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -731.2974650265721,
+        "y" : -1272.570668938459
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "shared_name" : "328",
+        "DepMap_ID" : "ACH-000657",
+        "Primary_Disease" : "Ovarian Cancer",
+        "name" : "328",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 193,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -732.4605625999068,
+        "y" : -811.3704049189298
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "shared_name" : "407",
+        "DepMap_ID" : "ACH-000804",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "407",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 188,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 192.6455472158829,
+        "y" : -998.8959002374811
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "shared_name" : "165",
+        "DepMap_ID" : "ACH-000339",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "165",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 184,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 278.99570487066165,
+        "y" : -783.1245184464372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "shared_name" : "42",
+        "DepMap_ID" : "ACH-000095",
+        "Primary_Disease" : "Brain Cancer",
+        "name" : "42",
+        "Subtype_Disease" : "Medulloblastoma",
+        "SUID" : 181,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -382.12334418834536,
+        "y" : -1081.9947764410151
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "shared_name" : "116",
+        "DepMap_ID" : "ACH-000259",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "116",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 177,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 601.1015960284919,
+        "y" : -1135.3708437566358
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "shared_name" : "46",
+        "DepMap_ID" : "ACH-000099",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "46",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 173,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 689.9595088225585,
+        "y" : -1154.8369073466297
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "shared_name" : "36",
+        "DepMap_ID" : "ACH-000078",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "36",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 172,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 569.3175682922663,
+        "y" : -1124.6584496513894
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "shared_name" : "185",
+        "DepMap_ID" : "ACH-000387",
+        "Primary_Disease" : "Leukemia",
+        "name" : "185",
+        "Subtype_Disease" : "AML",
+        "SUID" : 169,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -741.8927273174309,
+        "y" : 655.5477685384928
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "shared_name" : "63",
+        "DepMap_ID" : "ACH-000146",
+        "Primary_Disease" : "Leukemia",
+        "name" : "63",
+        "Subtype_Disease" : "AML",
+        "SUID" : 167,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -669.947149395714,
+        "y" : 858.4087330751131
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "shared_name" : "386",
+        "DepMap_ID" : "ACH-000773",
+        "Primary_Disease" : "Lymphoma",
+        "name" : "386",
+        "Subtype_Disease" : "Non-Hodgkins, T-cell",
+        "SUID" : 165,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -682.6498083441754,
+        "y" : 410.84485379793756
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "shared_name" : "29",
+        "DepMap_ID" : "ACH-000053",
+        "Primary_Disease" : "Lymphoma",
+        "name" : "29",
+        "Subtype_Disease" : "Non-Hodgkins, T-cell",
+        "SUID" : 163,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -666.1083437879145,
+        "y" : 592.2684860252148
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "shared_name" : "384",
+        "DepMap_ID" : "ACH-000770",
+        "Primary_Disease" : "Leukemia",
+        "name" : "384",
+        "Subtype_Disease" : "AML",
+        "SUID" : 161,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -559.0669216441377,
+        "y" : 882.814216662895
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "shared_name" : "195",
+        "DepMap_ID" : "ACH-000406",
+        "Primary_Disease" : "Leukemia",
+        "name" : "195",
+        "Subtype_Disease" : "AML",
+        "SUID" : 159,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -657.6471688130205,
+        "y" : 759.3599084952323
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "shared_name" : "137",
+        "DepMap_ID" : "ACH-000294",
+        "Primary_Disease" : "Leukemia",
+        "name" : "137",
+        "Subtype_Disease" : "AML",
+        "SUID" : 157,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1053.6032871312025,
+        "y" : 1120.4203446197641
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "shared_name" : "173",
+        "DepMap_ID" : "ACH-000362",
+        "Primary_Disease" : "Leukemia",
+        "name" : "173",
+        "Subtype_Disease" : "AML",
+        "SUID" : 155,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -726.873460288879,
+        "y" : 912.2488301510984
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "shared_name" : "26",
+        "DepMap_ID" : "ACH-000045",
+        "Primary_Disease" : "Leukemia",
+        "name" : "26",
+        "Subtype_Disease" : "AML",
+        "SUID" : 154,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -842.1194177160869,
+        "y" : 1009.6540448853198
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "shared_name" : "338",
+        "DepMap_ID" : "ACH-000681",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "338",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 151,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 657.7923705991568,
+        "y" : -1487.099323239907
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "shared_name" : "146",
+        "DepMap_ID" : "ACH-000312",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "146",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 138,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 726.3740583522783,
+        "y" : -1268.0744506413469
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "shared_name" : "144",
+        "DepMap_ID" : "ACH-000310",
+        "Primary_Disease" : "Neuroblastoma",
+        "name" : "144",
+        "Subtype_Disease" : "Neuroblastoma",
+        "SUID" : 135,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 455.6568738653238,
+        "y" : -1195.3253540524486
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "shared_name" : "570",
+        "DepMap_ID" : "ACH-001353",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "570",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 127,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 821.5609761327239,
+        "y" : -1921.6235991282438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "shared_name" : "431",
+        "DepMap_ID" : "ACH-000841",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "431",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 125,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 988.4909459232208,
+        "y" : -1730.3706506147785
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "shared_name" : "398",
+        "DepMap_ID" : "ACH-000791",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "398",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 123,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 977.8949378480852,
+        "y" : -1573.0985166596151
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "shared_name" : "317",
+        "DepMap_ID" : "ACH-000638",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "317",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 121,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1091.3572957003666,
+        "y" : -1634.0434214390455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "shared_name" : "250",
+        "DepMap_ID" : "ACH-000496",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "250",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 119,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 862.5647311134724,
+        "y" : -1943.6866416184757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "200",
+        "DepMap_ID" : "ACH-000414",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "200",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 117,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 822.8112904930156,
+        "y" : -1432.8969876214394
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "184",
+        "DepMap_ID" : "ACH-000383",
+        "Primary_Disease" : "Esophageal Cancer",
+        "name" : "184",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 115,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 860.4724041623747,
+        "y" : -1897.957181701965
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "59",
+        "DepMap_ID" : "ACH-000138",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "59",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 106,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 788.7991728848635,
+        "y" : -1709.029047428839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "47",
+        "DepMap_ID" : "ACH-000108",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "47",
+        "Subtype_Disease" : "Adenosquamous Carcinoma",
+        "SUID" : 104,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 870.6078228655576,
+        "y" : -1445.8900429005746
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "131",
+        "DepMap_ID" : "ACH-000281",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "131",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 102,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 619.5848185434495,
+        "y" : -1720.4347215960272
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "390",
+        "DepMap_ID" : "ACH-000781",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "390",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 100,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 769.8950956487622,
+        "y" : -1418.4357513097032
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "160",
+        "DepMap_ID" : "ACH-000332",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "160",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 98,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 768.54316744531,
+        "y" : -1519.0891098015736
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "123",
+        "DepMap_ID" : "ACH-000266",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "123",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 96,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 773.5743892410535,
+        "y" : -1485.6972335956436
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "25",
+        "DepMap_ID" : "ACH-000042",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "25",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 94,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 737.3151277368622,
+        "y" : -1600.1171120019105
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "298",
+        "DepMap_ID" : "ACH-000601",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "298",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 92,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 951.4515094959638,
+        "y" : -1268.242842370321
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "102",
+        "DepMap_ID" : "ACH-000235",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "102",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 866.8735385429097,
+        "y" : -1655.808547038641
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "152",
+        "DepMap_ID" : "ACH-000320",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "152",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 88,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 939.910212227895,
+        "y" : -1427.8753978268046
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "145",
+        "DepMap_ID" : "ACH-000311",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "145",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 86,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 865.0911230356749,
+        "y" : -1512.171138686274
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "105",
+        "DepMap_ID" : "ACH-000243",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "105",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 84,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 927.8781625518329,
+        "y" : -1539.4507490222104
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "93",
+        "DepMap_ID" : "ACH-000222",
+        "Primary_Disease" : "Pancreatic Cancer",
+        "name" : "93",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 82,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1037.099569411273,
+        "y" : -1436.640174876241
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "84",
+        "DepMap_ID" : "ACH-000202",
+        "Primary_Disease" : "Colon/Colorectal Cancer",
+        "name" : "84",
+        "Subtype_Disease" : "Adenocarcinoma",
+        "SUID" : 80,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1291.2909450501443,
+        "y" : -1569.6954547810114
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "427",
+        "DepMap_ID" : "ACH-000837",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "427",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 78,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 978.6215548429295,
+        "y" : -1605.3310133668751
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "13",
+        "DepMap_ID" : "ACH-000021",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "13",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 77,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1098.2469288131038,
+        "y" : -1848.5544221741575
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "16",
+        "DepMap_ID" : "ACH-000028",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "16",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 75,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -63.27806021092016,
+        "y" : 2096.4893161718765
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "12",
+        "DepMap_ID" : "ACH-000019",
+        "Primary_Disease" : "Breast Cancer",
+        "name" : "12",
+        "Subtype_Disease" : "Carcinoma",
+        "SUID" : 74,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -154.48097463543826,
+        "y" : 2269.8333861843894
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "17",
+        "DepMap_ID" : "ACH-000029",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "17",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 72,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -422.8606777668487,
+        "y" : 2163.2890807065996
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "6",
+        "DepMap_ID" : "ACH-000012",
+        "Primary_Disease" : "Lung Cancer",
+        "name" : "6",
+        "Subtype_Disease" : "NSCLC-Adenocarcinoma",
+        "SUID" : 71,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -439.4947427457379,
+        "y" : 2233.466517988715
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "382",
+        "source" : "380",
+        "target" : "381",
+        "shared_name" : "618 (interacts with) 619",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.815150741853,
+        "name" : "618 (interacts with) 619",
+        "interaction" : "interacts with",
+        "SUID" : 382,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "379",
+        "source" : "377",
+        "target" : "378",
+        "shared_name" : "581 (interacts with) 605",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.813703696902,
+        "name" : "581 (interacts with) 605",
+        "interaction" : "interacts with",
+        "SUID" : 379,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "374",
+        "source" : "373",
+        "target" : "371",
+        "shared_name" : "487 (interacts with) 498",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.789673611767,
+        "name" : "487 (interacts with) 498",
+        "interaction" : "interacts with",
+        "SUID" : 374,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "372",
+        "source" : "368",
+        "target" : "371",
+        "shared_name" : "486 (interacts with) 498",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.805862457423,
+        "name" : "486 (interacts with) 498",
+        "interaction" : "interacts with",
+        "SUID" : 372,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "370",
+        "source" : "368",
+        "target" : "369",
+        "shared_name" : "486 (interacts with) 495",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.814556116911,
+        "name" : "486 (interacts with) 495",
+        "interaction" : "interacts with",
+        "SUID" : 370,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "367",
+        "source" : "365",
+        "target" : "366",
+        "shared_name" : "429 (interacts with) 401",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.780865742731,
+        "name" : "429 (interacts with) 401",
+        "interaction" : "interacts with",
+        "SUID" : 367,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "364",
+        "source" : "361",
+        "target" : "274",
+        "shared_name" : "426 (interacts with) 488",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.746266634148,
+        "name" : "426 (interacts with) 488",
+        "interaction" : "interacts with",
+        "SUID" : 364,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "source" : "361",
+        "target" : "362",
+        "shared_name" : "426 (interacts with) 363",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.774374842663,
+        "name" : "426 (interacts with) 363",
+        "interaction" : "interacts with",
+        "SUID" : 363,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "360",
+        "source" : "356",
+        "target" : "359",
+        "shared_name" : "422 (interacts with) 569",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.804598106533,
+        "name" : "422 (interacts with) 569",
+        "interaction" : "interacts with",
+        "SUID" : 360,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "source" : "356",
+        "target" : "357",
+        "shared_name" : "422 (interacts with) 301",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.804417312177,
+        "name" : "422 (interacts with) 301",
+        "interaction" : "interacts with",
+        "SUID" : 358,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "353",
+        "target" : "354",
+        "shared_name" : "414 (interacts with) 285",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.715665360128,
+        "name" : "414 (interacts with) 285",
+        "interaction" : "interacts with",
+        "SUID" : 355,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "source" : "348",
+        "target" : "195",
+        "shared_name" : "396 (interacts with) 555",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.805372468539,
+        "name" : "396 (interacts with) 555",
+        "interaction" : "interacts with",
+        "SUID" : 350,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "source" : "347",
+        "target" : "348",
+        "shared_name" : "314 (interacts with) 396",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.829321539644,
+        "name" : "314 (interacts with) 396",
+        "interaction" : "interacts with",
+        "SUID" : 349,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "344",
+        "target" : "345",
+        "shared_name" : "311 (interacts with) 353",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.844613367042,
+        "name" : "311 (interacts with) 353",
+        "interaction" : "interacts with",
+        "SUID" : 346,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "338",
+        "target" : "342",
+        "shared_name" : "615 (interacts with) 616",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.792106817542,
+        "name" : "615 (interacts with) 616",
+        "interaction" : "interacts with",
+        "SUID" : 343,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "338",
+        "target" : "340",
+        "shared_name" : "615 (interacts with) 391",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.778445246047,
+        "name" : "615 (interacts with) 391",
+        "interaction" : "interacts with",
+        "SUID" : 341,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "source" : "333",
+        "target" : "334",
+        "shared_name" : "268 (interacts with) 263",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.81758994199,
+        "name" : "268 (interacts with) 263",
+        "interaction" : "interacts with",
+        "SUID" : 335,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "source" : "330",
+        "target" : "331",
+        "shared_name" : "176 (interacts with) 474",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.813329202522,
+        "name" : "176 (interacts with) 474",
+        "interaction" : "interacts with",
+        "SUID" : 332,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "317",
+        "target" : "321",
+        "shared_name" : "322 (interacts with) 341",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.750232702737,
+        "name" : "322 (interacts with) 341",
+        "interaction" : "interacts with",
+        "SUID" : 322,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "317",
+        "target" : "319",
+        "shared_name" : "322 (interacts with) 249",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.741879806847,
+        "name" : "322 (interacts with) 249",
+        "interaction" : "interacts with",
+        "SUID" : 320,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "316",
+        "target" : "317",
+        "shared_name" : "109 (interacts with) 322",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.825507065709,
+        "name" : "109 (interacts with) 322",
+        "interaction" : "interacts with",
+        "SUID" : 318,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "source" : "299",
+        "target" : "195",
+        "shared_name" : "346 (interacts with) 555",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.802856680923,
+        "name" : "346 (interacts with) 555",
+        "interaction" : "interacts with",
+        "SUID" : 315,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "299",
+        "target" : "313",
+        "shared_name" : "346 (interacts with) 534",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.840778469551,
+        "name" : "346 (interacts with) 534",
+        "interaction" : "interacts with",
+        "SUID" : 314,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "source" : "299",
+        "target" : "311",
+        "shared_name" : "346 (interacts with) 516",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.820804289735,
+        "name" : "346 (interacts with) 516",
+        "interaction" : "interacts with",
+        "SUID" : 312,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "299",
+        "target" : "309",
+        "shared_name" : "346 (interacts with) 421",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.813494899701,
+        "name" : "346 (interacts with) 421",
+        "interaction" : "interacts with",
+        "SUID" : 310,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "source" : "299",
+        "target" : "307",
+        "shared_name" : "346 (interacts with) 438",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.877214362167,
+        "name" : "346 (interacts with) 438",
+        "interaction" : "interacts with",
+        "SUID" : 308,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "source" : "299",
+        "target" : "305",
+        "shared_name" : "346 (interacts with) 327",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.811068251082,
+        "name" : "346 (interacts with) 327",
+        "interaction" : "interacts with",
+        "SUID" : 306,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "source" : "299",
+        "target" : "303",
+        "shared_name" : "346 (interacts with) 159",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.821694837215,
+        "name" : "346 (interacts with) 159",
+        "interaction" : "interacts with",
+        "SUID" : 304,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "source" : "299",
+        "target" : "301",
+        "shared_name" : "346 (interacts with) 128",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.805147075879,
+        "name" : "346 (interacts with) 128",
+        "interaction" : "interacts with",
+        "SUID" : 302,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "298",
+        "target" : "299",
+        "shared_name" : "96 (interacts with) 346",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.754421361489,
+        "name" : "96 (interacts with) 346",
+        "interaction" : "interacts with",
+        "SUID" : 300,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "source" : "271",
+        "target" : "351",
+        "shared_name" : "343 (interacts with) 417",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.82882283762,
+        "name" : "343 (interacts with) 417",
+        "interaction" : "interacts with",
+        "SUID" : 352,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "269",
+        "target" : "274",
+        "shared_name" : "603 (interacts with) 488",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.743741364343,
+        "name" : "603 (interacts with) 488",
+        "interaction" : "interacts with",
+        "SUID" : 278,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "269",
+        "target" : "276",
+        "shared_name" : "603 (interacts with) 81",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.738638081216,
+        "name" : "603 (interacts with) 81",
+        "interaction" : "interacts with",
+        "SUID" : 277,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "267",
+        "target" : "274",
+        "shared_name" : "594 (interacts with) 488",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.740872289886,
+        "name" : "594 (interacts with) 488",
+        "interaction" : "interacts with",
+        "SUID" : 275,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "265",
+        "target" : "269",
+        "shared_name" : "344 (interacts with) 603",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.878705548731,
+        "name" : "344 (interacts with) 603",
+        "interaction" : "interacts with",
+        "SUID" : 273,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "source" : "265",
+        "target" : "271",
+        "shared_name" : "344 (interacts with) 343",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.836058464014,
+        "name" : "344 (interacts with) 343",
+        "interaction" : "interacts with",
+        "SUID" : 272,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "264",
+        "target" : "269",
+        "shared_name" : "70 (interacts with) 603",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.935339120287,
+        "name" : "70 (interacts with) 603",
+        "interaction" : "interacts with",
+        "SUID" : 270,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "264",
+        "target" : "267",
+        "shared_name" : "70 (interacts with) 594",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.751176963769,
+        "name" : "70 (interacts with) 594",
+        "interaction" : "interacts with",
+        "SUID" : 268,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "264",
+        "target" : "265",
+        "shared_name" : "70 (interacts with) 344",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.844488771416,
+        "name" : "70 (interacts with) 344",
+        "interaction" : "interacts with",
+        "SUID" : 266,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "260",
+        "target" : "262",
+        "shared_name" : "466 (interacts with) 468",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.831021047244,
+        "name" : "466 (interacts with) 468",
+        "interaction" : "interacts with",
+        "SUID" : 263,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "258",
+        "target" : "205",
+        "shared_name" : "64 (interacts with) 492",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.895637653554,
+        "name" : "64 (interacts with) 492",
+        "interaction" : "interacts with",
+        "SUID" : 259,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "256",
+        "target" : "338",
+        "shared_name" : "282 (interacts with) 615",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.727341189853,
+        "name" : "282 (interacts with) 615",
+        "interaction" : "interacts with",
+        "SUID" : 339,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "233",
+        "target" : "336",
+        "shared_name" : "269 (interacts with) 319",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.725963739224,
+        "name" : "269 (interacts with) 319",
+        "interaction" : "interacts with",
+        "SUID" : 337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "231",
+        "target" : "82",
+        "shared_name" : "254 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.751123464865,
+        "name" : "254 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 252,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "source" : "226",
+        "target" : "240",
+        "shared_name" : "122 (interacts with) 465",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.799383282713,
+        "name" : "122 (interacts with) 465",
+        "interaction" : "interacts with",
+        "SUID" : 327,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "226",
+        "target" : "325",
+        "shared_name" : "122 (interacts with) 373",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.784879849878,
+        "name" : "122 (interacts with) 373",
+        "interaction" : "interacts with",
+        "SUID" : 326,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "226",
+        "target" : "121",
+        "shared_name" : "122 (interacts with) 317",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.798937094077,
+        "name" : "122 (interacts with) 317",
+        "interaction" : "interacts with",
+        "SUID" : 324,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "226",
+        "target" : "88",
+        "shared_name" : "122 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.76346756455,
+        "name" : "122 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 323,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "221",
+        "target" : "260",
+        "shared_name" : "65 (interacts with) 466",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.768844153824,
+        "name" : "65 (interacts with) 466",
+        "interaction" : "interacts with",
+        "SUID" : 261,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "219",
+        "target" : "88",
+        "shared_name" : "51 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.758205303317,
+        "name" : "51 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 253,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "376",
+        "source" : "195",
+        "target" : "375",
+        "shared_name" : "555 (interacts with) 447",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.802696772313,
+        "name" : "555 (interacts with) 447",
+        "interaction" : "interacts with",
+        "SUID" : 376,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "source" : "193",
+        "target" : "216",
+        "shared_name" : "328 (interacts with) 620",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.803571213458,
+        "name" : "328 (interacts with) 620",
+        "interaction" : "interacts with",
+        "SUID" : 217,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "193",
+        "target" : "214",
+        "shared_name" : "328 (interacts with) 601",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.839193305628,
+        "name" : "328 (interacts with) 601",
+        "interaction" : "interacts with",
+        "SUID" : 215,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "193",
+        "target" : "212",
+        "shared_name" : "328 (interacts with) 564",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.833878434037,
+        "name" : "328 (interacts with) 564",
+        "interaction" : "interacts with",
+        "SUID" : 213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "193",
+        "target" : "195",
+        "shared_name" : "328 (interacts with) 555",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.805264483856,
+        "name" : "328 (interacts with) 555",
+        "interaction" : "interacts with",
+        "SUID" : 211,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "193",
+        "target" : "209",
+        "shared_name" : "328 (interacts with) 527",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.802552297976,
+        "name" : "328 (interacts with) 527",
+        "interaction" : "interacts with",
+        "SUID" : 210,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "193",
+        "target" : "207",
+        "shared_name" : "328 (interacts with) 500",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.833855222048,
+        "name" : "328 (interacts with) 500",
+        "interaction" : "interacts with",
+        "SUID" : 208,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "193",
+        "target" : "205",
+        "shared_name" : "328 (interacts with) 492",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.834392125541,
+        "name" : "328 (interacts with) 492",
+        "interaction" : "interacts with",
+        "SUID" : 206,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "193",
+        "target" : "203",
+        "shared_name" : "328 (interacts with) 457",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.808565492621,
+        "name" : "328 (interacts with) 457",
+        "interaction" : "interacts with",
+        "SUID" : 204,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "193",
+        "target" : "201",
+        "shared_name" : "328 (interacts with) 135",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.771194239487,
+        "name" : "328 (interacts with) 135",
+        "interaction" : "interacts with",
+        "SUID" : 202,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "193",
+        "target" : "199",
+        "shared_name" : "328 (interacts with) 130",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.821324192912,
+        "name" : "328 (interacts with) 130",
+        "interaction" : "interacts with",
+        "SUID" : 200,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "193",
+        "target" : "197",
+        "shared_name" : "328 (interacts with) 92",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.785006821086,
+        "name" : "328 (interacts with) 92",
+        "interaction" : "interacts with",
+        "SUID" : 198,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "source" : "184",
+        "target" : "328",
+        "shared_name" : "165 (interacts with) 382",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.828354398894,
+        "name" : "165 (interacts with) 382",
+        "interaction" : "interacts with",
+        "SUID" : 329,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "181",
+        "target" : "195",
+        "shared_name" : "42 (interacts with) 555",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.812786690344,
+        "name" : "42 (interacts with) 555",
+        "interaction" : "interacts with",
+        "SUID" : 196,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "181",
+        "target" : "193",
+        "shared_name" : "42 (interacts with) 328",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.813977896412,
+        "name" : "42 (interacts with) 328",
+        "interaction" : "interacts with",
+        "SUID" : 194,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "173",
+        "target" : "135",
+        "shared_name" : "46 (interacts with) 144",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.768379984967,
+        "name" : "46 (interacts with) 144",
+        "interaction" : "interacts with",
+        "SUID" : 180,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "173",
+        "target" : "92",
+        "shared_name" : "46 (interacts with) 298",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.81612746199,
+        "name" : "46 (interacts with) 298",
+        "interaction" : "interacts with",
+        "SUID" : 179,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "173",
+        "target" : "177",
+        "shared_name" : "46 (interacts with) 116",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.817063701408,
+        "name" : "46 (interacts with) 116",
+        "interaction" : "interacts with",
+        "SUID" : 178,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "172",
+        "target" : "138",
+        "shared_name" : "36 (interacts with) 146",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.786789404855,
+        "name" : "36 (interacts with) 146",
+        "interaction" : "interacts with",
+        "SUID" : 176,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "172",
+        "target" : "135",
+        "shared_name" : "36 (interacts with) 144",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.789134310334,
+        "name" : "36 (interacts with) 144",
+        "interaction" : "interacts with",
+        "SUID" : 175,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "172",
+        "target" : "173",
+        "shared_name" : "36 (interacts with) 46",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.816628303318,
+        "name" : "36 (interacts with) 46",
+        "interaction" : "interacts with",
+        "SUID" : 174,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "255",
+        "source" : "167",
+        "target" : "161",
+        "shared_name" : "63 (interacts with) 384",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.793894549088,
+        "name" : "63 (interacts with) 384",
+        "interaction" : "interacts with",
+        "SUID" : 255,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "163",
+        "target" : "165",
+        "shared_name" : "29 (interacts with) 386",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.775687501609,
+        "name" : "29 (interacts with) 386",
+        "interaction" : "interacts with",
+        "SUID" : 166,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "163",
+        "target" : "159",
+        "shared_name" : "29 (interacts with) 195",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.824503358756,
+        "name" : "29 (interacts with) 195",
+        "interaction" : "interacts with",
+        "SUID" : 164,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "161",
+        "target" : "256",
+        "shared_name" : "384 (interacts with) 282",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.716077794685,
+        "name" : "384 (interacts with) 282",
+        "interaction" : "interacts with",
+        "SUID" : 257,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "159",
+        "target" : "161",
+        "shared_name" : "195 (interacts with) 384",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.836426426059,
+        "name" : "195 (interacts with) 384",
+        "interaction" : "interacts with",
+        "SUID" : 171,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "159",
+        "target" : "169",
+        "shared_name" : "195 (interacts with) 185",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.804224852362,
+        "name" : "195 (interacts with) 185",
+        "interaction" : "interacts with",
+        "SUID" : 170,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "159",
+        "target" : "167",
+        "shared_name" : "195 (interacts with) 63",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.81131177818,
+        "name" : "195 (interacts with) 63",
+        "interaction" : "interacts with",
+        "SUID" : 168,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "155",
+        "target" : "161",
+        "shared_name" : "173 (interacts with) 384",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.794150337394,
+        "name" : "173 (interacts with) 384",
+        "interaction" : "interacts with",
+        "SUID" : 162,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "155",
+        "target" : "159",
+        "shared_name" : "173 (interacts with) 195",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.796131286587,
+        "name" : "173 (interacts with) 195",
+        "interaction" : "interacts with",
+        "SUID" : 160,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "155",
+        "target" : "157",
+        "shared_name" : "173 (interacts with) 137",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.723755918113,
+        "name" : "173 (interacts with) 137",
+        "interaction" : "interacts with",
+        "SUID" : 158,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "154",
+        "target" : "155",
+        "shared_name" : "26 (interacts with) 173",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.791254925793,
+        "name" : "26 (interacts with) 173",
+        "interaction" : "interacts with",
+        "SUID" : 156,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "138",
+        "target" : "88",
+        "shared_name" : "146 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.778739016586,
+        "name" : "146 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 192,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "138",
+        "target" : "92",
+        "shared_name" : "146 (interacts with) 298",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.825673431296,
+        "name" : "146 (interacts with) 298",
+        "interaction" : "interacts with",
+        "SUID" : 191,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "138",
+        "target" : "177",
+        "shared_name" : "146 (interacts with) 116",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.839914517776,
+        "name" : "146 (interacts with) 116",
+        "interaction" : "interacts with",
+        "SUID" : 190,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "135",
+        "target" : "188",
+        "shared_name" : "144 (interacts with) 407",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.740157847377,
+        "name" : "144 (interacts with) 407",
+        "interaction" : "interacts with",
+        "SUID" : 189,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "135",
+        "target" : "92",
+        "shared_name" : "144 (interacts with) 298",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.737246205464,
+        "name" : "144 (interacts with) 298",
+        "interaction" : "interacts with",
+        "SUID" : 187,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "135",
+        "target" : "117",
+        "shared_name" : "144 (interacts with) 200",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.73653500248,
+        "name" : "144 (interacts with) 200",
+        "interaction" : "interacts with",
+        "SUID" : 186,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "135",
+        "target" : "184",
+        "shared_name" : "144 (interacts with) 165",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.744341992303,
+        "name" : "144 (interacts with) 165",
+        "interaction" : "interacts with",
+        "SUID" : 185,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "135",
+        "target" : "138",
+        "shared_name" : "144 (interacts with) 146",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.746856081686,
+        "name" : "144 (interacts with) 146",
+        "interaction" : "interacts with",
+        "SUID" : 183,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "135",
+        "target" : "181",
+        "shared_name" : "144 (interacts with) 42",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.733210339294,
+        "name" : "144 (interacts with) 42",
+        "interaction" : "interacts with",
+        "SUID" : 182,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "source" : "123",
+        "target" : "125",
+        "shared_name" : "398 (interacts with) 431",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.796194965965,
+        "name" : "398 (interacts with) 431",
+        "interaction" : "interacts with",
+        "SUID" : 295,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "source" : "123",
+        "target" : "121",
+        "shared_name" : "398 (interacts with) 317",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.803465639603,
+        "name" : "398 (interacts with) 317",
+        "interaction" : "interacts with",
+        "SUID" : 294,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "123",
+        "target" : "88",
+        "shared_name" : "398 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.784156026741,
+        "name" : "398 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 293,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "123",
+        "target" : "86",
+        "shared_name" : "398 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.788056306436,
+        "name" : "398 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 292,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "123",
+        "target" : "82",
+        "shared_name" : "398 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.743027797263,
+        "name" : "398 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 291,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "117",
+        "target" : "151",
+        "shared_name" : "200 (interacts with) 338",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.812195830085,
+        "name" : "200 (interacts with) 338",
+        "interaction" : "interacts with",
+        "SUID" : 290,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "117",
+        "target" : "88",
+        "shared_name" : "200 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.77639628758,
+        "name" : "200 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 289,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "117",
+        "target" : "86",
+        "shared_name" : "200 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.814574206627,
+        "name" : "200 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 288,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "117",
+        "target" : "82",
+        "shared_name" : "200 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.754256691397,
+        "name" : "200 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "source" : "106",
+        "target" : "102",
+        "shared_name" : "59 (interacts with) 131",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.74501601602,
+        "name" : "59 (interacts with) 131",
+        "interaction" : "interacts with",
+        "SUID" : 254,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "104",
+        "target" : "82",
+        "shared_name" : "47 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.742000165879,
+        "name" : "47 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 251,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "104",
+        "target" : "231",
+        "shared_name" : "47 (interacts with) 254",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.796796019742,
+        "name" : "47 (interacts with) 254",
+        "interaction" : "interacts with",
+        "SUID" : 250,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "100",
+        "target" : "92",
+        "shared_name" : "390 (interacts with) 298",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.843454829706,
+        "name" : "390 (interacts with) 298",
+        "interaction" : "interacts with",
+        "SUID" : 153,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "100",
+        "target" : "151",
+        "shared_name" : "390 (interacts with) 338",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.813647832718,
+        "name" : "390 (interacts with) 338",
+        "interaction" : "interacts with",
+        "SUID" : 152,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "100",
+        "target" : "117",
+        "shared_name" : "390 (interacts with) 200",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.826650718336,
+        "name" : "390 (interacts with) 200",
+        "interaction" : "interacts with",
+        "SUID" : 150,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "100",
+        "target" : "88",
+        "shared_name" : "390 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.766260823811,
+        "name" : "390 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 149,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "100",
+        "target" : "86",
+        "shared_name" : "390 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.781930012691,
+        "name" : "390 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 148,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "100",
+        "target" : "104",
+        "shared_name" : "390 (interacts with) 47",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.791412164987,
+        "name" : "390 (interacts with) 47",
+        "interaction" : "interacts with",
+        "SUID" : 147,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "98",
+        "target" : "88",
+        "shared_name" : "160 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.762045047137,
+        "name" : "160 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 146,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "98",
+        "target" : "86",
+        "shared_name" : "160 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.782339079221,
+        "name" : "160 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "98",
+        "target" : "135",
+        "shared_name" : "160 (interacts with) 144",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.736435422401,
+        "name" : "160 (interacts with) 144",
+        "interaction" : "interacts with",
+        "SUID" : 144,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "98",
+        "target" : "84",
+        "shared_name" : "160 (interacts with) 105",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.832200430531,
+        "name" : "160 (interacts with) 105",
+        "interaction" : "interacts with",
+        "SUID" : 143,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "98",
+        "target" : "82",
+        "shared_name" : "160 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.745276186935,
+        "name" : "160 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 142,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "96",
+        "target" : "117",
+        "shared_name" : "123 (interacts with) 200",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.815458771053,
+        "name" : "123 (interacts with) 200",
+        "interaction" : "interacts with",
+        "SUID" : 141,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "96",
+        "target" : "88",
+        "shared_name" : "123 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.769889264932,
+        "name" : "123 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 140,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "96",
+        "target" : "138",
+        "shared_name" : "123 (interacts with) 146",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.814662608154,
+        "name" : "123 (interacts with) 146",
+        "interaction" : "interacts with",
+        "SUID" : 139,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "96",
+        "target" : "86",
+        "shared_name" : "123 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.797703568066,
+        "name" : "123 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 137,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "96",
+        "target" : "135",
+        "shared_name" : "123 (interacts with) 144",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.7337481651,
+        "name" : "123 (interacts with) 144",
+        "interaction" : "interacts with",
+        "SUID" : 136,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "96",
+        "target" : "102",
+        "shared_name" : "123 (interacts with) 131",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.773069749311,
+        "name" : "123 (interacts with) 131",
+        "interaction" : "interacts with",
+        "SUID" : 134,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "96",
+        "target" : "92",
+        "shared_name" : "123 (interacts with) 298",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.843098394779,
+        "name" : "123 (interacts with) 298",
+        "interaction" : "interacts with",
+        "SUID" : 133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "96",
+        "target" : "98",
+        "shared_name" : "123 (interacts with) 160",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.859360092876,
+        "name" : "123 (interacts with) 160",
+        "interaction" : "interacts with",
+        "SUID" : 132,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "96",
+        "target" : "82",
+        "shared_name" : "123 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.757030248098,
+        "name" : "123 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 131,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "96",
+        "target" : "106",
+        "shared_name" : "123 (interacts with) 59",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.812577169079,
+        "name" : "123 (interacts with) 59",
+        "interaction" : "interacts with",
+        "SUID" : 130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "96",
+        "target" : "104",
+        "shared_name" : "123 (interacts with) 47",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.793999440611,
+        "name" : "123 (interacts with) 47",
+        "interaction" : "interacts with",
+        "SUID" : 129,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "94",
+        "target" : "102",
+        "shared_name" : "25 (interacts with) 131",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.756006546431,
+        "name" : "25 (interacts with) 131",
+        "interaction" : "interacts with",
+        "SUID" : 103,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "94",
+        "target" : "100",
+        "shared_name" : "25 (interacts with) 390",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.807273845741,
+        "name" : "25 (interacts with) 390",
+        "interaction" : "interacts with",
+        "SUID" : 101,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "94",
+        "target" : "98",
+        "shared_name" : "25 (interacts with) 160",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.807784623837,
+        "name" : "25 (interacts with) 160",
+        "interaction" : "interacts with",
+        "SUID" : 99,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "94",
+        "target" : "96",
+        "shared_name" : "25 (interacts with) 123",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.836640002838,
+        "name" : "25 (interacts with) 123",
+        "interaction" : "interacts with",
+        "SUID" : 97,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "source" : "94",
+        "target" : "90",
+        "shared_name" : "25 (interacts with) 102",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.814264201169,
+        "name" : "25 (interacts with) 102",
+        "interaction" : "interacts with",
+        "SUID" : 95,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "92",
+        "target" : "248",
+        "shared_name" : "298 (interacts with) 585",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.791476678291,
+        "name" : "298 (interacts with) 585",
+        "interaction" : "interacts with",
+        "SUID" : 249,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "source" : "92",
+        "target" : "246",
+        "shared_name" : "298 (interacts with) 552",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.727247180874,
+        "name" : "298 (interacts with) 552",
+        "interaction" : "interacts with",
+        "SUID" : 247,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "92",
+        "target" : "244",
+        "shared_name" : "298 (interacts with) 536",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.753614093092,
+        "name" : "298 (interacts with) 536",
+        "interaction" : "interacts with",
+        "SUID" : 245,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "92",
+        "target" : "242",
+        "shared_name" : "298 (interacts with) 510",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.794101194488,
+        "name" : "298 (interacts with) 510",
+        "interaction" : "interacts with",
+        "SUID" : 243,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "92",
+        "target" : "240",
+        "shared_name" : "298 (interacts with) 465",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.810955567725,
+        "name" : "298 (interacts with) 465",
+        "interaction" : "interacts with",
+        "SUID" : 241,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "92",
+        "target" : "238",
+        "shared_name" : "298 (interacts with) 403",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.767864940258,
+        "name" : "298 (interacts with) 403",
+        "interaction" : "interacts with",
+        "SUID" : 239,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "92",
+        "target" : "123",
+        "shared_name" : "298 (interacts with) 398",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.825669414207,
+        "name" : "298 (interacts with) 398",
+        "interaction" : "interacts with",
+        "SUID" : 237,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "92",
+        "target" : "235",
+        "shared_name" : "298 (interacts with) 348",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.826003659662,
+        "name" : "298 (interacts with) 348",
+        "interaction" : "interacts with",
+        "SUID" : 236,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "92",
+        "target" : "233",
+        "shared_name" : "298 (interacts with) 269",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.848134359302,
+        "name" : "298 (interacts with) 269",
+        "interaction" : "interacts with",
+        "SUID" : 234,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "92",
+        "target" : "231",
+        "shared_name" : "298 (interacts with) 254",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.84711496072,
+        "name" : "298 (interacts with) 254",
+        "interaction" : "interacts with",
+        "SUID" : 232,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "92",
+        "target" : "117",
+        "shared_name" : "298 (interacts with) 200",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.816085410221,
+        "name" : "298 (interacts with) 200",
+        "interaction" : "interacts with",
+        "SUID" : 230,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "source" : "92",
+        "target" : "88",
+        "shared_name" : "298 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.772044721646,
+        "name" : "298 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 229,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "92",
+        "target" : "86",
+        "shared_name" : "298 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.784089372319,
+        "name" : "298 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 228,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "source" : "92",
+        "target" : "226",
+        "shared_name" : "298 (interacts with) 122",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.827021027774,
+        "name" : "298 (interacts with) 122",
+        "interaction" : "interacts with",
+        "SUID" : 227,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "92",
+        "target" : "84",
+        "shared_name" : "298 (interacts with) 105",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.834518645203,
+        "name" : "298 (interacts with) 105",
+        "interaction" : "interacts with",
+        "SUID" : 225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "source" : "92",
+        "target" : "82",
+        "shared_name" : "298 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.74430974452,
+        "name" : "298 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 224,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "92",
+        "target" : "80",
+        "shared_name" : "298 (interacts with) 84",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.718329838278,
+        "name" : "298 (interacts with) 84",
+        "interaction" : "interacts with",
+        "SUID" : 223,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "source" : "92",
+        "target" : "221",
+        "shared_name" : "298 (interacts with) 65",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.770170873515,
+        "name" : "298 (interacts with) 65",
+        "interaction" : "interacts with",
+        "SUID" : 222,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "92",
+        "target" : "219",
+        "shared_name" : "298 (interacts with) 51",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.819669833386,
+        "name" : "298 (interacts with) 51",
+        "interaction" : "interacts with",
+        "SUID" : 220,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "92",
+        "target" : "104",
+        "shared_name" : "298 (interacts with) 47",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.800376836825,
+        "name" : "298 (interacts with) 47",
+        "interaction" : "interacts with",
+        "SUID" : 218,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "90",
+        "target" : "127",
+        "shared_name" : "102 (interacts with) 570",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.812543628236,
+        "name" : "102 (interacts with) 570",
+        "interaction" : "interacts with",
+        "SUID" : 128,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "90",
+        "target" : "125",
+        "shared_name" : "102 (interacts with) 431",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.78759285925,
+        "name" : "102 (interacts with) 431",
+        "interaction" : "interacts with",
+        "SUID" : 126,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "90",
+        "target" : "123",
+        "shared_name" : "102 (interacts with) 398",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.828784467815,
+        "name" : "102 (interacts with) 398",
+        "interaction" : "interacts with",
+        "SUID" : 124,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "90",
+        "target" : "121",
+        "shared_name" : "102 (interacts with) 317",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.796115861971,
+        "name" : "102 (interacts with) 317",
+        "interaction" : "interacts with",
+        "SUID" : 122,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "source" : "90",
+        "target" : "119",
+        "shared_name" : "102 (interacts with) 250",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.798872554531,
+        "name" : "102 (interacts with) 250",
+        "interaction" : "interacts with",
+        "SUID" : 120,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "90",
+        "target" : "117",
+        "shared_name" : "102 (interacts with) 200",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.818896984061,
+        "name" : "102 (interacts with) 200",
+        "interaction" : "interacts with",
+        "SUID" : 118,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "source" : "90",
+        "target" : "115",
+        "shared_name" : "102 (interacts with) 184",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.837110966365,
+        "name" : "102 (interacts with) 184",
+        "interaction" : "interacts with",
+        "SUID" : 116,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "90",
+        "target" : "98",
+        "shared_name" : "102 (interacts with) 160",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.842781928567,
+        "name" : "102 (interacts with) 160",
+        "interaction" : "interacts with",
+        "SUID" : 114,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "source" : "90",
+        "target" : "88",
+        "shared_name" : "102 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.764364108004,
+        "name" : "102 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 113,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "source" : "90",
+        "target" : "86",
+        "shared_name" : "102 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.787755414766,
+        "name" : "102 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 112,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "90",
+        "target" : "102",
+        "shared_name" : "102 (interacts with) 131",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.752213434495,
+        "name" : "102 (interacts with) 131",
+        "interaction" : "interacts with",
+        "SUID" : 111,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "90",
+        "target" : "96",
+        "shared_name" : "102 (interacts with) 123",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.864948120484,
+        "name" : "102 (interacts with) 123",
+        "interaction" : "interacts with",
+        "SUID" : 110,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "source" : "90",
+        "target" : "82",
+        "shared_name" : "102 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.750968374995,
+        "name" : "102 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 109,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "90",
+        "target" : "80",
+        "shared_name" : "102 (interacts with) 84",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.717293438676,
+        "name" : "102 (interacts with) 84",
+        "interaction" : "interacts with",
+        "SUID" : 108,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "source" : "90",
+        "target" : "106",
+        "shared_name" : "102 (interacts with) 59",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.83125742463,
+        "name" : "102 (interacts with) 59",
+        "interaction" : "interacts with",
+        "SUID" : 107,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "90",
+        "target" : "104",
+        "shared_name" : "102 (interacts with) 47",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.796848047395,
+        "name" : "102 (interacts with) 47",
+        "interaction" : "interacts with",
+        "SUID" : 105,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "source" : "86",
+        "target" : "88",
+        "shared_name" : "145 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.765653940662,
+        "name" : "145 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 297,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "84",
+        "target" : "125",
+        "shared_name" : "105 (interacts with) 431",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.791127918904,
+        "name" : "105 (interacts with) 431",
+        "interaction" : "interacts with",
+        "SUID" : 286,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "84",
+        "target" : "88",
+        "shared_name" : "105 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.785644017253,
+        "name" : "105 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 285,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "84",
+        "target" : "86",
+        "shared_name" : "105 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.788731138832,
+        "name" : "105 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 284,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "84",
+        "target" : "123",
+        "shared_name" : "105 (interacts with) 398",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.839729379597,
+        "name" : "105 (interacts with) 398",
+        "interaction" : "interacts with",
+        "SUID" : 283,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "84",
+        "target" : "82",
+        "shared_name" : "105 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.750654615473,
+        "name" : "105 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 282,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "82",
+        "target" : "86",
+        "shared_name" : "93 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.742876365704,
+        "name" : "93 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 296,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "80",
+        "target" : "123",
+        "shared_name" : "84 (interacts with) 398",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.72811585847,
+        "name" : "84 (interacts with) 398",
+        "interaction" : "interacts with",
+        "SUID" : 281,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "80",
+        "target" : "117",
+        "shared_name" : "84 (interacts with) 200",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.720749657923,
+        "name" : "84 (interacts with) 200",
+        "interaction" : "interacts with",
+        "SUID" : 280,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "80",
+        "target" : "84",
+        "shared_name" : "84 (interacts with) 105",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.722015904737,
+        "name" : "84 (interacts with) 105",
+        "interaction" : "interacts with",
+        "SUID" : 279,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "78",
+        "target" : "92",
+        "shared_name" : "427 (interacts with) 298",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.830342625088,
+        "name" : "427 (interacts with) 298",
+        "interaction" : "interacts with",
+        "SUID" : 93,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "78",
+        "target" : "90",
+        "shared_name" : "427 (interacts with) 102",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.825340259995,
+        "name" : "427 (interacts with) 102",
+        "interaction" : "interacts with",
+        "SUID" : 91,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "source" : "78",
+        "target" : "88",
+        "shared_name" : "427 (interacts with) 152",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.771947776895,
+        "name" : "427 (interacts with) 152",
+        "interaction" : "interacts with",
+        "SUID" : 89,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "source" : "78",
+        "target" : "86",
+        "shared_name" : "427 (interacts with) 145",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.782278930764,
+        "name" : "427 (interacts with) 145",
+        "interaction" : "interacts with",
+        "SUID" : 87,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "source" : "78",
+        "target" : "84",
+        "shared_name" : "427 (interacts with) 105",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.82834374303,
+        "name" : "427 (interacts with) 105",
+        "interaction" : "interacts with",
+        "SUID" : 85,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "source" : "78",
+        "target" : "82",
+        "shared_name" : "427 (interacts with) 93",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.744798689112,
+        "name" : "427 (interacts with) 93",
+        "interaction" : "interacts with",
+        "SUID" : 83,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "source" : "78",
+        "target" : "80",
+        "shared_name" : "427 (interacts with) 84",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.722641463987,
+        "name" : "427 (interacts with) 84",
+        "interaction" : "interacts with",
+        "SUID" : 81,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "source" : "77",
+        "target" : "78",
+        "shared_name" : "13 (interacts with) 427",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.802576878577,
+        "name" : "13 (interacts with) 427",
+        "interaction" : "interacts with",
+        "SUID" : 79,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "source" : "74",
+        "target" : "75",
+        "shared_name" : "12 (interacts with) 16",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.751291222148,
+        "name" : "12 (interacts with) 16",
+        "interaction" : "interacts with",
+        "SUID" : 76,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "source" : "71",
+        "target" : "72",
+        "shared_name" : "6 (interacts with) 17",
+        "shared_interaction" : "interacts with",
+        "_WEIGHT" : 0.817612181314,
+        "name" : "6 (interacts with) 17",
+        "interaction" : "interacts with",
+        "SUID" : 73,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

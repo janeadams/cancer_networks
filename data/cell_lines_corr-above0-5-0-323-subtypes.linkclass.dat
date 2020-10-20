@@ -1,0 +1,54 @@
+#SOURCE	#TARGET	#LINK
+Adenocarcinoma	Adenocarcinoma	44
+NSCLC-Adenocarcinoma	Adenocarcinoma	37
+NSCLC-Adenocarcinoma	NSCLC-Adenocarcinoma	11
+AML	AML	9
+Adenocarcinoma	Neuroblastoma	8
+Neuroblastoma	Neuroblastoma	8
+Adenocarcinoma	Adenosquamous Carcinoma	6
+Squamous Cell Carcinoma	Squamous Cell Carcinoma	5
+ALL	ALL	5
+Carcinoma	Adenocarcinoma	3
+NSCLC-Adenocarcinoma	Neuroblastoma	2
+Carcinoma	Carcinoma	2
+Adenocarcinoma	Medulloblastoma	2
+Adenocarcinoma	NSCLC-Large Cell	2
+Adenocarcinoma	Rhabdomyosarcoma	2
+Adenocarcinoma	Retinoblastoma	2
+Renal Cell Carcinoma	Renal Carcinoma, clear cell	2
+NSCLC-Adenocarcinoma	Carcinoma	1
+NSCLC-Adenocarcinoma	Adenosquamous Carcinoma	1
+NSCLC-Adenocarcinoma	NSCLC-Large Cell	1
+NSCLC-Adenocarcinoma	Retinoblastoma	1
+Adenocarcinoma	Atypical Teratoid Rhabdoid Tumor (ATRT)	1
+Adenocarcinoma	Hepatocellular Carcinoma	1
+Adenocarcinoma	Carcinoma, brenner	1
+Adenocarcinoma	SCLC	1
+Adenocarcinoma	Mesothelioma	1
+Adenocarcinoma	Melanoma	1
+Adenocarcinoma	Glioma	1
+Adenocarcinoma	Leiomyosarcoma	1
+Adenocarcinoma	Osteosarcoma	1
+Adenocarcinoma	Meningioma	1
+Adenocarcinoma	Synovial	1
+Adenocarcinoma	Glioblastoma	1
+Adenocarcinoma	Transitional Cell Carcinoma	1
+Adenocarcinoma	Malignant Rhabdoid Tumor	1
+AML	Non-Hodgkins, T-cell	1
+AML	ALL	1
+Non-Hodgkins, T-cell	Non-Hodgkins, T-cell	1
+Neuroblastoma	Medulloblastoma	1
+Medulloblastoma	Retinoblastoma	1
+Atypical Teratoid Rhabdoid Tumor (ATRT)	Squamous Cell Carcinoma	1
+Atypical Teratoid Rhabdoid Tumor (ATRT)	Merkel Cell Carcinoma	1
+Hodgkins	Merkel Cell Carcinoma	1
+Non-Hodgkins, B-cell	Non-Hodgkins, B-cell	1
+Squamous Cell Carcinoma	Carcinoma, mucoepidermoid	1
+Squamous Cell Carcinoma	Merkel Cell Carcinoma	1
+Melanoma	Melanoma	1
+Melanoma	Retinoblastoma	1
+Renal Carcinoma, clear cell	Renal Carcinoma, clear cell	1
+Carcinoma, mucoepidermoid	Leiomyosarcoma	1
+Leiomyosarcoma	Merkel Cell Carcinoma	1
+Rhabdomyosarcoma	Rhabdomyosarcoma	1
+Transitional Cell Carcinoma	Uveal Melanoma	1

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vizmap id="VizMap-2020_09_14-14_45" documentVersion="3.0">
+    <visualStyle name="default">
+        <network>
+            <visualProperty default="400.0" name="NETWORK_HEIGHT"/>
+            <visualProperty default="false" name="NETWORK_ANNOTATION_SELECTION"/>
+            <visualProperty default="false" name="NETWORK_NODE_LABEL_SELECTION"/>
+            <visualProperty default="" name="NETWORK_TITLE"/>
+            <visualProperty default="#FFFFFF" name="NETWORK_BACKGROUND_PAINT"/>
+            <visualProperty default="false" name="NETWORK_FORCE_HIGH_DETAIL"/>
+            <visualProperty default="0.0" name="NETWORK_CENTER_Z_LOCATION"/>
+            <visualProperty default="true" name="NETWORK_EDGE_SELECTION"/>
+            <visualProperty default="0.0" name="NETWORK_CENTER_Y_LOCATION"/>
+            <visualProperty default="0.0" name="NETWORK_DEPTH"/>
+            <visualProperty default="1.0" name="NETWORK_SCALE_FACTOR"/>
+            <visualProperty default="550.0" name="NETWORK_SIZE"/>
+            <visualProperty default="true" name="NETWORK_NODE_SELECTION"/>
+            <visualProperty default="0.0" name="NETWORK_CENTER_X_LOCATION"/>
+            <visualProperty default="550.0" name="NETWORK_WIDTH"/>
+        </network>
+        <node>
+            <dependency value="true" name="nodeCustomGraphicsSizeSync"/>
+            <dependency value="false" name="nodeSizeLocked"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_9, name=Node Custom Paint 9)" name="NODE_CUSTOMPAINT_9"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_5, name=Node Custom Paint 5)" name="NODE_CUSTOMPAINT_5"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_7"/>
+            <visualProperty default="12" name="NODE_LABEL_FONT_SIZE"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_9"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_6"/>
+            <visualProperty default="ROUND_RECTANGLE" name="NODE_SHAPE">
+                <discreteMapping attributeName="Subtype Disease" attributeType="string"/>
+            </visualProperty>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_4, name=Node Custom Paint 4)" name="NODE_CUSTOMPAINT_4"/>
+            <visualProperty default="0.0" name="NODE_Y_LOCATION"/>
+            <visualProperty default="0.0" name="NODE_Z_LOCATION"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_1, name=Node Custom Paint 1)" name="NODE_CUSTOMPAINT_1"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_2"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_9"/>
+            <visualProperty default="8.0" name="NODE_BORDER_WIDTH"/>
+            <visualProperty default="200.0" name="NODE_LABEL_WIDTH"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_8"/>
+            <visualProperty default="35.0" name="NODE_HEIGHT"/>
+            <visualProperty default="150.0" name="NODE_WIDTH"/>
+            <visualProperty default="#CCCCCC" name="NODE_BORDER_PAINT">
+                <discreteMapping attributeName="Subtype Disease" attributeType="string">
+                    <discreteMappingEntry attributeValue="Adenocarcinoma" value="#D2EEBB"/>
+                    <discreteMappingEntry attributeValue="ALL" value="#8DD3C7"/>
+                    <discreteMappingEntry attributeValue="Transitional Cell Carcinoma" value="#C7CBC3"/>
+                    <discreteMappingEntry attributeValue="Carcinoma" value="#DEDBC7"/>
+                    <discreteMappingEntry attributeValue="Glioblastoma" value="#D8A1AE"/>
+                    <discreteMappingEntry attributeValue="NSCLC-Large Cell" value="#B7DD71"/>
+                    <discreteMappingEntry attributeValue="Rhabdomyosarcoma" value="#CBAECB"/>
+                    <discreteMappingEntry attributeValue="Mesothelioma" value="#DBC765"/>
+                    <discreteMappingEntry attributeValue="Neuroblastoma" value="#CED896"/>
+                    <discreteMappingEntry attributeValue="Carcinoma, brenner" value="#CAC7D3"/>
+                    <discreteMappingEntry attributeValue="Non-Hodgkins, T-cell" value="#FACEE1"/>
+                    <discreteMappingEntry attributeValue="Adenosquamous Carcinoma" value="#F5FBB5"/>
+                    <discreteMappingEntry attributeValue="Osteosarcoma" value="#F2D0E2"/>
+                    <discreteMappingEntry attributeValue="Squamous Cell Carcinoma" value="#BD8ABE"/>
+                    <discreteMappingEntry attributeValue="Renal Cell Carcinoma" value="#DDD8DA"/>
+                    <discreteMappingEntry attributeValue="Hepatocellular Carcinoma" value="#F78175"/>
+                    <discreteMappingEntry attributeValue="AML" value="#B0E0C1"/>
+                    <discreteMappingEntry attributeValue="SCLC" value="#C293C3"/>
+                    <discreteMappingEntry attributeValue="Uveal Melanoma" value="#CCEBC5"/>
+                    <discreteMappingEntry attributeValue="Renal Carcinoma, clear cell" value="#E8D4DE"/>
+                    <discreteMappingEntry attributeValue="Hodgkins" value="#D29092"/>
+                    <discreteMappingEntry attributeValue="Melanoma" value="#C4B395"/>
+                    <discreteMappingEntry attributeValue="Merkel Cell Carcinoma" value="#F2BA63"/>
+                    <discreteMappingEntry attributeValue="NSCLC-Adenocarcinoma" value="#C5D467"/>
+                    <discreteMappingEntry attributeValue="Non-Hodgkins, B-cell" value="#E4D3BC"/>
+                    <discreteMappingEntry attributeValue="Glioma" value="#EA908E"/>
+                    <discreteMappingEntry attributeValue="Medulloblastoma" value="#9EB2B8"/>
+                    <discreteMappingEntry attributeValue="Leiomyosarcoma" value="#AD9FB0"/>
+                    <discreteMappingEntry attributeValue="Carcinoma, mucoepidermoid" value="#C5B3CD"/>
+                    <discreteMappingEntry attributeValue="Synovial" value="#C2AAC0"/>
+                    <discreteMappingEntry attributeValue="Malignant Rhabdoid Tumor" value="#87AECD"/>
+                    <discreteMappingEntry attributeValue="Retinoblastoma" value="#D4C9D4"/>
+                    <discreteMappingEntry attributeValue="Meningioma" value="#EAB473"/>
+                    <discreteMappingEntry attributeValue="Atypical Teratoid Rhabdoid Tumor (ATRT)" value="#F1F0BB"/>
+                </discreteMapping>
+            </visualProperty>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_8"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_7"/>
+            <visualProperty default="255" name="NODE_LABEL_TRANSPARENCY"/>
+            <visualProperty default="" name="NODE_TOOLTIP"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_6"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_6, name=Node Custom Paint 6)" name="NODE_CUSTOMPAINT_6"/>
+            <visualProperty default="255" name="NODE_TRANSPARENCY"/>
+            <visualProperty default="" name="NODE_LABEL">
+                <passthroughMapping attributeName="Primary Disease" attributeType="string"/>
+            </visualProperty>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_9"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_1"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_3"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_LABEL_POSITION"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_3"/>
+            <visualProperty default="10.0" name="COMPOUND_NODE_PADDING"/>
+            <visualProperty default="#000000" name="NODE_LABEL_COLOR"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_2, name=Node Custom Paint 2)" name="NODE_CUSTOMPAINT_2"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_4"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_7, name=Node Custom Paint 7)" name="NODE_CUSTOMPAINT_7"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_4"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_5"/>
+            <visualProperty default="0.0" name="NODE_X_LOCATION"/>
+            <visualProperty default="true" name="NODE_NESTED_NETWORK_IMAGE_VISIBLE"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_6"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_7"/>
+            <visualProperty default="35.0" name="NODE_SIZE"/>
+            <visualProperty default="ROUND_RECTANGLE" name="COMPOUND_NODE_SHAPE"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_8, name=Node Custom Paint 8)" name="NODE_CUSTOMPAINT_8"/>
+            <visualProperty default="DefaultVisualizableVisualProperty(id=NODE_CUSTOMPAINT_3, name=Node Custom Paint 3)" name="NODE_CUSTOMPAINT_3"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_2"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_3"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_8"/>
+            <visualProperty default="SOLID" name="NODE_BORDER_STROKE"/>
+            <visualProperty default="0.0" name="NODE_DEPTH"/>
+            <visualProperty default="#1E90FF" name="NODE_PAINT"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_4"/>
+            <visualProperty default="false" name="NODE_SELECTED"/>
+            <visualProperty default="255" name="NODE_BORDER_TRANSPARENCY"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_5"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_1"/>
+            <visualProperty default="org.cytoscape.ding.customgraphics.NullCustomGraphics,0,[ Remove Graphics ]," name="NODE_CUSTOMGRAPHICS_5"/>
+            <visualProperty default="50.0" name="NODE_CUSTOMGRAPHICS_SIZE_2"/>
+            <visualProperty default="#6600FF" name="NODE_FILL_COLOR">
+                <discreteMapping attributeName="Primary Disease" attributeType="string">
+                    <discreteMappingEntry attributeValue="Colon/Colorectal Cancer" value="#46A06D"/>
+                    <discreteMappingEntry attributeValue="Lung Cancer" value="#FAF632"/>
+                    <discreteMappingEntry attributeValue="Sarcoma" value="#C18FA9"/>
+                    <discreteMappingEntry attributeValue="Leukemia" value="#FF9A0B"/>
+                    <discreteMappingEntry attributeValue="Head and Neck Cancer" value="#BE6067"/>
+                    <discreteMappingEntry attributeValue="Bladder Cancer" value="#E41A1C"/>
+                    <discreteMappingEntry attributeValue="Liver Cancer" value="#FFD020"/>
+                    <discreteMappingEntry attributeValue="Neuroblastoma" value="#AF6829"/>
+                    <discreteMappingEntry attributeValue="Pancreatic Cancer" value="#E27697"/>
+                    <discreteMappingEntry attributeValue="Breast Cancer" value="#3D8B9B"/>
+                    <discreteMappingEntry attributeValue="Lymphoma" value="#D5AF2E"/>
+                    <discreteMappingEntry attributeValue="Eye Cancer" value="#94539E"/>
+                    <discreteMappingEntry attributeValue="Bone Cancer" value="#9B445E"/>
+                    <discreteMappingEntry attributeValue="Ovarian Cancer" value="#C06458"/>
+                    <discreteMappingEntry attributeValue="Skin Cancer" value="#999999"/>
+                    <discreteMappingEntry attributeValue="Endometrial/Uterine Cancer" value="#55A553"/>
+                    <discreteMappingEntry attributeValue="Esophageal Cancer" value="#747C79"/>
+                    <discreteMappingEntry attributeValue="Brain Cancer" value="#526E9F"/>
+                    <discreteMappingEntry attributeValue="Kidney Cancer" value="#E97522"/>
+                    <discreteMappingEntry attributeValue="Rhabdoid" value="#E885B9"/>
+                </discreteMapping>
+            </visualProperty>
+            <visualProperty default="SansSerif,plain,12" name="NODE_LABEL_FONT_FACE"/>
+            <visualProperty default="#FFFF00" name="NODE_SELECTED_PAINT"/>
+            <visualProperty default="true" name="NODE_VISIBLE"/>
+            <visualProperty default="C,C,c,0.00,0.00" name="NODE_CUSTOMGRAPHICS_POSITION_1"/>
+        </node>
+        <edge>
+            <dependency value="false" name="arrowColorMatchesEdge"/>
+            <visualProperty default="NONE" name="EDGE_SOURCE_ARROW_SHAPE"/>
+            <visualProperty default="#FFFF00" name="EDGE_TARGET_ARROW_SELECTED_PAINT"/>
+            <visualProperty default="" name="EDGE_TOOLTIP"/>
+            <visualProperty default="#000000" name="EDGE_TARGET_ARROW_UNSELECTED_PAINT"/>
+            <visualProperty default="6.0" name="EDGE_SOURCE_ARROW_SIZE"/>
+            <visualProperty default="#FF0000" name="EDGE_STROKE_SELECTED_PAINT"/>
+            <visualProperty default="Dialog,plain,10" name="EDGE_LABEL_FONT_FACE"/>
+            <visualProperty default="false" name="EDGE_SELECTED"/>
+            <visualProperty default="#323232" name="EDGE_PAINT"/>
+            <visualProperty default="#848484" name="EDGE_STROKE_UNSELECTED_PAINT"/>
+            <visualProperty default="SOLID" name="EDGE_LINE_TYPE"/>
+            <visualProperty default="true" name="EDGE_CURVED"/>
+            <visualProperty default="255" name="EDGE_TRANSPARENCY"/>
+            <visualProperty default="true" name="EDGE_VISIBLE"/>
+            <visualProperty default="#404040" name="EDGE_UNSELECTED_PAINT"/>
+            <visualProperty default="2.0" name="EDGE_WIDTH">
+                <continuousMapping attributeName="#WEIGHT" attributeType="float">
+                    <continuousMappingPoint attrValue="0.715665360128" equalValue="4.06015037593985" greaterValue="4.06015037593985" lesserValue="1.0"/>
+                    <continuousMappingPoint attrValue="0.935339120287" equalValue="15.082044128188514" greaterValue="1.0" lesserValue="15.082044128188514"/>
+                </continuousMapping>
+            </visualProperty>
+            <visualProperty default="255" name="EDGE_LABEL_TRANSPARENCY"/>
+            <visualProperty default="#FFFF00" name="EDGE_SOURCE_ARROW_SELECTED_PAINT"/>
+            <visualProperty default="6.0" name="EDGE_TARGET_ARROW_SIZE"/>
+            <visualProperty default="" name="EDGE_BEND"/>
+            <visualProperty default="" name="EDGE_LABEL"/>
+            <visualProperty default="#FF0000" name="EDGE_SELECTED_PAINT"/>
+            <visualProperty default="#000000" name="EDGE_SOURCE_ARROW_UNSELECTED_PAINT"/>
+            <visualProperty default="NONE" name="EDGE_TARGET_ARROW_SHAPE"/>
+            <visualProperty default="10" name="EDGE_LABEL_FONT_SIZE"/>
+            <visualProperty default="200.0" name="EDGE_LABEL_WIDTH"/>
+            <visualProperty default="#000000" name="EDGE_LABEL_COLOR"/>
+        </edge>
+    </visualStyle>
+</vizmap>
