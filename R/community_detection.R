@@ -28,12 +28,13 @@ node_colors <- c('#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231',
                  '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', 
                  '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', 
                  '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080')
-names(node_colors) <- rev(cancer_types)
+node_colors <- sample(node_colors)
+names(node_colors) <- cancer_types
 
 V(g)$color <- node_colors[V(g)$primary_disease]
 
 l = layout_with_fr(g)
-png("../figures/network_cell_type.png", 1200, 1200)
+png("../figures/network_cell_type.png", 1800, 1800)
 plot(g, vertex.label=NA, vertex.color=V(g)$color, 
      vertex.size= degree(g)/2 + 3,  edge.width=E(g)$weight, 
      edge.color="grey50", layout = l)
@@ -44,7 +45,7 @@ png("../figures/network_legend.png", 1000, 2200)
 plot.new()
 legend("bottomleft", bty = "n",
        legend = names(node_colors),
-       fill = node_colors, border=NA, cex = 4)
+       fill = node_colors, border=NA, cex = 5)
 
 dev.off()
 
@@ -65,11 +66,11 @@ data.frame(color = comm_colors, community = names(groups(commun))) %>%
 library(RColorBrewer)
 cancer_subtype <- names(table(V(g)$subtype_disease))
 
-node_colors <- colorRampPalette(brewer.pal(12, "Paired"))(length(cancer_subtype))
+node_colors <- colorRampPalette(brewer.pal(8, "Set1"))(length(cancer_subtype))
 names(node_colors) <- cancer_subtype
 V(g)$color <- node_colors[V(g)$subtype_disease]
 
-png("../figures/network_cell_subtype.png", 1200, 1200)
+png("../figures/network_cell_subtype.png", 1800, 1800)
 plot(g, vertex.label=NA, vertex.color=V(g)$color, 
      vertex.size= degree(g)/2 + 3,  edge.width=E(g)$weight, 
      edge.color="grey50", layout = l)
@@ -79,5 +80,5 @@ png("../figures/network_subtype_legend.png", 1000, 2200)
 plot.new()
 legend("bottomleft", bty = "n",
        legend = names(node_colors),
-       fill = node_colors, border=NA, cex = 4)
+       fill = node_colors, border=NA, cex = 5)
 dev.off()
