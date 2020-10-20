@@ -34,18 +34,18 @@ names(node_colors) <- cancer_types
 V(g)$color <- node_colors[V(g)$primary_disease]
 
 l = layout_with_fr(g)
-png("../figures/network_cell_type.png", 1800, 1800)
+png("../figures/network_cell_type.png", 2000, 2000)
 plot(g, vertex.label=NA, vertex.color=V(g)$color, 
-     vertex.size= degree(g)/2 + 3,  edge.width=E(g)$weight, 
+     vertex.size= degree(g)/2 + 3,  edge.width=1.5, 
      edge.color="grey50", layout = l)
 dev.off()
 
 ### Legend
-png("../figures/network_legend.png", 1000, 2200)
+png("../figures/network_legend.png", 1500, 2000)
 plot.new()
 legend("bottomleft", bty = "n",
        legend = names(node_colors),
-       fill = node_colors, border=NA, cex = 5)
+       fill = node_colors, border=NA, cex = 6)
 
 dev.off()
 
@@ -54,29 +54,37 @@ comm_colors = rainbow(length(commun), alpha = 0.3)
 comm_colors = sample(comm_colors)
 png("../figures/network_cell_type_communities_big.png", 3200, 3200)
 plot(g, vertex.label=NA, vertex.color=V(g)$color, 
-        vertex.size=degree(g),  edge.width=E(g)$weight, 
+        vertex.size=degree(g)/2 + 3,  edge.width=1.5, 
         edge.color="grey50", layout = l, mark.groups = groups(commun), 
         mark.border=NA, mark.col = comm_colors)
+dev.off()
+
+png("../figures/network_cell_type_communities.png", 2000, 2000)
+plot(g, vertex.label=NA, vertex.color=V(g)$color, 
+     vertex.size=degree(g)/2 + 3,  edge.width=1.5, 
+     edge.color="grey50", layout = l, mark.groups = groups(commun), 
+     mark.border=NA, mark.col = comm_colors)
 dev.off()
 
 data.frame(color = comm_colors, community = names(groups(commun))) %>% 
         write_tsv("../data/community_colors.tsv")
 
 ### by subtype 
-library(RColorBrewer)
+library(pals)
 cancer_subtype <- names(table(V(g)$subtype_disease))
 
-node_colors <- colorRampPalette(brewer.pal(8, "Set1"))(length(cancer_subtype))
+node_colors <- colorRampPalette(polychrome())(length(cancer_subtype))
+node_colors <- sample(node_colors)
 names(node_colors) <- cancer_subtype
 V(g)$color <- node_colors[V(g)$subtype_disease]
 
-png("../figures/network_cell_subtype.png", 1800, 1800)
+png("../figures/network_cell_subtype.png", 2000, 2000)
 plot(g, vertex.label=NA, vertex.color=V(g)$color, 
-     vertex.size= degree(g)/2 + 3,  edge.width=E(g)$weight, 
+     vertex.size=degree(g)/2 + 3,  edge.width=1.5, 
      edge.color="grey50", layout = l)
 dev.off()
 
-png("../figures/network_subtype_legend.png", 1000, 2200)
+png("../figures/network_subtype_legend.png", 1500, 2800)
 plot.new()
 legend("bottomleft", bty = "n",
        legend = names(node_colors),
